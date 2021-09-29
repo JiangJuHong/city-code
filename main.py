@@ -6,6 +6,7 @@
 import requests
 import bs4
 import json
+import pinyin
 
 
 # 请求政府网，获得数据结构
@@ -36,7 +37,16 @@ if __name__ == '__main__':
         level = item.count("\xa0\xa0")
         code = its[0].strip()
         name = its[1]
+        py = ""
 
-        result.append({"level": level, "code": code, "name": name})
+        for key in list(name):
+            py += pinyin.get(key)[0]
+
+        result.append({
+            "level": level,
+            "code": code,
+            "name": name,
+            "py": py
+        })
 
     print(json.dumps(result, ensure_ascii=False))
