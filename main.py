@@ -46,7 +46,8 @@ if __name__ == '__main__':
             "level": level,
             "code": code,
             "name": name,
-            "py": py
+            "initials": py,
+            "pinyin": pinyin.get(name)
         })
 
     print(json.dumps(result, ensure_ascii=False))

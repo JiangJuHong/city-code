@@ -12,13 +12,15 @@
         "level":0,
         "code":"110000",
         "name":"北京市",
-        "py": "bjs"
+        "initials": "bjs",
+        "pinyin": "běijīngshì"
   },
   {
         "level":1,
         "code":"110100",
         "name":"市辖区",
-        "py": "sxq"
+        "initials": "sxq",
+        "pinyin": "shìxiáqū"
     }
 ]
 ````
@@ -34,7 +36,8 @@
 | level | 等级         | 省0市1区2.... |
 | name  | 名称         | 北京市        |
 | code  | 行政区划代码 | 110000        |
-| py  | 拼音首字母缩写 | bjs       |
+| initials  | 拼音首字母缩写 | bjs       |
+| pinyin  | 完整拼音 | běijīngshì       |
 
 
 
