@@ -7,10 +7,10 @@
 	"parent": null
 }, {
 	"level": 1,
-	"code": "110100",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "110000",
+	"name": "北京市",
+	"initials": "bjs",
+	"pinyin": "běijīngshì",
 	"parent": "110000"
 }, {
 	"level": 2,
@@ -18,119 +18,112 @@
 	"name": "东城区",
 	"initials": "dcq",
 	"pinyin": "dōngchéngqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110102",
 	"name": "西城区",
 	"initials": "xcq",
 	"pinyin": "xīchéngqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110105",
 	"name": "朝阳区",
 	"initials": "zyq",
 	"pinyin": "zhāoyángqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110106",
 	"name": "丰台区",
 	"initials": "ftq",
 	"pinyin": "fēngtáiqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110107",
 	"name": "石景山区",
 	"initials": "sjsq",
 	"pinyin": "shíjǐngshānqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110108",
 	"name": "海淀区",
 	"initials": "hdq",
 	"pinyin": "hǎidiànqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110109",
 	"name": "门头沟区",
 	"initials": "mtgq",
 	"pinyin": "méntóugōuqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110111",
 	"name": "房山区",
 	"initials": "fsq",
 	"pinyin": "fángshānqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110112",
 	"name": "通州区",
 	"initials": "tzq",
 	"pinyin": "tōngzhōuqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110113",
 	"name": "顺义区",
 	"initials": "syq",
 	"pinyin": "shùnyìqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110114",
 	"name": "昌平区",
 	"initials": "cpq",
 	"pinyin": "chāngpíngqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110115",
 	"name": "大兴区",
 	"initials": "dxq",
 	"pinyin": "dàxīngqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110116",
 	"name": "怀柔区",
 	"initials": "hrq",
 	"pinyin": "huáiróuqū",
-	"parent": "110100"
+	"parent": "110000"
 }, {
 	"level": 2,
 	"code": "110117",
 	"name": "平谷区",
 	"initials": "pgq",
 	"pinyin": "pínggǔqū",
-	"parent": "110100"
-}, {
-	"level": 1,
-	"code": "110200",
-	"name": "县",
-	"initials": "x",
-	"pinyin": "xiàn",
 	"parent": "110000"
 }, {
 	"level": 2,
-	"code": "110228",
-	"name": "密云县",
-	"initials": "myx",
-	"pinyin": "mìyúnxiàn",
-	"parent": "110200"
+	"code": "110118",
+	"name": "密云区",
+	"initials": "myq",
+	"pinyin": "mìyúnqū",
+	"parent": "110000"
 }, {
 	"level": 2,
-	"code": "110229",
-	"name": "延庆县",
-	"initials": "yqx",
-	"pinyin": "yánqìngxiàn",
-	"parent": "110200"
+	"code": "110119",
+	"name": "延庆区",
+	"initials": "yqq",
+	"pinyin": "yánqìngqū",
+	"parent": "110000"
 }, {
 	"level": 0,
 	"code": "120000",
@@ -140,10 +133,10 @@
 	"parent": null
 }, {
 	"level": 1,
-	"code": "120100",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "120000",
+	"name": "天津市",
+	"initials": "tjs",
+	"pinyin": "tiānjīnshì",
 	"parent": "120000"
 }, {
 	"level": 2,
@@ -151,119 +144,112 @@
 	"name": "和平区",
 	"initials": "hpq",
 	"pinyin": "hépíngqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120102",
 	"name": "河东区",
 	"initials": "hdq",
 	"pinyin": "hédōngqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120103",
 	"name": "河西区",
 	"initials": "hxq",
 	"pinyin": "héxīqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120104",
 	"name": "南开区",
 	"initials": "nkq",
 	"pinyin": "nánkāiqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120105",
 	"name": "河北区",
 	"initials": "hbq",
 	"pinyin": "héběiqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120106",
 	"name": "红桥区",
 	"initials": "hqq",
 	"pinyin": "hóngqiáoqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120110",
 	"name": "东丽区",
 	"initials": "dlq",
 	"pinyin": "dōnglìqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120111",
 	"name": "西青区",
 	"initials": "xqq",
 	"pinyin": "xīqīngqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120112",
 	"name": "津南区",
 	"initials": "jnq",
 	"pinyin": "jīnnánqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120113",
 	"name": "北辰区",
 	"initials": "bcq",
 	"pinyin": "běichénqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120114",
 	"name": "武清区",
 	"initials": "wqq",
 	"pinyin": "wǔqīngqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120115",
 	"name": "宝坻区",
 	"initials": "bcq",
 	"pinyin": "bǎochíqū",
-	"parent": "120100"
+	"parent": "120000"
 }, {
 	"level": 2,
 	"code": "120116",
 	"name": "滨海新区",
 	"initials": "bhxq",
 	"pinyin": "bīnhǎixīnqū",
-	"parent": "120100"
-}, {
-	"level": 1,
-	"code": "120200",
-	"name": "县",
-	"initials": "x",
-	"pinyin": "xiàn",
 	"parent": "120000"
 }, {
 	"level": 2,
-	"code": "120221",
-	"name": "宁河县",
-	"initials": "nhx",
-	"pinyin": "nínghéxiàn",
-	"parent": "120200"
+	"code": "120117",
+	"name": "宁河区",
+	"initials": "nhq",
+	"pinyin": "nínghéqū",
+	"parent": "120000"
 }, {
 	"level": 2,
-	"code": "120223",
-	"name": "静海县",
-	"initials": "jhx",
-	"pinyin": "jìnghǎixiàn",
-	"parent": "120200"
+	"code": "120118",
+	"name": "静海区",
+	"initials": "jhq",
+	"pinyin": "jìnghǎiqū",
+	"parent": "120000"
 }, {
 	"level": 2,
-	"code": "120225",
-	"name": "蓟县",
-	"initials": "jx",
-	"pinyin": "jìxiàn",
-	"parent": "120200"
+	"code": "120119",
+	"name": "蓟州区",
+	"initials": "jzq",
+	"pinyin": "jìzhōuqū",
+	"parent": "120000"
 }, {
 	"level": 0,
 	"code": "130000",
@@ -280,24 +266,10 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "130101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130100"
-}, {
-	"level": 2,
 	"code": "130102",
 	"name": "长安区",
 	"initials": "cāq",
 	"pinyin": "chángānqū",
-	"parent": "130100"
-}, {
-	"level": 2,
-	"code": "130103",
-	"name": "桥东区",
-	"initials": "qdq",
-	"pinyin": "qiáodōngqū",
 	"parent": "130100"
 }, {
 	"level": 2,
@@ -329,6 +301,27 @@
 	"parent": "130100"
 }, {
 	"level": 2,
+	"code": "130109",
+	"name": "藁城区",
+	"initials": "gcq",
+	"pinyin": "gǎochéngqū",
+	"parent": "130100"
+}, {
+	"level": 2,
+	"code": "130110",
+	"name": "鹿泉区",
+	"initials": "lqq",
+	"pinyin": "lùquánqū",
+	"parent": "130100"
+}, {
+	"level": 2,
+	"code": "130111",
+	"name": "栾城区",
+	"initials": "lcq",
+	"pinyin": "luánchéngqū",
+	"parent": "130100"
+}, {
+	"level": 2,
 	"code": "130121",
 	"name": "井陉县",
 	"initials": "jxx",
@@ -340,13 +333,6 @@
 	"name": "正定县",
 	"initials": "zdx",
 	"pinyin": "zhèngdìngxiàn",
-	"parent": "130100"
-}, {
-	"level": 2,
-	"code": "130124",
-	"name": "栾城县",
-	"initials": "lcx",
-	"pinyin": "luánchéngxiàn",
 	"parent": "130100"
 }, {
 	"level": 2,
@@ -420,13 +406,6 @@
 	"parent": "130100"
 }, {
 	"level": 2,
-	"code": "130182",
-	"name": "藁城市",
-	"initials": "gcs",
-	"pinyin": "gǎochéngshì",
-	"parent": "130100"
-}, {
-	"level": 2,
 	"code": "130183",
 	"name": "晋州市",
 	"initials": "jzs",
@@ -440,26 +419,12 @@
 	"pinyin": "xīnlèshì",
 	"parent": "130100"
 }, {
-	"level": 2,
-	"code": "130185",
-	"name": "鹿泉市",
-	"initials": "lqs",
-	"pinyin": "lùquánshì",
-	"parent": "130100"
-}, {
 	"level": 1,
 	"code": "130200",
 	"name": "唐山市",
 	"initials": "tss",
 	"pinyin": "tángshānshì",
 	"parent": "130000"
-}, {
-	"level": 2,
-	"code": "130201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130200"
 }, {
 	"level": 2,
 	"code": "130202",
@@ -504,10 +469,10 @@
 	"parent": "130200"
 }, {
 	"level": 2,
-	"code": "130223",
-	"name": "滦县",
-	"initials": "lx",
-	"pinyin": "luánxiàn",
+	"code": "130209",
+	"name": "曹妃甸区",
+	"initials": "cfdq",
+	"pinyin": "cáofēidiànqū",
 	"parent": "130200"
 }, {
 	"level": 2,
@@ -539,13 +504,6 @@
 	"parent": "130200"
 }, {
 	"level": 2,
-	"code": "130230",
-	"name": "唐海县",
-	"initials": "thx",
-	"pinyin": "tánghǎixiàn",
-	"parent": "130200"
-}, {
-	"level": 2,
 	"code": "130281",
 	"name": "遵化市",
 	"initials": "zhs",
@@ -559,19 +517,19 @@
 	"pinyin": "qiānānshì",
 	"parent": "130200"
 }, {
+	"level": 2,
+	"code": "130284",
+	"name": "滦州市",
+	"initials": "lzs",
+	"pinyin": "luánzhōushì",
+	"parent": "130200"
+}, {
 	"level": 1,
 	"code": "130300",
 	"name": "秦皇岛市",
 	"initials": "qhds",
 	"pinyin": "qínhuángdǎoshì",
 	"parent": "130000"
-}, {
-	"level": 2,
-	"code": "130301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130300"
 }, {
 	"level": 2,
 	"code": "130302",
@@ -595,6 +553,13 @@
 	"parent": "130300"
 }, {
 	"level": 2,
+	"code": "130306",
+	"name": "抚宁区",
+	"initials": "fnq",
+	"pinyin": "fǔníngqū",
+	"parent": "130300"
+}, {
+	"level": 2,
 	"code": "130321",
 	"name": "青龙满族自治县",
 	"initials": "qlmzzzx",
@@ -606,13 +571,6 @@
 	"name": "昌黎县",
 	"initials": "clx",
 	"pinyin": "chānglíxiàn",
-	"parent": "130300"
-}, {
-	"level": 2,
-	"code": "130323",
-	"name": "抚宁县",
-	"initials": "fnx",
-	"pinyin": "fǔníngxiàn",
 	"parent": "130300"
 }, {
 	"level": 2,
@@ -628,13 +586,6 @@
 	"initials": "hds",
 	"pinyin": "hándānshì",
 	"parent": "130000"
-}, {
-	"level": 2,
-	"code": "130401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130400"
 }, {
 	"level": 2,
 	"code": "130402",
@@ -665,10 +616,17 @@
 	"parent": "130400"
 }, {
 	"level": 2,
-	"code": "130421",
-	"name": "邯郸县",
-	"initials": "hdx",
-	"pinyin": "hándānxiàn",
+	"code": "130407",
+	"name": "肥乡区",
+	"initials": "fxq",
+	"pinyin": "féixiāngqū",
+	"parent": "130400"
+}, {
+	"level": 2,
+	"code": "130408",
+	"name": "永年区",
+	"initials": "ynq",
+	"pinyin": "yǒngniánqū",
 	"parent": "130400"
 }, {
 	"level": 2,
@@ -704,20 +662,6 @@
 	"name": "磁县",
 	"initials": "cx",
 	"pinyin": "cíxiàn",
-	"parent": "130400"
-}, {
-	"level": 2,
-	"code": "130428",
-	"name": "肥乡县",
-	"initials": "fxx",
-	"pinyin": "féixiāngxiàn",
-	"parent": "130400"
-}, {
-	"level": 2,
-	"code": "130429",
-	"name": "永年县",
-	"initials": "ynx",
-	"pinyin": "yǒngniánxiàn",
 	"parent": "130400"
 }, {
 	"level": 2,
@@ -777,31 +721,31 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "130501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130500"
-}, {
-	"level": 2,
 	"code": "130502",
-	"name": "桥东区",
-	"initials": "qdq",
-	"pinyin": "qiáodōngqū",
+	"name": "襄都区",
+	"initials": "xdq",
+	"pinyin": "xiāngdūqū",
 	"parent": "130500"
 }, {
 	"level": 2,
 	"code": "130503",
-	"name": "桥西区",
-	"initials": "qxq",
-	"pinyin": "qiáoxīqū",
+	"name": "信都区",
+	"initials": "xdq",
+	"pinyin": "xìndūqū",
 	"parent": "130500"
 }, {
 	"level": 2,
-	"code": "130521",
-	"name": "邢台县",
-	"initials": "xtx",
-	"pinyin": "xíngtáixiàn",
+	"code": "130505",
+	"name": "任泽区",
+	"initials": "rzq",
+	"pinyin": "rènzéqū",
+	"parent": "130500"
+}, {
+	"level": 2,
+	"code": "130506",
+	"name": "南和区",
+	"initials": "nhq",
+	"pinyin": "nánhéqū",
 	"parent": "130500"
 }, {
 	"level": 2,
@@ -830,20 +774,6 @@
 	"name": "隆尧县",
 	"initials": "lyx",
 	"pinyin": "lóngyáoxiàn",
-	"parent": "130500"
-}, {
-	"level": 2,
-	"code": "130526",
-	"name": "任县",
-	"initials": "rx",
-	"pinyin": "rènxiàn",
-	"parent": "130500"
-}, {
-	"level": 2,
-	"code": "130527",
-	"name": "南和县",
-	"initials": "nhx",
-	"pinyin": "nánhéxiàn",
 	"parent": "130500"
 }, {
 	"level": 2,
@@ -924,45 +854,38 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "130601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130600"
-}, {
-	"level": 2,
 	"code": "130602",
-	"name": "新市区",
+	"name": "竞秀区",
+	"initials": "jxq",
+	"pinyin": "jìngxìuqū",
+	"parent": "130600"
+}, {
+	"level": 2,
+	"code": "130606",
+	"name": "莲池区",
+	"initials": "lcq",
+	"pinyin": "liánchíqū",
+	"parent": "130600"
+}, {
+	"level": 2,
+	"code": "130607",
+	"name": "满城区",
+	"initials": "mcq",
+	"pinyin": "mǎnchéngqū",
+	"parent": "130600"
+}, {
+	"level": 2,
+	"code": "130608",
+	"name": "清苑区",
+	"initials": "qyq",
+	"pinyin": "qīngyuànqū",
+	"parent": "130600"
+}, {
+	"level": 2,
+	"code": "130609",
+	"name": "徐水区",
 	"initials": "xsq",
-	"pinyin": "xīnshìqū",
-	"parent": "130600"
-}, {
-	"level": 2,
-	"code": "130603",
-	"name": "北市区",
-	"initials": "bsq",
-	"pinyin": "běishìqū",
-	"parent": "130600"
-}, {
-	"level": 2,
-	"code": "130604",
-	"name": "南市区",
-	"initials": "nsq",
-	"pinyin": "nánshìqū",
-	"parent": "130600"
-}, {
-	"level": 2,
-	"code": "130621",
-	"name": "满城县",
-	"initials": "mcx",
-	"pinyin": "mǎnchéngxiàn",
-	"parent": "130600"
-}, {
-	"level": 2,
-	"code": "130622",
-	"name": "清苑县",
-	"initials": "qyx",
-	"pinyin": "qīngyuànxiàn",
+	"pinyin": "xúshǔiqū",
 	"parent": "130600"
 }, {
 	"level": 2,
@@ -977,13 +900,6 @@
 	"name": "阜平县",
 	"initials": "fpx",
 	"pinyin": "fùpíngxiàn",
-	"parent": "130600"
-}, {
-	"level": 2,
-	"code": "130625",
-	"name": "徐水县",
-	"initials": "xsx",
-	"pinyin": "xúshǔixiàn",
 	"parent": "130600"
 }, {
 	"level": 2,
@@ -1113,13 +1029,6 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "130701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130700"
-}, {
-	"level": 2,
 	"code": "130702",
 	"name": "桥东区",
 	"initials": "qdq",
@@ -1148,10 +1057,17 @@
 	"parent": "130700"
 }, {
 	"level": 2,
-	"code": "130721",
-	"name": "宣化县",
-	"initials": "xhx",
-	"pinyin": "xuānhuàxiàn",
+	"code": "130708",
+	"name": "万全区",
+	"initials": "wqq",
+	"pinyin": "wànquánqū",
+	"parent": "130700"
+}, {
+	"level": 2,
+	"code": "130709",
+	"name": "崇礼区",
+	"initials": "clq",
+	"pinyin": "chónglǐqū",
 	"parent": "130700"
 }, {
 	"level": 2,
@@ -1204,13 +1120,6 @@
 	"parent": "130700"
 }, {
 	"level": 2,
-	"code": "130729",
-	"name": "万全县",
-	"initials": "wqx",
-	"pinyin": "wànquánxiàn",
-	"parent": "130700"
-}, {
-	"level": 2,
 	"code": "130730",
 	"name": "怀来县",
 	"initials": "hlx",
@@ -1231,26 +1140,12 @@
 	"pinyin": "chìchéngxiàn",
 	"parent": "130700"
 }, {
-	"level": 2,
-	"code": "130733",
-	"name": "崇礼县",
-	"initials": "clx",
-	"pinyin": "chónglǐxiàn",
-	"parent": "130700"
-}, {
 	"level": 1,
 	"code": "130800",
 	"name": "承德市",
 	"initials": "cds",
 	"pinyin": "chéngdéshì",
 	"parent": "130000"
-}, {
-	"level": 2,
-	"code": "130801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130800"
 }, {
 	"level": 2,
 	"code": "130802",
@@ -1288,13 +1183,6 @@
 	"parent": "130800"
 }, {
 	"level": 2,
-	"code": "130823",
-	"name": "平泉县",
-	"initials": "pqx",
-	"pinyin": "píngquánxiàn",
-	"parent": "130800"
-}, {
-	"level": 2,
 	"code": "130824",
 	"name": "滦平县",
 	"initials": "lpx",
@@ -1329,19 +1217,19 @@
 	"pinyin": "wéichángmǎnzúménggǔzúzìzhìxiàn",
 	"parent": "130800"
 }, {
+	"level": 2,
+	"code": "130881",
+	"name": "平泉市",
+	"initials": "pqs",
+	"pinyin": "píngquánshì",
+	"parent": "130800"
+}, {
 	"level": 1,
 	"code": "130900",
 	"name": "沧州市",
 	"initials": "czs",
 	"pinyin": "cāngzhōushì",
 	"parent": "130000"
-}, {
-	"level": 2,
-	"code": "130901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "130900"
 }, {
 	"level": 2,
 	"code": "130902",
@@ -1463,13 +1351,6 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "131001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "131000"
-}, {
-	"level": 2,
 	"code": "131002",
 	"name": "安次区",
 	"initials": "ācq",
@@ -1547,17 +1428,17 @@
 	"parent": "130000"
 }, {
 	"level": 2,
-	"code": "131101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "131100"
-}, {
-	"level": 2,
 	"code": "131102",
 	"name": "桃城区",
 	"initials": "tcq",
 	"pinyin": "táochéngqū",
+	"parent": "131100"
+}, {
+	"level": 2,
+	"code": "131103",
+	"name": "冀州区",
+	"initials": "jzq",
+	"pinyin": "jìzhōuqū",
 	"parent": "131100"
 }, {
 	"level": 2,
@@ -1617,13 +1498,6 @@
 	"parent": "131100"
 }, {
 	"level": 2,
-	"code": "131181",
-	"name": "冀州市",
-	"initials": "jzs",
-	"pinyin": "jìzhōushì",
-	"parent": "131100"
-}, {
-	"level": 2,
 	"code": "131182",
 	"name": "深州市",
 	"initials": "szs",
@@ -1643,13 +1517,6 @@
 	"initials": "tys",
 	"pinyin": "tàiyuánshì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "140101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140100"
 }, {
 	"level": 2,
 	"code": "140105",
@@ -1729,38 +1596,31 @@
 	"parent": "140000"
 }, {
 	"level": 2,
-	"code": "140201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140200"
-}, {
-	"level": 2,
-	"code": "140202",
-	"name": "城区",
-	"initials": "cq",
-	"pinyin": "chéngqū",
-	"parent": "140200"
-}, {
-	"level": 2,
-	"code": "140203",
-	"name": "矿区",
-	"initials": "kq",
-	"pinyin": "kuàngqū",
-	"parent": "140200"
-}, {
-	"level": 2,
-	"code": "140211",
-	"name": "南郊区",
-	"initials": "njq",
-	"pinyin": "nánjiāoqū",
-	"parent": "140200"
-}, {
-	"level": 2,
 	"code": "140212",
 	"name": "新荣区",
 	"initials": "xrq",
 	"pinyin": "xīnróngqū",
+	"parent": "140200"
+}, {
+	"level": 2,
+	"code": "140213",
+	"name": "平城区",
+	"initials": "pcq",
+	"pinyin": "píngchéngqū",
+	"parent": "140200"
+}, {
+	"level": 2,
+	"code": "140214",
+	"name": "云冈区",
+	"initials": "ygq",
+	"pinyin": "yúngāngqū",
+	"parent": "140200"
+}, {
+	"level": 2,
+	"code": "140215",
+	"name": "云州区",
+	"initials": "yzq",
+	"pinyin": "yúnzhōuqū",
 	"parent": "140200"
 }, {
 	"level": 2,
@@ -1805,26 +1665,12 @@
 	"pinyin": "zuǒyúnxiàn",
 	"parent": "140200"
 }, {
-	"level": 2,
-	"code": "140227",
-	"name": "大同县",
-	"initials": "dtx",
-	"pinyin": "dàtóngxiàn",
-	"parent": "140200"
-}, {
 	"level": 1,
 	"code": "140300",
 	"name": "阳泉市",
 	"initials": "yqs",
 	"pinyin": "yángquánshì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "140301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140300"
 }, {
 	"level": 2,
 	"code": "140302",
@@ -1869,31 +1715,31 @@
 	"parent": "140000"
 }, {
 	"level": 2,
-	"code": "140401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "140403",
+	"name": "潞州区",
+	"initials": "lzq",
+	"pinyin": "lùzhōuqū",
 	"parent": "140400"
 }, {
 	"level": 2,
-	"code": "140402",
-	"name": "城区",
-	"initials": "cq",
-	"pinyin": "chéngqū",
+	"code": "140404",
+	"name": "上党区",
+	"initials": "sdq",
+	"pinyin": "shàngdǎngqū",
 	"parent": "140400"
 }, {
 	"level": 2,
-	"code": "140411",
-	"name": "郊区",
-	"initials": "jq",
-	"pinyin": "jiāoqū",
+	"code": "140405",
+	"name": "屯留区",
+	"initials": "tlq",
+	"pinyin": "túnlíuqū",
 	"parent": "140400"
 }, {
 	"level": 2,
-	"code": "140421",
-	"name": "长治县",
-	"initials": "czx",
-	"pinyin": "chángzhìxiàn",
+	"code": "140406",
+	"name": "潞城区",
+	"initials": "lcq",
+	"pinyin": "lùchéngqū",
 	"parent": "140400"
 }, {
 	"level": 2,
@@ -1901,13 +1747,6 @@
 	"name": "襄垣县",
 	"initials": "xyx",
 	"pinyin": "xiāngyuánxiàn",
-	"parent": "140400"
-}, {
-	"level": 2,
-	"code": "140424",
-	"name": "屯留县",
-	"initials": "tlx",
-	"pinyin": "túnlíuxiàn",
 	"parent": "140400"
 }, {
 	"level": 2,
@@ -1959,26 +1798,12 @@
 	"pinyin": "qìnyuánxiàn",
 	"parent": "140400"
 }, {
-	"level": 2,
-	"code": "140481",
-	"name": "潞城市",
-	"initials": "lcs",
-	"pinyin": "lùchéngshì",
-	"parent": "140400"
-}, {
 	"level": 1,
 	"code": "140500",
 	"name": "晋城市",
 	"initials": "jcs",
 	"pinyin": "jìnchéngshì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "140501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140500"
 }, {
 	"level": 2,
 	"code": "140502",
@@ -2030,13 +1855,6 @@
 	"parent": "140000"
 }, {
 	"level": 2,
-	"code": "140601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140600"
-}, {
-	"level": 2,
 	"code": "140602",
 	"name": "朔城区",
 	"initials": "scq",
@@ -2072,10 +1890,10 @@
 	"parent": "140600"
 }, {
 	"level": 2,
-	"code": "140624",
-	"name": "怀仁县",
-	"initials": "hrx",
-	"pinyin": "huáirénxiàn",
+	"code": "140681",
+	"name": "怀仁市",
+	"initials": "hrs",
+	"pinyin": "huáirénshì",
 	"parent": "140600"
 }, {
 	"level": 1,
@@ -2086,17 +1904,17 @@
 	"parent": "140000"
 }, {
 	"level": 2,
-	"code": "140701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140700"
-}, {
-	"level": 2,
 	"code": "140702",
 	"name": "榆次区",
 	"initials": "ycq",
 	"pinyin": "yúcìqū",
+	"parent": "140700"
+}, {
+	"level": 2,
+	"code": "140703",
+	"name": "太谷区",
+	"initials": "tgq",
+	"pinyin": "tàigǔqū",
 	"parent": "140700"
 }, {
 	"level": 2,
@@ -2135,13 +1953,6 @@
 	"parent": "140700"
 }, {
 	"level": 2,
-	"code": "140726",
-	"name": "太谷县",
-	"initials": "tgx",
-	"pinyin": "tàigǔxiàn",
-	"parent": "140700"
-}, {
-	"level": 2,
 	"code": "140727",
 	"name": "祁县",
 	"initials": "qx",
@@ -2175,13 +1986,6 @@
 	"initials": "ycs",
 	"pinyin": "yùnchéngshì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "140801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140800"
 }, {
 	"level": 2,
 	"code": "140802",
@@ -2280,13 +2084,6 @@
 	"initials": "xzs",
 	"pinyin": "xīnzhōushì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "140901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "140900"
 }, {
 	"level": 2,
 	"code": "140902",
@@ -2392,13 +2189,6 @@
 	"initials": "lfs",
 	"pinyin": "línfénshì",
 	"parent": "140000"
-}, {
-	"level": 2,
-	"code": "141001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "141000"
 }, {
 	"level": 2,
 	"code": "141002",
@@ -2527,13 +2317,6 @@
 	"parent": "140000"
 }, {
 	"level": 2,
-	"code": "141101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "141100"
-}, {
-	"level": 2,
 	"code": "141102",
 	"name": "离石区",
 	"initials": "lsq",
@@ -2639,13 +2422,6 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150100"
-}, {
-	"level": 2,
 	"code": "150102",
 	"name": "新城区",
 	"initials": "xcq",
@@ -2714,13 +2490,6 @@
 	"initials": "bts",
 	"pinyin": "bāotóushì",
 	"parent": "150000"
-}, {
-	"level": 2,
-	"code": "150201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150200"
 }, {
 	"level": 2,
 	"code": "150202",
@@ -2793,13 +2562,6 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150300"
-}, {
-	"level": 2,
 	"code": "150302",
 	"name": "海勃湾区",
 	"initials": "hbwq",
@@ -2826,13 +2588,6 @@
 	"initials": "cfs",
 	"pinyin": "chìfēngshì",
 	"parent": "150000"
-}, {
-	"level": 2,
-	"code": "150401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150400"
 }, {
 	"level": 2,
 	"code": "150402",
@@ -2926,13 +2681,6 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150500"
-}, {
-	"level": 2,
 	"code": "150502",
 	"name": "科尔沁区",
 	"initials": "kěqq",
@@ -2996,17 +2744,17 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150600"
-}, {
-	"level": 2,
 	"code": "150602",
 	"name": "东胜区",
 	"initials": "dsq",
 	"pinyin": "dōngshèngqū",
+	"parent": "150600"
+}, {
+	"level": 2,
+	"code": "150603",
+	"name": "康巴什区",
+	"initials": "kbsq",
+	"pinyin": "kāngbāshíqū",
 	"parent": "150600"
 }, {
 	"level": 2,
@@ -3066,17 +2814,17 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150700"
-}, {
-	"level": 2,
 	"code": "150702",
 	"name": "海拉尔区",
 	"initials": "hlěq",
 	"pinyin": "hǎilāěrqū",
+	"parent": "150700"
+}, {
+	"level": 2,
+	"code": "150703",
+	"name": "扎赉诺尔区",
+	"initials": "zlněq",
+	"pinyin": "zhālàinuòěrqū",
 	"parent": "150700"
 }, {
 	"level": 2,
@@ -3171,13 +2919,6 @@
 	"parent": "150000"
 }, {
 	"level": 2,
-	"code": "150801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150800"
-}, {
-	"level": 2,
 	"code": "150802",
 	"name": "临河区",
 	"initials": "lhq",
@@ -3232,13 +2973,6 @@
 	"initials": "wlcbs",
 	"pinyin": "wūlánchábùshì",
 	"parent": "150000"
-}, {
-	"level": 2,
-	"code": "150901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "150900"
 }, {
 	"level": 2,
 	"code": "150902",
@@ -3500,13 +3234,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "210101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210100"
-}, {
-	"level": 2,
 	"code": "210102",
 	"name": "和平区",
 	"initials": "hpq",
@@ -3550,9 +3277,9 @@
 }, {
 	"level": 2,
 	"code": "210112",
-	"name": "东陵区",
-	"initials": "dlq",
-	"pinyin": "dōnglíngqū",
+	"name": "浑南区",
+	"initials": "hnq",
+	"pinyin": "húnnánqū",
 	"parent": "210100"
 }, {
 	"level": 2,
@@ -3570,10 +3297,10 @@
 	"parent": "210100"
 }, {
 	"level": 2,
-	"code": "210122",
-	"name": "辽中县",
-	"initials": "lzx",
-	"pinyin": "liáozhōngxiàn",
+	"code": "210115",
+	"name": "辽中区",
+	"initials": "lzq",
+	"pinyin": "liáozhōngqū",
 	"parent": "210100"
 }, {
 	"level": 2,
@@ -3603,13 +3330,6 @@
 	"initials": "dls",
 	"pinyin": "dàliánshì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "210201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210200"
 }, {
 	"level": 2,
 	"code": "210202",
@@ -3654,6 +3374,13 @@
 	"parent": "210200"
 }, {
 	"level": 2,
+	"code": "210214",
+	"name": "普兰店区",
+	"initials": "pldq",
+	"pinyin": "pǔlándiànqū",
+	"parent": "210200"
+}, {
+	"level": 2,
 	"code": "210224",
 	"name": "长海县",
 	"initials": "chx",
@@ -3665,13 +3392,6 @@
 	"name": "瓦房店市",
 	"initials": "wfds",
 	"pinyin": "wǎfángdiànshì",
-	"parent": "210200"
-}, {
-	"level": 2,
-	"code": "210282",
-	"name": "普兰店市",
-	"initials": "plds",
-	"pinyin": "pǔlándiànshì",
 	"parent": "210200"
 }, {
 	"level": 2,
@@ -3687,13 +3407,6 @@
 	"initials": "āss",
 	"pinyin": "ānshānshì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "210301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210300"
 }, {
 	"level": 2,
 	"code": "210302",
@@ -3752,13 +3465,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "210401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210400"
-}, {
-	"level": 2,
 	"code": "210402",
 	"name": "新抚区",
 	"initials": "xfq",
@@ -3815,13 +3521,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "210501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210500"
-}, {
-	"level": 2,
 	"code": "210502",
 	"name": "平山区",
 	"initials": "psq",
@@ -3871,13 +3570,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "210601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210600"
-}, {
-	"level": 2,
 	"code": "210602",
 	"name": "元宝区",
 	"initials": "ybq",
@@ -3925,13 +3617,6 @@
 	"initials": "jzs",
 	"pinyin": "jǐnzhōushì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "210701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210700"
 }, {
 	"level": 2,
 	"code": "210702",
@@ -3990,13 +3675,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "210801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210800"
-}, {
-	"level": 2,
 	"code": "210802",
 	"name": "站前区",
 	"initials": "zqq",
@@ -4044,13 +3722,6 @@
 	"initials": "fxs",
 	"pinyin": "fùxīnshì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "210901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "210900"
 }, {
 	"level": 2,
 	"code": "210902",
@@ -4109,13 +3780,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "211001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "211000"
-}, {
-	"level": 2,
 	"code": "211002",
 	"name": "白塔区",
 	"initials": "btq",
@@ -4172,13 +3836,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "211101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "211100"
-}, {
-	"level": 2,
 	"code": "211102",
 	"name": "双台子区",
 	"initials": "stzq",
@@ -4193,10 +3850,10 @@
 	"parent": "211100"
 }, {
 	"level": 2,
-	"code": "211121",
-	"name": "大洼县",
-	"initials": "dwx",
-	"pinyin": "dàwāxiàn",
+	"code": "211104",
+	"name": "大洼区",
+	"initials": "dwq",
+	"pinyin": "dàwāqū",
 	"parent": "211100"
 }, {
 	"level": 2,
@@ -4212,13 +3869,6 @@
 	"initials": "tls",
 	"pinyin": "tiělíngshì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "211201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "211200"
 }, {
 	"level": 2,
 	"code": "211202",
@@ -4277,13 +3927,6 @@
 	"parent": "210000"
 }, {
 	"level": 2,
-	"code": "211301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "211300"
-}, {
-	"level": 2,
 	"code": "211302",
 	"name": "双塔区",
 	"initials": "stq",
@@ -4338,13 +3981,6 @@
 	"initials": "hlds",
 	"pinyin": "húlúdǎoshì",
 	"parent": "210000"
-}, {
-	"level": 2,
-	"code": "211401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "211400"
 }, {
 	"level": 2,
 	"code": "211402",
@@ -4403,13 +4039,6 @@
 	"parent": "220000"
 }, {
 	"level": 2,
-	"code": "220101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220100"
-}, {
-	"level": 2,
 	"code": "220102",
 	"name": "南关区",
 	"initials": "ngq",
@@ -4452,17 +4081,17 @@
 	"parent": "220100"
 }, {
 	"level": 2,
+	"code": "220113",
+	"name": "九台区",
+	"initials": "jtq",
+	"pinyin": "jǐutáiqū",
+	"parent": "220100"
+}, {
+	"level": 2,
 	"code": "220122",
 	"name": "农安县",
 	"initials": "nāx",
 	"pinyin": "nóngānxiàn",
-	"parent": "220100"
-}, {
-	"level": 2,
-	"code": "220181",
-	"name": "九台市",
-	"initials": "jts",
-	"pinyin": "jǐutáishì",
 	"parent": "220100"
 }, {
 	"level": 2,
@@ -4479,19 +4108,19 @@
 	"pinyin": "déhùishì",
 	"parent": "220100"
 }, {
+	"level": 2,
+	"code": "220184",
+	"name": "公主岭市",
+	"initials": "gzls",
+	"pinyin": "gōngzhǔlíngshì",
+	"parent": "220100"
+}, {
 	"level": 1,
 	"code": "220200",
 	"name": "吉林市",
 	"initials": "jls",
 	"pinyin": "jílínshì",
 	"parent": "220000"
-}, {
-	"level": 2,
-	"code": "220201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220200"
 }, {
 	"level": 2,
 	"code": "220202",
@@ -4564,13 +4193,6 @@
 	"parent": "220000"
 }, {
 	"level": 2,
-	"code": "220301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220300"
-}, {
-	"level": 2,
 	"code": "220302",
 	"name": "铁西区",
 	"initials": "txq",
@@ -4599,13 +4221,6 @@
 	"parent": "220300"
 }, {
 	"level": 2,
-	"code": "220381",
-	"name": "公主岭市",
-	"initials": "gzls",
-	"pinyin": "gōngzhǔlíngshì",
-	"parent": "220300"
-}, {
-	"level": 2,
 	"code": "220382",
 	"name": "双辽市",
 	"initials": "sls",
@@ -4618,13 +4233,6 @@
 	"initials": "lys",
 	"pinyin": "liáoyuánshì",
 	"parent": "220000"
-}, {
-	"level": 2,
-	"code": "220401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220400"
 }, {
 	"level": 2,
 	"code": "220402",
@@ -4660,13 +4268,6 @@
 	"initials": "ths",
 	"pinyin": "tōnghuàshì",
 	"parent": "220000"
-}, {
-	"level": 2,
-	"code": "220501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220500"
 }, {
 	"level": 2,
 	"code": "220502",
@@ -4725,17 +4326,10 @@
 	"parent": "220000"
 }, {
 	"level": 2,
-	"code": "220601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220600"
-}, {
-	"level": 2,
 	"code": "220602",
-	"name": "八道江区",
-	"initials": "bdjq",
-	"pinyin": "bādàojiāngqū",
+	"name": "浑江区",
+	"initials": "hjq",
+	"pinyin": "húnjiāngqū",
 	"parent": "220600"
 }, {
 	"level": 2,
@@ -4781,13 +4375,6 @@
 	"parent": "220000"
 }, {
 	"level": 2,
-	"code": "220701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220700"
-}, {
-	"level": 2,
 	"code": "220702",
 	"name": "宁江区",
 	"initials": "njq",
@@ -4816,10 +4403,10 @@
 	"parent": "220700"
 }, {
 	"level": 2,
-	"code": "220724",
-	"name": "扶余县",
-	"initials": "fyx",
-	"pinyin": "fúyúxiàn",
+	"code": "220781",
+	"name": "扶余市",
+	"initials": "fys",
+	"pinyin": "fúyúshì",
 	"parent": "220700"
 }, {
 	"level": 1,
@@ -4828,13 +4415,6 @@
 	"initials": "bcs",
 	"pinyin": "báichéngshì",
 	"parent": "220000"
-}, {
-	"level": 2,
-	"code": "220801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "220800"
 }, {
 	"level": 2,
 	"code": "220802",
@@ -4949,13 +4529,6 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "230101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230100"
-}, {
-	"level": 2,
 	"code": "230102",
 	"name": "道里区",
 	"initials": "dlq",
@@ -5012,6 +4585,13 @@
 	"parent": "230100"
 }, {
 	"level": 2,
+	"code": "230113",
+	"name": "双城区",
+	"initials": "scq",
+	"pinyin": "shuāngchéngqū",
+	"parent": "230100"
+}, {
+	"level": 2,
 	"code": "230123",
 	"name": "依兰县",
 	"initials": "ylx",
@@ -5061,13 +4641,6 @@
 	"parent": "230100"
 }, {
 	"level": 2,
-	"code": "230182",
-	"name": "双城市",
-	"initials": "scs",
-	"pinyin": "shuāngchéngshì",
-	"parent": "230100"
-}, {
-	"level": 2,
 	"code": "230183",
 	"name": "尚志市",
 	"initials": "szs",
@@ -5087,13 +4660,6 @@
 	"initials": "qqhěs",
 	"pinyin": "qíqíhāěrshì",
 	"parent": "230000"
-}, {
-	"level": 2,
-	"code": "230201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230200"
 }, {
 	"level": 2,
 	"code": "230202",
@@ -5215,13 +4781,6 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "230301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230300"
-}, {
-	"level": 2,
 	"code": "230302",
 	"name": "鸡冠区",
 	"initials": "jgq",
@@ -5292,13 +4851,6 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "230401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230400"
-}, {
-	"level": 2,
 	"code": "230402",
 	"name": "向阳区",
 	"initials": "xyq",
@@ -5362,13 +4914,6 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "230501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230500"
-}, {
-	"level": 2,
 	"code": "230502",
 	"name": "尖山区",
 	"initials": "jsq",
@@ -5430,13 +4975,6 @@
 	"initials": "dqs",
 	"pinyin": "dàqìngshì",
 	"parent": "230000"
-}, {
-	"level": 2,
-	"code": "230601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230600"
 }, {
 	"level": 2,
 	"code": "230602",
@@ -5509,115 +5047,24 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "230701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "230717",
+	"name": "伊美区",
+	"initials": "ymq",
+	"pinyin": "yīměiqū",
 	"parent": "230700"
 }, {
 	"level": 2,
-	"code": "230702",
-	"name": "伊春区",
-	"initials": "ycq",
-	"pinyin": "yīchūnqū",
+	"code": "230718",
+	"name": "乌翠区",
+	"initials": "wcq",
+	"pinyin": "wūcùiqū",
 	"parent": "230700"
 }, {
 	"level": 2,
-	"code": "230703",
-	"name": "南岔区",
-	"initials": "ncq",
-	"pinyin": "nánchàqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230704",
+	"code": "230719",
 	"name": "友好区",
 	"initials": "yhq",
 	"pinyin": "yǒuhǎoqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230705",
-	"name": "西林区",
-	"initials": "xlq",
-	"pinyin": "xīlínqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230706",
-	"name": "翠峦区",
-	"initials": "clq",
-	"pinyin": "cùiluánqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230707",
-	"name": "新青区",
-	"initials": "xqq",
-	"pinyin": "xīnqīngqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230708",
-	"name": "美溪区",
-	"initials": "mxq",
-	"pinyin": "měixīqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230709",
-	"name": "金山屯区",
-	"initials": "jstq",
-	"pinyin": "jīnshāntúnqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230710",
-	"name": "五营区",
-	"initials": "wyq",
-	"pinyin": "wǔyíngqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230711",
-	"name": "乌马河区",
-	"initials": "wmhq",
-	"pinyin": "wūmǎhéqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230712",
-	"name": "汤旺河区",
-	"initials": "twhq",
-	"pinyin": "tāngwànghéqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230713",
-	"name": "带岭区",
-	"initials": "dlq",
-	"pinyin": "dàilíngqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230714",
-	"name": "乌伊岭区",
-	"initials": "wylq",
-	"pinyin": "wūyīlíngqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230715",
-	"name": "红星区",
-	"initials": "hxq",
-	"pinyin": "hóngxīngqū",
-	"parent": "230700"
-}, {
-	"level": 2,
-	"code": "230716",
-	"name": "上甘岭区",
-	"initials": "sglq",
-	"pinyin": "shànggānlíngqū",
 	"parent": "230700"
 }, {
 	"level": 2,
@@ -5625,6 +5072,41 @@
 	"name": "嘉荫县",
 	"initials": "jyx",
 	"pinyin": "jiāyìnxiàn",
+	"parent": "230700"
+}, {
+	"level": 2,
+	"code": "230723",
+	"name": "汤旺县",
+	"initials": "twx",
+	"pinyin": "tāngwàngxiàn",
+	"parent": "230700"
+}, {
+	"level": 2,
+	"code": "230724",
+	"name": "丰林县",
+	"initials": "flx",
+	"pinyin": "fēnglínxiàn",
+	"parent": "230700"
+}, {
+	"level": 2,
+	"code": "230725",
+	"name": "大箐山县",
+	"initials": "djsx",
+	"pinyin": "dàjīngshānxiàn",
+	"parent": "230700"
+}, {
+	"level": 2,
+	"code": "230726",
+	"name": "南岔县",
+	"initials": "ncx",
+	"pinyin": "nánchàxiàn",
+	"parent": "230700"
+}, {
+	"level": 2,
+	"code": "230751",
+	"name": "金林区",
+	"initials": "jlq",
+	"pinyin": "jīnlínqū",
 	"parent": "230700"
 }, {
 	"level": 2,
@@ -5640,13 +5122,6 @@
 	"initials": "jmss",
 	"pinyin": "jiāmùsīshì",
 	"parent": "230000"
-}, {
-	"level": 2,
-	"code": "230801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230800"
 }, {
 	"level": 2,
 	"code": "230803",
@@ -5698,13 +5173,6 @@
 	"parent": "230800"
 }, {
 	"level": 2,
-	"code": "230833",
-	"name": "抚远县",
-	"initials": "fyx",
-	"pinyin": "fǔyuǎnxiàn",
-	"parent": "230800"
-}, {
-	"level": 2,
 	"code": "230881",
 	"name": "同江市",
 	"initials": "tjs",
@@ -5718,19 +5186,19 @@
 	"pinyin": "fùjǐnshì",
 	"parent": "230800"
 }, {
+	"level": 2,
+	"code": "230883",
+	"name": "抚远市",
+	"initials": "fys",
+	"pinyin": "fǔyuǎnshì",
+	"parent": "230800"
+}, {
 	"level": 1,
 	"code": "230900",
 	"name": "七台河市",
 	"initials": "qths",
 	"pinyin": "qītáihéshì",
 	"parent": "230000"
-}, {
-	"level": 2,
-	"code": "230901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "230900"
 }, {
 	"level": 2,
 	"code": "230902",
@@ -5768,13 +5236,6 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "231001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "231000"
-}, {
-	"level": 2,
 	"code": "231002",
 	"name": "东安区",
 	"initials": "dāq",
@@ -5800,13 +5261,6 @@
 	"name": "西安区",
 	"initials": "xāq",
 	"pinyin": "xīānqū",
-	"parent": "231000"
-}, {
-	"level": 2,
-	"code": "231024",
-	"name": "东宁县",
-	"initials": "dnx",
-	"pinyin": "dōngníngxiàn",
 	"parent": "231000"
 }, {
 	"level": 2,
@@ -5844,6 +5298,13 @@
 	"pinyin": "mùléngshì",
 	"parent": "231000"
 }, {
+	"level": 2,
+	"code": "231086",
+	"name": "东宁市",
+	"initials": "dns",
+	"pinyin": "dōngníngshì",
+	"parent": "231000"
+}, {
 	"level": 1,
 	"code": "231100",
 	"name": "黑河市",
@@ -5852,24 +5313,10 @@
 	"parent": "230000"
 }, {
 	"level": 2,
-	"code": "231101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "231100"
-}, {
-	"level": 2,
 	"code": "231102",
 	"name": "爱辉区",
 	"initials": "àhq",
 	"pinyin": "àihūiqū",
-	"parent": "231100"
-}, {
-	"level": 2,
-	"code": "231121",
-	"name": "嫩江县",
-	"initials": "njx",
-	"pinyin": "nènjiāngxiàn",
 	"parent": "231100"
 }, {
 	"level": 2,
@@ -5900,19 +5347,19 @@
 	"pinyin": "wǔdàliánchíshì",
 	"parent": "231100"
 }, {
+	"level": 2,
+	"code": "231183",
+	"name": "嫩江市",
+	"initials": "njs",
+	"pinyin": "nènjiāngshì",
+	"parent": "231100"
+}, {
 	"level": 1,
 	"code": "231200",
 	"name": "绥化市",
 	"initials": "shs",
 	"pinyin": "sūihuàshì",
 	"parent": "230000"
-}, {
-	"level": 2,
-	"code": "231201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "231200"
 }, {
 	"level": 2,
 	"code": "231202",
@@ -5993,30 +5440,9 @@
 }, {
 	"level": 2,
 	"code": "232701",
-	"name": "加格达奇区",
-	"initials": "jgdqq",
-	"pinyin": "jiāgédáqíqū",
-	"parent": "232700"
-}, {
-	"level": 2,
-	"code": "232702",
-	"name": "松岭区",
-	"initials": "slq",
-	"pinyin": "sōnglíngqū",
-	"parent": "232700"
-}, {
-	"level": 2,
-	"code": "232703",
-	"name": "新林区",
-	"initials": "xlq",
-	"pinyin": "xīnlínqū",
-	"parent": "232700"
-}, {
-	"level": 2,
-	"code": "232704",
-	"name": "呼中区",
-	"initials": "hzq",
-	"pinyin": "hūzhōngqū",
+	"name": "漠河市",
+	"initials": "mhs",
+	"pinyin": "mòhéshì",
 	"parent": "232700"
 }, {
 	"level": 2,
@@ -6033,13 +5459,6 @@
 	"pinyin": "tǎhéxiàn",
 	"parent": "232700"
 }, {
-	"level": 2,
-	"code": "232723",
-	"name": "漠河县",
-	"initials": "mhx",
-	"pinyin": "mòhéxiàn",
-	"parent": "232700"
-}, {
 	"level": 0,
 	"code": "310000",
 	"name": "上海市",
@@ -6048,10 +5467,10 @@
 	"parent": null
 }, {
 	"level": 1,
-	"code": "310100",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "310000",
+	"name": "上海市",
+	"initials": "shs",
+	"pinyin": "shànghǎishì",
 	"parent": "310000"
 }, {
 	"level": 2,
@@ -6059,133 +5478,112 @@
 	"name": "黄浦区",
 	"initials": "hpq",
 	"pinyin": "huángpǔqū",
-	"parent": "310100"
-}, {
-	"level": 2,
-	"code": "310103",
-	"name": "卢湾区",
-	"initials": "lwq",
-	"pinyin": "lúwānqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310104",
 	"name": "徐汇区",
 	"initials": "xhq",
 	"pinyin": "xúhùiqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310105",
 	"name": "长宁区",
 	"initials": "cnq",
 	"pinyin": "chángníngqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310106",
 	"name": "静安区",
 	"initials": "jāq",
 	"pinyin": "jìngānqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310107",
 	"name": "普陀区",
 	"initials": "ptq",
 	"pinyin": "pǔtuóqū",
-	"parent": "310100"
-}, {
-	"level": 2,
-	"code": "310108",
-	"name": "闸北区",
-	"initials": "zbq",
-	"pinyin": "zháběiqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310109",
 	"name": "虹口区",
 	"initials": "hkq",
 	"pinyin": "hóngkǒuqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310110",
 	"name": "杨浦区",
 	"initials": "ypq",
 	"pinyin": "yángpǔqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310112",
 	"name": "闵行区",
 	"initials": "mxq",
 	"pinyin": "mǐnxíngqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310113",
 	"name": "宝山区",
 	"initials": "bsq",
 	"pinyin": "bǎoshānqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310114",
 	"name": "嘉定区",
 	"initials": "jdq",
 	"pinyin": "jiādìngqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310115",
 	"name": "浦东新区",
 	"initials": "pdxq",
 	"pinyin": "pǔdōngxīnqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310116",
 	"name": "金山区",
 	"initials": "jsq",
 	"pinyin": "jīnshānqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310117",
 	"name": "松江区",
 	"initials": "sjq",
 	"pinyin": "sōngjiāngqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310118",
 	"name": "青浦区",
 	"initials": "qpq",
 	"pinyin": "qīngpǔqū",
-	"parent": "310100"
+	"parent": "310000"
 }, {
 	"level": 2,
 	"code": "310120",
 	"name": "奉贤区",
 	"initials": "fxq",
 	"pinyin": "fèngxiánqū",
-	"parent": "310100"
-}, {
-	"level": 1,
-	"code": "310200",
-	"name": "县",
-	"initials": "x",
-	"pinyin": "xiàn",
 	"parent": "310000"
 }, {
 	"level": 2,
-	"code": "310230",
-	"name": "崇明县",
-	"initials": "cmx",
-	"pinyin": "chóngmíngxiàn",
-	"parent": "310200"
+	"code": "310151",
+	"name": "崇明区",
+	"initials": "cmq",
+	"pinyin": "chóngmíngqū",
+	"parent": "310000"
 }, {
 	"level": 0,
 	"code": "320000",
@@ -6202,24 +5600,10 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320100"
-}, {
-	"level": 2,
 	"code": "320102",
 	"name": "玄武区",
 	"initials": "xwq",
 	"pinyin": "xuánwǔqū",
-	"parent": "320100"
-}, {
-	"level": 2,
-	"code": "320103",
-	"name": "白下区",
-	"initials": "bxq",
-	"pinyin": "báixiàqū",
 	"parent": "320100"
 }, {
 	"level": 2,
@@ -6241,13 +5625,6 @@
 	"name": "鼓楼区",
 	"initials": "glq",
 	"pinyin": "gǔlóuqū",
-	"parent": "320100"
-}, {
-	"level": 2,
-	"code": "320107",
-	"name": "下关区",
-	"initials": "xgq",
-	"pinyin": "xiàguānqū",
 	"parent": "320100"
 }, {
 	"level": 2,
@@ -6286,17 +5663,17 @@
 	"parent": "320100"
 }, {
 	"level": 2,
-	"code": "320124",
-	"name": "溧水县",
-	"initials": "lsx",
-	"pinyin": "lìshǔixiàn",
+	"code": "320117",
+	"name": "溧水区",
+	"initials": "lsq",
+	"pinyin": "lìshǔiqū",
 	"parent": "320100"
 }, {
 	"level": 2,
-	"code": "320125",
-	"name": "高淳县",
-	"initials": "gcx",
-	"pinyin": "gāochúnxiàn",
+	"code": "320118",
+	"name": "高淳区",
+	"initials": "gcq",
+	"pinyin": "gāochúnqū",
 	"parent": "320100"
 }, {
 	"level": 1,
@@ -6305,34 +5682,6 @@
 	"initials": "wxs",
 	"pinyin": "wúxíshì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "320201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320200"
-}, {
-	"level": 2,
-	"code": "320202",
-	"name": "崇安区",
-	"initials": "cāq",
-	"pinyin": "chóngānqū",
-	"parent": "320200"
-}, {
-	"level": 2,
-	"code": "320203",
-	"name": "南长区",
-	"initials": "ncq",
-	"pinyin": "nánchángqū",
-	"parent": "320200"
-}, {
-	"level": 2,
-	"code": "320204",
-	"name": "北塘区",
-	"initials": "btq",
-	"pinyin": "běitángqū",
-	"parent": "320200"
 }, {
 	"level": 2,
 	"code": "320205",
@@ -6356,6 +5705,20 @@
 	"parent": "320200"
 }, {
 	"level": 2,
+	"code": "320213",
+	"name": "梁溪区",
+	"initials": "lxq",
+	"pinyin": "liángxīqū",
+	"parent": "320200"
+}, {
+	"level": 2,
+	"code": "320214",
+	"name": "新吴区",
+	"initials": "xwq",
+	"pinyin": "xīnwúqū",
+	"parent": "320200"
+}, {
+	"level": 2,
 	"code": "320281",
 	"name": "江阴市",
 	"initials": "jys",
@@ -6375,13 +5738,6 @@
 	"initials": "xzs",
 	"pinyin": "xúzhōushì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "320301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320300"
 }, {
 	"level": 2,
 	"code": "320302",
@@ -6461,13 +5817,6 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320400"
-}, {
-	"level": 2,
 	"code": "320402",
 	"name": "天宁区",
 	"initials": "tnq",
@@ -6479,13 +5828,6 @@
 	"name": "钟楼区",
 	"initials": "zlq",
 	"pinyin": "zhōnglóuqū",
-	"parent": "320400"
-}, {
-	"level": 2,
-	"code": "320405",
-	"name": "戚墅堰区",
-	"initials": "qsyq",
-	"pinyin": "qīshùyànqū",
 	"parent": "320400"
 }, {
 	"level": 2,
@@ -6503,17 +5845,17 @@
 	"parent": "320400"
 }, {
 	"level": 2,
+	"code": "320413",
+	"name": "金坛区",
+	"initials": "jtq",
+	"pinyin": "jīntánqū",
+	"parent": "320400"
+}, {
+	"level": 2,
 	"code": "320481",
 	"name": "溧阳市",
 	"initials": "lys",
 	"pinyin": "lìyángshì",
-	"parent": "320400"
-}, {
-	"level": 2,
-	"code": "320482",
-	"name": "金坛市",
-	"initials": "jts",
-	"pinyin": "jīntánshì",
 	"parent": "320400"
 }, {
 	"level": 1,
@@ -6522,34 +5864,6 @@
 	"initials": "szs",
 	"pinyin": "sūzhōushì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "320501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320500"
-}, {
-	"level": 2,
-	"code": "320502",
-	"name": "沧浪区",
-	"initials": "clq",
-	"pinyin": "cānglàngqū",
-	"parent": "320500"
-}, {
-	"level": 2,
-	"code": "320503",
-	"name": "平江区",
-	"initials": "pjq",
-	"pinyin": "píngjiāngqū",
-	"parent": "320500"
-}, {
-	"level": 2,
-	"code": "320504",
-	"name": "金阊区",
-	"initials": "jcq",
-	"pinyin": "jīnchāngqū",
-	"parent": "320500"
 }, {
 	"level": 2,
 	"code": "320505",
@@ -6570,6 +5884,20 @@
 	"name": "相城区",
 	"initials": "xcq",
 	"pinyin": "xiāngchéngqū",
+	"parent": "320500"
+}, {
+	"level": 2,
+	"code": "320508",
+	"name": "姑苏区",
+	"initials": "gsq",
+	"pinyin": "gūsūqū",
+	"parent": "320500"
+}, {
+	"level": 2,
+	"code": "320509",
+	"name": "吴江区",
+	"initials": "wjq",
+	"pinyin": "wújiāngqū",
 	"parent": "320500"
 }, {
 	"level": 2,
@@ -6594,13 +5922,6 @@
 	"parent": "320500"
 }, {
 	"level": 2,
-	"code": "320584",
-	"name": "吴江市",
-	"initials": "wjs",
-	"pinyin": "wújiāngshì",
-	"parent": "320500"
-}, {
-	"level": 2,
 	"code": "320585",
 	"name": "太仓市",
 	"initials": "tcs",
@@ -6615,27 +5936,6 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320600"
-}, {
-	"level": 2,
-	"code": "320602",
-	"name": "崇川区",
-	"initials": "ccq",
-	"pinyin": "chóngchuānqū",
-	"parent": "320600"
-}, {
-	"level": 2,
-	"code": "320611",
-	"name": "港闸区",
-	"initials": "gzq",
-	"pinyin": "gǎngzháqū",
-	"parent": "320600"
-}, {
-	"level": 2,
 	"code": "320612",
 	"name": "通州区",
 	"initials": "tzq",
@@ -6643,10 +5943,17 @@
 	"parent": "320600"
 }, {
 	"level": 2,
-	"code": "320621",
-	"name": "海安县",
-	"initials": "hāx",
-	"pinyin": "hǎiānxiàn",
+	"code": "320613",
+	"name": "崇川区",
+	"initials": "ccq",
+	"pinyin": "chóngchuānqū",
+	"parent": "320600"
+}, {
+	"level": 2,
+	"code": "320614",
+	"name": "海门区",
+	"initials": "hmq",
+	"pinyin": "hǎiménqū",
 	"parent": "320600"
 }, {
 	"level": 2,
@@ -6671,10 +5978,10 @@
 	"parent": "320600"
 }, {
 	"level": 2,
-	"code": "320684",
-	"name": "海门市",
-	"initials": "hms",
-	"pinyin": "hǎiménshì",
+	"code": "320685",
+	"name": "海安市",
+	"initials": "hās",
+	"pinyin": "hǎiānshì",
 	"parent": "320600"
 }, {
 	"level": 1,
@@ -6685,24 +5992,10 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320700"
-}, {
-	"level": 2,
 	"code": "320703",
 	"name": "连云区",
 	"initials": "lyq",
 	"pinyin": "liányúnqū",
-	"parent": "320700"
-}, {
-	"level": 2,
-	"code": "320705",
-	"name": "新浦区",
-	"initials": "xpq",
-	"pinyin": "xīnpǔqū",
 	"parent": "320700"
 }, {
 	"level": 2,
@@ -6713,10 +6006,10 @@
 	"parent": "320700"
 }, {
 	"level": 2,
-	"code": "320721",
-	"name": "赣榆县",
-	"initials": "gyx",
-	"pinyin": "gànyúxiàn",
+	"code": "320707",
+	"name": "赣榆区",
+	"initials": "gyq",
+	"pinyin": "gànyúqū",
 	"parent": "320700"
 }, {
 	"level": 2,
@@ -6748,24 +6041,10 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320800"
-}, {
-	"level": 2,
-	"code": "320802",
-	"name": "清河区",
-	"initials": "qhq",
-	"pinyin": "qīnghéqū",
-	"parent": "320800"
-}, {
-	"level": 2,
 	"code": "320803",
-	"name": "楚州区",
-	"initials": "czq",
-	"pinyin": "chǔzhōuqū",
+	"name": "淮安区",
+	"initials": "hāq",
+	"pinyin": "huáiānqū",
 	"parent": "320800"
 }, {
 	"level": 2,
@@ -6776,10 +6055,17 @@
 	"parent": "320800"
 }, {
 	"level": 2,
-	"code": "320811",
-	"name": "清浦区",
-	"initials": "qpq",
-	"pinyin": "qīngpǔqū",
+	"code": "320812",
+	"name": "清江浦区",
+	"initials": "qjpq",
+	"pinyin": "qīngjiāngpǔqū",
+	"parent": "320800"
+}, {
+	"level": 2,
+	"code": "320813",
+	"name": "洪泽区",
+	"initials": "hzq",
+	"pinyin": "hóngzéqū",
 	"parent": "320800"
 }, {
 	"level": 2,
@@ -6787,13 +6073,6 @@
 	"name": "涟水县",
 	"initials": "lsx",
 	"pinyin": "liánshǔixiàn",
-	"parent": "320800"
-}, {
-	"level": 2,
-	"code": "320829",
-	"name": "洪泽县",
-	"initials": "hzx",
-	"pinyin": "hóngzéxiàn",
 	"parent": "320800"
 }, {
 	"level": 2,
@@ -6818,13 +6097,6 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "320901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "320900"
-}, {
-	"level": 2,
 	"code": "320902",
 	"name": "亭湖区",
 	"initials": "thq",
@@ -6836,6 +6108,13 @@
 	"name": "盐都区",
 	"initials": "ydq",
 	"pinyin": "yándūqū",
+	"parent": "320900"
+}, {
+	"level": 2,
+	"code": "320904",
+	"name": "大丰区",
+	"initials": "dfq",
+	"pinyin": "dàfēngqū",
 	"parent": "320900"
 }, {
 	"level": 2,
@@ -6880,26 +6159,12 @@
 	"pinyin": "dōngtáishì",
 	"parent": "320900"
 }, {
-	"level": 2,
-	"code": "320982",
-	"name": "大丰市",
-	"initials": "dfs",
-	"pinyin": "dàfēngshì",
-	"parent": "320900"
-}, {
 	"level": 1,
 	"code": "321000",
 	"name": "扬州市",
 	"initials": "yzs",
 	"pinyin": "yángzhōushì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "321001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "321000"
 }, {
 	"level": 2,
 	"code": "321002",
@@ -6916,10 +6181,10 @@
 	"parent": "321000"
 }, {
 	"level": 2,
-	"code": "321011",
-	"name": "维扬区",
-	"initials": "wyq",
-	"pinyin": "wéiyángqū",
+	"code": "321012",
+	"name": "江都区",
+	"initials": "jdq",
+	"pinyin": "jiāngdūqū",
 	"parent": "321000"
 }, {
 	"level": 2,
@@ -6943,26 +6208,12 @@
 	"pinyin": "gāoyóushì",
 	"parent": "321000"
 }, {
-	"level": 2,
-	"code": "321088",
-	"name": "江都市",
-	"initials": "jds",
-	"pinyin": "jiāngdūshì",
-	"parent": "321000"
-}, {
 	"level": 1,
 	"code": "321100",
 	"name": "镇江市",
 	"initials": "zjs",
 	"pinyin": "zhènjiāngshì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "321101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "321100"
 }, {
 	"level": 2,
 	"code": "321102",
@@ -7014,13 +6265,6 @@
 	"parent": "320000"
 }, {
 	"level": 2,
-	"code": "321201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "321200"
-}, {
-	"level": 2,
 	"code": "321202",
 	"name": "海陵区",
 	"initials": "hlq",
@@ -7032,6 +6276,13 @@
 	"name": "高港区",
 	"initials": "ggq",
 	"pinyin": "gāogǎngqū",
+	"parent": "321200"
+}, {
+	"level": 2,
+	"code": "321204",
+	"name": "姜堰区",
+	"initials": "jyq",
+	"pinyin": "jiāngyànqū",
 	"parent": "321200"
 }, {
 	"level": 2,
@@ -7055,26 +6306,12 @@
 	"pinyin": "tàixīngshì",
 	"parent": "321200"
 }, {
-	"level": 2,
-	"code": "321284",
-	"name": "姜堰市",
-	"initials": "jys",
-	"pinyin": "jiāngyànshì",
-	"parent": "321200"
-}, {
 	"level": 1,
 	"code": "321300",
 	"name": "宿迁市",
 	"initials": "sqs",
 	"pinyin": "sùqiānshì",
 	"parent": "320000"
-}, {
-	"level": 2,
-	"code": "321301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "321300"
 }, {
 	"level": 2,
 	"code": "321302",
@@ -7124,13 +6361,6 @@
 	"initials": "hzs",
 	"pinyin": "hángzhōushì",
 	"parent": "330000"
-}, {
-	"level": 2,
-	"code": "330101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330100"
 }, {
 	"level": 2,
 	"code": "330102",
@@ -7189,6 +6419,20 @@
 	"parent": "330100"
 }, {
 	"level": 2,
+	"code": "330111",
+	"name": "富阳区",
+	"initials": "fyq",
+	"pinyin": "fùyángqū",
+	"parent": "330100"
+}, {
+	"level": 2,
+	"code": "330112",
+	"name": "临安区",
+	"initials": "lāq",
+	"pinyin": "línānqū",
+	"parent": "330100"
+}, {
+	"level": 2,
 	"code": "330122",
 	"name": "桐庐县",
 	"initials": "tlx",
@@ -7209,20 +6453,6 @@
 	"pinyin": "jiàndéshì",
 	"parent": "330100"
 }, {
-	"level": 2,
-	"code": "330183",
-	"name": "富阳市",
-	"initials": "fys",
-	"pinyin": "fùyángshì",
-	"parent": "330100"
-}, {
-	"level": 2,
-	"code": "330185",
-	"name": "临安市",
-	"initials": "lās",
-	"pinyin": "línānshì",
-	"parent": "330100"
-}, {
 	"level": 1,
 	"code": "330200",
 	"name": "宁波市",
@@ -7231,24 +6461,10 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "330201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330200"
-}, {
-	"level": 2,
 	"code": "330203",
 	"name": "海曙区",
 	"initials": "hsq",
 	"pinyin": "hǎishùqū",
-	"parent": "330200"
-}, {
-	"level": 2,
-	"code": "330204",
-	"name": "江东区",
-	"initials": "jdq",
-	"pinyin": "jiāngdōngqū",
 	"parent": "330200"
 }, {
 	"level": 2,
@@ -7280,6 +6496,13 @@
 	"parent": "330200"
 }, {
 	"level": 2,
+	"code": "330213",
+	"name": "奉化区",
+	"initials": "fhq",
+	"pinyin": "fènghuàqū",
+	"parent": "330200"
+}, {
+	"level": 2,
 	"code": "330225",
 	"name": "象山县",
 	"initials": "xsx",
@@ -7307,26 +6530,12 @@
 	"pinyin": "cíxīshì",
 	"parent": "330200"
 }, {
-	"level": 2,
-	"code": "330283",
-	"name": "奉化市",
-	"initials": "fhs",
-	"pinyin": "fènghuàshì",
-	"parent": "330200"
-}, {
 	"level": 1,
 	"code": "330300",
 	"name": "温州市",
 	"initials": "wzs",
 	"pinyin": "wēnzhōushì",
 	"parent": "330000"
-}, {
-	"level": 2,
-	"code": "330301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330300"
 }, {
 	"level": 2,
 	"code": "330302",
@@ -7350,10 +6559,10 @@
 	"parent": "330300"
 }, {
 	"level": 2,
-	"code": "330322",
-	"name": "洞头县",
-	"initials": "dtx",
-	"pinyin": "dòngtóuxiàn",
+	"code": "330305",
+	"name": "洞头区",
+	"initials": "dtq",
+	"pinyin": "dòngtóuqū",
 	"parent": "330300"
 }, {
 	"level": 2,
@@ -7405,19 +6614,19 @@
 	"pinyin": "lèqīngshì",
 	"parent": "330300"
 }, {
+	"level": 2,
+	"code": "330383",
+	"name": "龙港市",
+	"initials": "lgs",
+	"pinyin": "lónggǎngshì",
+	"parent": "330300"
+}, {
 	"level": 1,
 	"code": "330400",
 	"name": "嘉兴市",
 	"initials": "jxs",
 	"pinyin": "jiāxīngshì",
 	"parent": "330000"
-}, {
-	"level": 2,
-	"code": "330401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330400"
 }, {
 	"level": 2,
 	"code": "330402",
@@ -7476,13 +6685,6 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "330501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330500"
-}, {
-	"level": 2,
 	"code": "330502",
 	"name": "吴兴区",
 	"initials": "wxq",
@@ -7525,13 +6727,6 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "330601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330600"
-}, {
-	"level": 2,
 	"code": "330602",
 	"name": "越城区",
 	"initials": "ycq",
@@ -7539,10 +6734,17 @@
 	"parent": "330600"
 }, {
 	"level": 2,
-	"code": "330621",
-	"name": "绍兴县",
-	"initials": "sxx",
-	"pinyin": "shàoxīngxiàn",
+	"code": "330603",
+	"name": "柯桥区",
+	"initials": "kqq",
+	"pinyin": "kēqiáoqū",
+	"parent": "330600"
+}, {
+	"level": 2,
+	"code": "330604",
+	"name": "上虞区",
+	"initials": "syq",
+	"pinyin": "shàngyúqū",
 	"parent": "330600"
 }, {
 	"level": 2,
@@ -7560,13 +6762,6 @@
 	"parent": "330600"
 }, {
 	"level": 2,
-	"code": "330682",
-	"name": "上虞市",
-	"initials": "sys",
-	"pinyin": "shàngyúshì",
-	"parent": "330600"
-}, {
-	"level": 2,
 	"code": "330683",
 	"name": "嵊州市",
 	"initials": "szs",
@@ -7579,13 +6774,6 @@
 	"initials": "jhs",
 	"pinyin": "jīnhuáshì",
 	"parent": "330000"
-}, {
-	"level": 2,
-	"code": "330701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330700"
 }, {
 	"level": 2,
 	"code": "330702",
@@ -7658,13 +6846,6 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "330801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330800"
-}, {
-	"level": 2,
 	"code": "330802",
 	"name": "柯城区",
 	"initials": "kcq",
@@ -7714,13 +6895,6 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "330901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "330900"
-}, {
-	"level": 2,
 	"code": "330902",
 	"name": "定海区",
 	"initials": "dhq",
@@ -7756,13 +6930,6 @@
 	"parent": "330000"
 }, {
 	"level": 2,
-	"code": "331001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "331000"
-}, {
-	"level": 2,
 	"code": "331002",
 	"name": "椒江区",
 	"initials": "jjq",
@@ -7781,13 +6948,6 @@
 	"name": "路桥区",
 	"initials": "lqq",
 	"pinyin": "lùqiáoqū",
-	"parent": "331000"
-}, {
-	"level": 2,
-	"code": "331021",
-	"name": "玉环县",
-	"initials": "yhx",
-	"pinyin": "yùhuánxiàn",
 	"parent": "331000"
 }, {
 	"level": 2,
@@ -7825,19 +6985,19 @@
 	"pinyin": "línhǎishì",
 	"parent": "331000"
 }, {
+	"level": 2,
+	"code": "331083",
+	"name": "玉环市",
+	"initials": "yhs",
+	"pinyin": "yùhuánshì",
+	"parent": "331000"
+}, {
 	"level": 1,
 	"code": "331100",
 	"name": "丽水市",
 	"initials": "lss",
 	"pinyin": "lìshǔishì",
 	"parent": "330000"
-}, {
-	"level": 2,
-	"code": "331101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "331100"
 }, {
 	"level": 2,
 	"code": "331102",
@@ -7917,13 +7077,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "340101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340100"
-}, {
-	"level": 2,
 	"code": "340102",
 	"name": "瑶海区",
 	"initials": "yhq",
@@ -7972,6 +7125,20 @@
 	"pinyin": "féixīxiàn",
 	"parent": "340100"
 }, {
+	"level": 2,
+	"code": "340124",
+	"name": "庐江县",
+	"initials": "ljx",
+	"pinyin": "lújiāngxiàn",
+	"parent": "340100"
+}, {
+	"level": 2,
+	"code": "340181",
+	"name": "巢湖市",
+	"initials": "chs",
+	"pinyin": "cháohúshì",
+	"parent": "340100"
+}, {
 	"level": 1,
 	"code": "340200",
 	"name": "芜湖市",
@@ -7980,24 +7147,10 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "340201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340200"
-}, {
-	"level": 2,
 	"code": "340202",
 	"name": "镜湖区",
 	"initials": "jhq",
 	"pinyin": "jìnghúqū",
-	"parent": "340200"
-}, {
-	"level": 2,
-	"code": "340203",
-	"name": "弋江区",
-	"initials": "yjq",
-	"pinyin": "yìjiāngqū",
 	"parent": "340200"
 }, {
 	"level": 2,
@@ -8008,24 +7161,24 @@
 	"parent": "340200"
 }, {
 	"level": 2,
-	"code": "340208",
-	"name": "三山区",
-	"initials": "ssq",
-	"pinyin": "sānshānqū",
+	"code": "340209",
+	"name": "弋江区",
+	"initials": "yjq",
+	"pinyin": "yìjiāngqū",
 	"parent": "340200"
 }, {
 	"level": 2,
-	"code": "340221",
-	"name": "芜湖县",
-	"initials": "whx",
-	"pinyin": "wúhúxiàn",
+	"code": "340210",
+	"name": "湾沚区",
+	"initials": "wzq",
+	"pinyin": "wānzhǐqū",
 	"parent": "340200"
 }, {
 	"level": 2,
-	"code": "340222",
-	"name": "繁昌县",
-	"initials": "fcx",
-	"pinyin": "fánchāngxiàn",
+	"code": "340212",
+	"name": "繁昌区",
+	"initials": "fcq",
+	"pinyin": "fánchāngqū",
 	"parent": "340200"
 }, {
 	"level": 2,
@@ -8035,19 +7188,19 @@
 	"pinyin": "nánlíngxiàn",
 	"parent": "340200"
 }, {
+	"level": 2,
+	"code": "340281",
+	"name": "无为市",
+	"initials": "wws",
+	"pinyin": "wúwèishì",
+	"parent": "340200"
+}, {
 	"level": 1,
 	"code": "340300",
 	"name": "蚌埠市",
 	"initials": "bbs",
 	"pinyin": "bàngbùshì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "340301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340300"
 }, {
 	"level": 2,
 	"code": "340302",
@@ -8106,13 +7259,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "340401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340400"
-}, {
-	"level": 2,
 	"code": "340402",
 	"name": "大通区",
 	"initials": "dtq",
@@ -8154,26 +7300,19 @@
 	"pinyin": "fèngtáixiàn",
 	"parent": "340400"
 }, {
+	"level": 2,
+	"code": "340422",
+	"name": "寿县",
+	"initials": "sx",
+	"pinyin": "shòuxiàn",
+	"parent": "340400"
+}, {
 	"level": 1,
 	"code": "340500",
 	"name": "马鞍山市",
 	"initials": "māss",
 	"pinyin": "mǎānshānshì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "340501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340500"
-}, {
-	"level": 2,
-	"code": "340502",
-	"name": "金家庄区",
-	"initials": "jjzq",
-	"pinyin": "jīnjiāzhuāngqū",
-	"parent": "340500"
 }, {
 	"level": 2,
 	"code": "340503",
@@ -8190,10 +7329,31 @@
 	"parent": "340500"
 }, {
 	"level": 2,
+	"code": "340506",
+	"name": "博望区",
+	"initials": "bwq",
+	"pinyin": "bówàngqū",
+	"parent": "340500"
+}, {
+	"level": 2,
 	"code": "340521",
 	"name": "当涂县",
 	"initials": "dtx",
 	"pinyin": "dāngtúxiàn",
+	"parent": "340500"
+}, {
+	"level": 2,
+	"code": "340522",
+	"name": "含山县",
+	"initials": "hsx",
+	"pinyin": "hánshānxiàn",
+	"parent": "340500"
+}, {
+	"level": 2,
+	"code": "340523",
+	"name": "和县",
+	"initials": "hx",
+	"pinyin": "héxiàn",
 	"parent": "340500"
 }, {
 	"level": 1,
@@ -8202,13 +7362,6 @@
 	"initials": "hbs",
 	"pinyin": "huáiběishì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "340601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340600"
 }, {
 	"level": 2,
 	"code": "340602",
@@ -8246,24 +7399,17 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "340701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "340705",
+	"name": "铜官区",
+	"initials": "tgq",
+	"pinyin": "tóngguānqū",
 	"parent": "340700"
 }, {
 	"level": 2,
-	"code": "340702",
-	"name": "铜官山区",
-	"initials": "tgsq",
-	"pinyin": "tóngguānshānqū",
-	"parent": "340700"
-}, {
-	"level": 2,
-	"code": "340703",
-	"name": "狮子山区",
-	"initials": "szsq",
-	"pinyin": "shīzǐshānqū",
+	"code": "340706",
+	"name": "义安区",
+	"initials": "yāq",
+	"pinyin": "yìānqū",
 	"parent": "340700"
 }, {
 	"level": 2,
@@ -8274,10 +7420,10 @@
 	"parent": "340700"
 }, {
 	"level": 2,
-	"code": "340721",
-	"name": "铜陵县",
-	"initials": "tlx",
-	"pinyin": "tónglíngxiàn",
+	"code": "340722",
+	"name": "枞阳县",
+	"initials": "cyx",
+	"pinyin": "cōngyángxiàn",
 	"parent": "340700"
 }, {
 	"level": 1,
@@ -8286,13 +7432,6 @@
 	"initials": "āqs",
 	"pinyin": "ānqìngshì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "340801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "340800"
 }, {
 	"level": 2,
 	"code": "340802",
@@ -8320,20 +7459,6 @@
 	"name": "怀宁县",
 	"initials": "hnx",
 	"pinyin": "huáiníngxiàn",
-	"parent": "340800"
-}, {
-	"level": 2,
-	"code": "340823",
-	"name": "枞阳县",
-	"initials": "cyx",
-	"pinyin": "cōngyángxiàn",
-	"parent": "340800"
-}, {
-	"level": 2,
-	"code": "340824",
-	"name": "潜山县",
-	"initials": "qsx",
-	"pinyin": "qiánshānxiàn",
 	"parent": "340800"
 }, {
 	"level": 2,
@@ -8371,19 +7496,19 @@
 	"pinyin": "tóngchéngshì",
 	"parent": "340800"
 }, {
+	"level": 2,
+	"code": "340882",
+	"name": "潜山市",
+	"initials": "qss",
+	"pinyin": "qiánshānshì",
+	"parent": "340800"
+}, {
 	"level": 1,
 	"code": "341000",
 	"name": "黄山市",
 	"initials": "hss",
 	"pinyin": "huángshānshì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "341001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341000"
 }, {
 	"level": 2,
 	"code": "341002",
@@ -8440,13 +7565,6 @@
 	"initials": "czs",
 	"pinyin": "chúzhōushì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "341101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341100"
 }, {
 	"level": 2,
 	"code": "341102",
@@ -8512,13 +7630,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "341201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341200"
-}, {
-	"level": 2,
 	"code": "341202",
 	"name": "颍州区",
 	"initials": "yzq",
@@ -8582,13 +7693,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "341301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341300"
-}, {
-	"level": 2,
 	"code": "341302",
 	"name": "埇桥区",
 	"initials": "yqq",
@@ -8624,67 +7728,11 @@
 	"parent": "341300"
 }, {
 	"level": 1,
-	"code": "341400",
-	"name": "巢湖市",
-	"initials": "chs",
-	"pinyin": "cháohúshì",
-	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "341401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341400"
-}, {
-	"level": 2,
-	"code": "341402",
-	"name": "居巢区",
-	"initials": "jcq",
-	"pinyin": "jūcháoqū",
-	"parent": "341400"
-}, {
-	"level": 2,
-	"code": "341421",
-	"name": "庐江县",
-	"initials": "ljx",
-	"pinyin": "lújiāngxiàn",
-	"parent": "341400"
-}, {
-	"level": 2,
-	"code": "341422",
-	"name": "无为县",
-	"initials": "wwx",
-	"pinyin": "wúwèixiàn",
-	"parent": "341400"
-}, {
-	"level": 2,
-	"code": "341423",
-	"name": "含山县",
-	"initials": "hsx",
-	"pinyin": "hánshānxiàn",
-	"parent": "341400"
-}, {
-	"level": 2,
-	"code": "341424",
-	"name": "和县",
-	"initials": "hx",
-	"pinyin": "héxiàn",
-	"parent": "341400"
-}, {
-	"level": 1,
 	"code": "341500",
 	"name": "六安市",
 	"initials": "lās",
 	"pinyin": "lìuānshì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "341501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341500"
 }, {
 	"level": 2,
 	"code": "341502",
@@ -8701,10 +7749,10 @@
 	"parent": "341500"
 }, {
 	"level": 2,
-	"code": "341521",
-	"name": "寿县",
-	"initials": "sx",
-	"pinyin": "shòuxiàn",
+	"code": "341504",
+	"name": "叶集区",
+	"initials": "yjq",
+	"pinyin": "yèjíqū",
 	"parent": "341500"
 }, {
 	"level": 2,
@@ -8743,13 +7791,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "341601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341600"
-}, {
-	"level": 2,
 	"code": "341602",
 	"name": "谯城区",
 	"initials": "qcq",
@@ -8783,13 +7824,6 @@
 	"initials": "czs",
 	"pinyin": "chízhōushì",
 	"parent": "340000"
-}, {
-	"level": 2,
-	"code": "341701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341700"
 }, {
 	"level": 2,
 	"code": "341702",
@@ -8827,13 +7861,6 @@
 	"parent": "340000"
 }, {
 	"level": 2,
-	"code": "341801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "341800"
-}, {
-	"level": 2,
 	"code": "341802",
 	"name": "宣州区",
 	"initials": "xzq",
@@ -8845,13 +7872,6 @@
 	"name": "郎溪县",
 	"initials": "lxx",
 	"pinyin": "lángxīxiàn",
-	"parent": "341800"
-}, {
-	"level": 2,
-	"code": "341822",
-	"name": "广德县",
-	"initials": "gdx",
-	"pinyin": "guǎngdéxiàn",
 	"parent": "341800"
 }, {
 	"level": 2,
@@ -8882,6 +7902,13 @@
 	"pinyin": "níngguóshì",
 	"parent": "341800"
 }, {
+	"level": 2,
+	"code": "341882",
+	"name": "广德市",
+	"initials": "gds",
+	"pinyin": "guǎngdéshì",
+	"parent": "341800"
+}, {
 	"level": 0,
 	"code": "350000",
 	"name": "福建省",
@@ -8895,13 +7922,6 @@
 	"initials": "fzs",
 	"pinyin": "fúzhōushì",
 	"parent": "350000"
-}, {
-	"level": 2,
-	"code": "350101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350100"
 }, {
 	"level": 2,
 	"code": "350102",
@@ -8936,6 +7956,13 @@
 	"name": "晋安区",
 	"initials": "jāq",
 	"pinyin": "jìnānqū",
+	"parent": "350100"
+}, {
+	"level": 2,
+	"code": "350112",
+	"name": "长乐区",
+	"initials": "clq",
+	"pinyin": "chánglèqū",
 	"parent": "350100"
 }, {
 	"level": 2,
@@ -8987,26 +8014,12 @@
 	"pinyin": "fúqīngshì",
 	"parent": "350100"
 }, {
-	"level": 2,
-	"code": "350182",
-	"name": "长乐市",
-	"initials": "cls",
-	"pinyin": "chánglèshì",
-	"parent": "350100"
-}, {
 	"level": 1,
 	"code": "350200",
 	"name": "厦门市",
 	"initials": "sms",
 	"pinyin": "shàménshì",
 	"parent": "350000"
-}, {
-	"level": 2,
-	"code": "350201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350200"
 }, {
 	"level": 2,
 	"code": "350203",
@@ -9058,13 +8071,6 @@
 	"parent": "350000"
 }, {
 	"level": 2,
-	"code": "350301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350300"
-}, {
-	"level": 2,
 	"code": "350302",
 	"name": "城厢区",
 	"initials": "cxq",
@@ -9105,13 +8111,6 @@
 	"initials": "sms",
 	"pinyin": "sānmíngshì",
 	"parent": "350000"
-}, {
-	"level": 2,
-	"code": "350401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350400"
 }, {
 	"level": 2,
 	"code": "350402",
@@ -9205,13 +8204,6 @@
 	"parent": "350000"
 }, {
 	"level": 2,
-	"code": "350501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350500"
-}, {
-	"level": 2,
 	"code": "350502",
 	"name": "鲤城区",
 	"initials": "lcq",
@@ -9303,13 +8295,6 @@
 	"parent": "350000"
 }, {
 	"level": 2,
-	"code": "350601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350600"
-}, {
-	"level": 2,
 	"code": "350602",
 	"name": "芗城区",
 	"initials": "xcq",
@@ -9394,17 +8379,17 @@
 	"parent": "350000"
 }, {
 	"level": 2,
-	"code": "350701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350700"
-}, {
-	"level": 2,
 	"code": "350702",
 	"name": "延平区",
 	"initials": "ypq",
 	"pinyin": "yánpíngqū",
+	"parent": "350700"
+}, {
+	"level": 2,
+	"code": "350703",
+	"name": "建阳区",
+	"initials": "jyq",
+	"pinyin": "jiànyángqū",
 	"parent": "350700"
 }, {
 	"level": 2,
@@ -9463,26 +8448,12 @@
 	"pinyin": "jiànōushì",
 	"parent": "350700"
 }, {
-	"level": 2,
-	"code": "350784",
-	"name": "建阳市",
-	"initials": "jys",
-	"pinyin": "jiànyángshì",
-	"parent": "350700"
-}, {
 	"level": 1,
 	"code": "350800",
 	"name": "龙岩市",
 	"initials": "lys",
 	"pinyin": "lóngyánshì",
 	"parent": "350000"
-}, {
-	"level": 2,
-	"code": "350801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350800"
 }, {
 	"level": 2,
 	"code": "350802",
@@ -9492,17 +8463,17 @@
 	"parent": "350800"
 }, {
 	"level": 2,
+	"code": "350803",
+	"name": "永定区",
+	"initials": "ydq",
+	"pinyin": "yǒngdìngqū",
+	"parent": "350800"
+}, {
+	"level": 2,
 	"code": "350821",
 	"name": "长汀县",
 	"initials": "ctx",
 	"pinyin": "chángtīngxiàn",
-	"parent": "350800"
-}, {
-	"level": 2,
-	"code": "350822",
-	"name": "永定县",
-	"initials": "ydx",
-	"pinyin": "yǒngdìngxiàn",
 	"parent": "350800"
 }, {
 	"level": 2,
@@ -9539,13 +8510,6 @@
 	"initials": "nds",
 	"pinyin": "níngdéshì",
 	"parent": "350000"
-}, {
-	"level": 2,
-	"code": "350901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "350900"
 }, {
 	"level": 2,
 	"code": "350902",
@@ -9625,13 +8589,6 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "360101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360100"
-}, {
-	"level": 2,
 	"code": "360102",
 	"name": "东湖区",
 	"initials": "dhq",
@@ -9653,13 +8610,6 @@
 	"parent": "360100"
 }, {
 	"level": 2,
-	"code": "360105",
-	"name": "湾里区",
-	"initials": "wlq",
-	"pinyin": "wānlǐqū",
-	"parent": "360100"
-}, {
-	"level": 2,
 	"code": "360111",
 	"name": "青山湖区",
 	"initials": "qshq",
@@ -9667,17 +8617,24 @@
 	"parent": "360100"
 }, {
 	"level": 2,
+	"code": "360112",
+	"name": "新建区",
+	"initials": "xjq",
+	"pinyin": "xīnjiànqū",
+	"parent": "360100"
+}, {
+	"level": 2,
+	"code": "360113",
+	"name": "红谷滩区",
+	"initials": "hgtq",
+	"pinyin": "hónggǔtānqū",
+	"parent": "360100"
+}, {
+	"level": 2,
 	"code": "360121",
 	"name": "南昌县",
 	"initials": "ncx",
 	"pinyin": "nánchāngxiàn",
-	"parent": "360100"
-}, {
-	"level": 2,
-	"code": "360122",
-	"name": "新建县",
-	"initials": "xjx",
-	"pinyin": "xīnjiànxiàn",
 	"parent": "360100"
 }, {
 	"level": 2,
@@ -9700,13 +8657,6 @@
 	"initials": "jdzs",
 	"pinyin": "jǐngdézhènshì",
 	"parent": "360000"
-}, {
-	"level": 2,
-	"code": "360201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360200"
 }, {
 	"level": 2,
 	"code": "360202",
@@ -9742,13 +8692,6 @@
 	"initials": "pxs",
 	"pinyin": "píngxiāngshì",
 	"parent": "360000"
-}, {
-	"level": 2,
-	"code": "360301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360300"
 }, {
 	"level": 2,
 	"code": "360302",
@@ -9793,17 +8736,10 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "360401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360400"
-}, {
-	"level": 2,
 	"code": "360402",
-	"name": "庐山区",
-	"initials": "lsq",
-	"pinyin": "lúshānqū",
+	"name": "濂溪区",
+	"initials": "lxq",
+	"pinyin": "liánxīqū",
 	"parent": "360400"
 }, {
 	"level": 2,
@@ -9814,10 +8750,10 @@
 	"parent": "360400"
 }, {
 	"level": 2,
-	"code": "360421",
-	"name": "九江县",
-	"initials": "jjx",
-	"pinyin": "jǐujiāngxiàn",
+	"code": "360404",
+	"name": "柴桑区",
+	"initials": "csq",
+	"pinyin": "cháisāngqū",
 	"parent": "360400"
 }, {
 	"level": 2,
@@ -9846,13 +8782,6 @@
 	"name": "德安县",
 	"initials": "dāx",
 	"pinyin": "déānxiàn",
-	"parent": "360400"
-}, {
-	"level": 2,
-	"code": "360427",
-	"name": "星子县",
-	"initials": "xzx",
-	"pinyin": "xīngzǐxiàn",
 	"parent": "360400"
 }, {
 	"level": 2,
@@ -9890,19 +8819,19 @@
 	"pinyin": "gòngqīngchéngshì",
 	"parent": "360400"
 }, {
+	"level": 2,
+	"code": "360483",
+	"name": "庐山市",
+	"initials": "lss",
+	"pinyin": "lúshānshì",
+	"parent": "360400"
+}, {
 	"level": 1,
 	"code": "360500",
 	"name": "新余市",
 	"initials": "xys",
 	"pinyin": "xīnyúshì",
 	"parent": "360000"
-}, {
-	"level": 2,
-	"code": "360501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360500"
 }, {
 	"level": 2,
 	"code": "360502",
@@ -9926,13 +8855,6 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "360601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360600"
-}, {
-	"level": 2,
 	"code": "360602",
 	"name": "月湖区",
 	"initials": "yhq",
@@ -9940,10 +8862,10 @@
 	"parent": "360600"
 }, {
 	"level": 2,
-	"code": "360622",
-	"name": "余江县",
-	"initials": "yjx",
-	"pinyin": "yújiāngxiàn",
+	"code": "360603",
+	"name": "余江区",
+	"initials": "yjq",
+	"pinyin": "yújiāngqū",
 	"parent": "360600"
 }, {
 	"level": 2,
@@ -9961,13 +8883,6 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "360701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360700"
-}, {
-	"level": 2,
 	"code": "360702",
 	"name": "章贡区",
 	"initials": "zgq",
@@ -9975,10 +8890,17 @@
 	"parent": "360700"
 }, {
 	"level": 2,
-	"code": "360721",
-	"name": "赣县",
-	"initials": "gx",
-	"pinyin": "gànxiàn",
+	"code": "360703",
+	"name": "南康区",
+	"initials": "nkq",
+	"pinyin": "nánkāngqū",
+	"parent": "360700"
+}, {
+	"level": 2,
+	"code": "360704",
+	"name": "赣县区",
+	"initials": "gxq",
+	"pinyin": "gànxiànqū",
 	"parent": "360700"
 }, {
 	"level": 2,
@@ -10014,13 +8936,6 @@
 	"name": "安远县",
 	"initials": "āyx",
 	"pinyin": "ānyuǎnxiàn",
-	"parent": "360700"
-}, {
-	"level": 2,
-	"code": "360727",
-	"name": "龙南县",
-	"initials": "lnx",
-	"pinyin": "lóngnánxiàn",
 	"parent": "360700"
 }, {
 	"level": 2,
@@ -10087,10 +9002,10 @@
 	"parent": "360700"
 }, {
 	"level": 2,
-	"code": "360782",
-	"name": "南康市",
-	"initials": "nks",
-	"pinyin": "nánkāngshì",
+	"code": "360783",
+	"name": "龙南市",
+	"initials": "lns",
+	"pinyin": "lóngnánshì",
 	"parent": "360700"
 }, {
 	"level": 1,
@@ -10099,13 +9014,6 @@
 	"initials": "jās",
 	"pinyin": "jíānshì",
 	"parent": "360000"
-}, {
-	"level": 2,
-	"code": "360801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360800"
 }, {
 	"level": 2,
 	"code": "360802",
@@ -10206,13 +9114,6 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "360901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "360900"
-}, {
-	"level": 2,
 	"code": "360902",
 	"name": "袁州区",
 	"initials": "yzq",
@@ -10290,17 +9191,17 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "361001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "361000"
-}, {
-	"level": 2,
 	"code": "361002",
 	"name": "临川区",
 	"initials": "lcq",
 	"pinyin": "línchuānqū",
+	"parent": "361000"
+}, {
+	"level": 2,
+	"code": "361003",
+	"name": "东乡区",
+	"initials": "dxq",
+	"pinyin": "dōngxiāngqū",
 	"parent": "361000"
 }, {
 	"level": 2,
@@ -10360,13 +9261,6 @@
 	"parent": "361000"
 }, {
 	"level": 2,
-	"code": "361029",
-	"name": "东乡县",
-	"initials": "dxx",
-	"pinyin": "dōngxiāngxiàn",
-	"parent": "361000"
-}, {
-	"level": 2,
 	"code": "361030",
 	"name": "广昌县",
 	"initials": "gcx",
@@ -10381,13 +9275,6 @@
 	"parent": "360000"
 }, {
 	"level": 2,
-	"code": "361101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "361100"
-}, {
-	"level": 2,
 	"code": "361102",
 	"name": "信州区",
 	"initials": "xzq",
@@ -10395,17 +9282,17 @@
 	"parent": "361100"
 }, {
 	"level": 2,
-	"code": "361121",
-	"name": "上饶县",
-	"initials": "srx",
-	"pinyin": "shàngráoxiàn",
+	"code": "361103",
+	"name": "广丰区",
+	"initials": "gfq",
+	"pinyin": "guǎngfēngqū",
 	"parent": "361100"
 }, {
 	"level": 2,
-	"code": "361122",
-	"name": "广丰县",
-	"initials": "gfx",
-	"pinyin": "guǎngfēngxiàn",
+	"code": "361104",
+	"name": "广信区",
+	"initials": "gxq",
+	"pinyin": "guǎngxìnqū",
 	"parent": "361100"
 }, {
 	"level": 2,
@@ -10486,13 +9373,6 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "370101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370100"
-}, {
-	"level": 2,
 	"code": "370102",
 	"name": "历下区",
 	"initials": "lxq",
@@ -10535,17 +9415,38 @@
 	"parent": "370100"
 }, {
 	"level": 2,
+	"code": "370114",
+	"name": "章丘区",
+	"initials": "zqq",
+	"pinyin": "zhāngqīuqū",
+	"parent": "370100"
+}, {
+	"level": 2,
+	"code": "370115",
+	"name": "济阳区",
+	"initials": "jyq",
+	"pinyin": "jìyángqū",
+	"parent": "370100"
+}, {
+	"level": 2,
+	"code": "370116",
+	"name": "莱芜区",
+	"initials": "lwq",
+	"pinyin": "láiwúqū",
+	"parent": "370100"
+}, {
+	"level": 2,
+	"code": "370117",
+	"name": "钢城区",
+	"initials": "gcq",
+	"pinyin": "gāngchéngqū",
+	"parent": "370100"
+}, {
+	"level": 2,
 	"code": "370124",
 	"name": "平阴县",
 	"initials": "pyx",
 	"pinyin": "píngyīnxiàn",
-	"parent": "370100"
-}, {
-	"level": 2,
-	"code": "370125",
-	"name": "济阳县",
-	"initials": "jyx",
-	"pinyin": "jìyángxiàn",
 	"parent": "370100"
 }, {
 	"level": 2,
@@ -10555,26 +9456,12 @@
 	"pinyin": "shānghéxiàn",
 	"parent": "370100"
 }, {
-	"level": 2,
-	"code": "370181",
-	"name": "章丘市",
-	"initials": "zqs",
-	"pinyin": "zhāngqīushì",
-	"parent": "370100"
-}, {
 	"level": 1,
 	"code": "370200",
 	"name": "青岛市",
 	"initials": "qds",
 	"pinyin": "qīngdǎoshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "370201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370200"
 }, {
 	"level": 2,
 	"code": "370202",
@@ -10588,13 +9475,6 @@
 	"name": "市北区",
 	"initials": "sbq",
 	"pinyin": "shìběiqū",
-	"parent": "370200"
-}, {
-	"level": 2,
-	"code": "370205",
-	"name": "四方区",
-	"initials": "sfq",
-	"pinyin": "sìfāngqū",
 	"parent": "370200"
 }, {
 	"level": 2,
@@ -10626,6 +9506,13 @@
 	"parent": "370200"
 }, {
 	"level": 2,
+	"code": "370215",
+	"name": "即墨区",
+	"initials": "jmq",
+	"pinyin": "jímòqū",
+	"parent": "370200"
+}, {
+	"level": 2,
 	"code": "370281",
 	"name": "胶州市",
 	"initials": "xzs",
@@ -10633,24 +9520,10 @@
 	"parent": "370200"
 }, {
 	"level": 2,
-	"code": "370282",
-	"name": "即墨市",
-	"initials": "jms",
-	"pinyin": "jímòshì",
-	"parent": "370200"
-}, {
-	"level": 2,
 	"code": "370283",
 	"name": "平度市",
 	"initials": "pds",
 	"pinyin": "píngdùshì",
-	"parent": "370200"
-}, {
-	"level": 2,
-	"code": "370284",
-	"name": "胶南市",
-	"initials": "xns",
-	"pinyin": "xiáonánshì",
 	"parent": "370200"
 }, {
 	"level": 2,
@@ -10666,13 +9539,6 @@
 	"initials": "zbs",
 	"pinyin": "zībóshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "370301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370300"
 }, {
 	"level": 2,
 	"code": "370302",
@@ -10738,13 +9604,6 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "370401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370400"
-}, {
-	"level": 2,
 	"code": "370402",
 	"name": "市中区",
 	"initials": "szq",
@@ -10794,13 +9653,6 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "370501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370500"
-}, {
-	"level": 2,
 	"code": "370502",
 	"name": "东营区",
 	"initials": "dyq",
@@ -10815,10 +9667,10 @@
 	"parent": "370500"
 }, {
 	"level": 2,
-	"code": "370521",
-	"name": "垦利县",
-	"initials": "klx",
-	"pinyin": "kěnlìxiàn",
+	"code": "370505",
+	"name": "垦利区",
+	"initials": "klq",
+	"pinyin": "kěnlìqū",
 	"parent": "370500"
 }, {
 	"level": 2,
@@ -10841,13 +9693,6 @@
 	"initials": "yts",
 	"pinyin": "yāntáishì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "370601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370600"
 }, {
 	"level": 2,
 	"code": "370602",
@@ -10878,10 +9723,10 @@
 	"parent": "370600"
 }, {
 	"level": 2,
-	"code": "370634",
-	"name": "长岛县",
-	"initials": "cdx",
-	"pinyin": "chángdǎoxiàn",
+	"code": "370614",
+	"name": "蓬莱区",
+	"initials": "plq",
+	"pinyin": "péngláiqū",
 	"parent": "370600"
 }, {
 	"level": 2,
@@ -10903,13 +9748,6 @@
 	"name": "莱州市",
 	"initials": "lzs",
 	"pinyin": "láizhōushì",
-	"parent": "370600"
-}, {
-	"level": 2,
-	"code": "370684",
-	"name": "蓬莱市",
-	"initials": "pls",
-	"pinyin": "péngláishì",
 	"parent": "370600"
 }, {
 	"level": 2,
@@ -10939,13 +9777,6 @@
 	"initials": "wfs",
 	"pinyin": "wéifāngshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "370701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370700"
 }, {
 	"level": 2,
 	"code": "370702",
@@ -11039,24 +9870,17 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "370801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370800"
-}, {
-	"level": 2,
-	"code": "370802",
-	"name": "市中区",
-	"initials": "szq",
-	"pinyin": "shìzhōngqū",
-	"parent": "370800"
-}, {
-	"level": 2,
 	"code": "370811",
 	"name": "任城区",
 	"initials": "rcq",
 	"pinyin": "rènchéngqū",
+	"parent": "370800"
+}, {
+	"level": 2,
+	"code": "370812",
+	"name": "兖州区",
+	"initials": "yzq",
+	"pinyin": "yǎnzhōuqū",
 	"parent": "370800"
 }, {
 	"level": 2,
@@ -11116,13 +9940,6 @@
 	"parent": "370800"
 }, {
 	"level": 2,
-	"code": "370882",
-	"name": "兖州市",
-	"initials": "yzs",
-	"pinyin": "yǎnzhōushì",
-	"parent": "370800"
-}, {
-	"level": 2,
 	"code": "370883",
 	"name": "邹城市",
 	"initials": "zcs",
@@ -11135,13 +9952,6 @@
 	"initials": "tās",
 	"pinyin": "tàiānshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "370901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "370900"
 }, {
 	"level": 2,
 	"code": "370902",
@@ -11193,13 +10003,6 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "371001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371000"
-}, {
-	"level": 2,
 	"code": "371002",
 	"name": "环翠区",
 	"initials": "hcq",
@@ -11207,10 +10010,10 @@
 	"parent": "371000"
 }, {
 	"level": 2,
-	"code": "371081",
-	"name": "文登市",
-	"initials": "wds",
-	"pinyin": "wéndēngshì",
+	"code": "371003",
+	"name": "文登区",
+	"initials": "wdq",
+	"pinyin": "wéndēngqū",
 	"parent": "371000"
 }, {
 	"level": 2,
@@ -11233,13 +10036,6 @@
 	"initials": "rzs",
 	"pinyin": "rìzhàoshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "371101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371100"
 }, {
 	"level": 2,
 	"code": "371102",
@@ -11270,46 +10066,11 @@
 	"parent": "371100"
 }, {
 	"level": 1,
-	"code": "371200",
-	"name": "莱芜市",
-	"initials": "lws",
-	"pinyin": "láiwúshì",
-	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "371201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371200"
-}, {
-	"level": 2,
-	"code": "371202",
-	"name": "莱城区",
-	"initials": "lcq",
-	"pinyin": "láichéngqū",
-	"parent": "371200"
-}, {
-	"level": 2,
-	"code": "371203",
-	"name": "钢城区",
-	"initials": "gcq",
-	"pinyin": "gāngchéngqū",
-	"parent": "371200"
-}, {
-	"level": 1,
 	"code": "371300",
 	"name": "临沂市",
 	"initials": "lys",
 	"pinyin": "línyíshì",
 	"parent": "370000"
-}, {
-	"level": 2,
-	"code": "371301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371300"
 }, {
 	"level": 2,
 	"code": "371302",
@@ -11355,9 +10116,9 @@
 }, {
 	"level": 2,
 	"code": "371324",
-	"name": "苍山县",
-	"initials": "csx",
-	"pinyin": "cāngshānxiàn",
+	"name": "兰陵县",
+	"initials": "llx",
+	"pinyin": "lánlíngxiàn",
 	"parent": "371300"
 }, {
 	"level": 2,
@@ -11403,13 +10164,6 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "371401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371400"
-}, {
-	"level": 2,
 	"code": "371402",
 	"name": "德城区",
 	"initials": "dcq",
@@ -11417,10 +10171,10 @@
 	"parent": "371400"
 }, {
 	"level": 2,
-	"code": "371421",
-	"name": "陵县",
-	"initials": "lx",
-	"pinyin": "língxiàn",
+	"code": "371403",
+	"name": "陵城区",
+	"initials": "lcq",
+	"pinyin": "língchéngqū",
 	"parent": "371400"
 }, {
 	"level": 2,
@@ -11494,17 +10248,17 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "371501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371500"
-}, {
-	"level": 2,
 	"code": "371502",
 	"name": "东昌府区",
 	"initials": "dcfq",
 	"pinyin": "dōngchāngfǔqū",
+	"parent": "371500"
+}, {
+	"level": 2,
+	"code": "371503",
+	"name": "茌平区",
+	"initials": "cpq",
+	"pinyin": "chípíngqū",
 	"parent": "371500"
 }, {
 	"level": 2,
@@ -11519,13 +10273,6 @@
 	"name": "莘县",
 	"initials": "sx",
 	"pinyin": "shēnxiàn",
-	"parent": "371500"
-}, {
-	"level": 2,
-	"code": "371523",
-	"name": "茌平县",
-	"initials": "cpx",
-	"pinyin": "chípíngxiàn",
 	"parent": "371500"
 }, {
 	"level": 2,
@@ -11564,17 +10311,17 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "371601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371600"
-}, {
-	"level": 2,
 	"code": "371602",
 	"name": "滨城区",
 	"initials": "bcq",
 	"pinyin": "bīnchéngqū",
+	"parent": "371600"
+}, {
+	"level": 2,
+	"code": "371603",
+	"name": "沾化区",
+	"initials": "zhq",
+	"pinyin": "zhānhuàqū",
 	"parent": "371600"
 }, {
 	"level": 2,
@@ -11599,13 +10346,6 @@
 	"parent": "371600"
 }, {
 	"level": 2,
-	"code": "371624",
-	"name": "沾化县",
-	"initials": "zhx",
-	"pinyin": "zhānhuàxiàn",
-	"parent": "371600"
-}, {
-	"level": 2,
 	"code": "371625",
 	"name": "博兴县",
 	"initials": "bxx",
@@ -11613,10 +10353,10 @@
 	"parent": "371600"
 }, {
 	"level": 2,
-	"code": "371626",
-	"name": "邹平县",
-	"initials": "zpx",
-	"pinyin": "zōupíngxiàn",
+	"code": "371681",
+	"name": "邹平市",
+	"initials": "zps",
+	"pinyin": "zōupíngshì",
 	"parent": "371600"
 }, {
 	"level": 1,
@@ -11627,17 +10367,17 @@
 	"parent": "370000"
 }, {
 	"level": 2,
-	"code": "371701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "371700"
-}, {
-	"level": 2,
 	"code": "371702",
 	"name": "牡丹区",
 	"initials": "mdq",
 	"pinyin": "mǔdānqū",
+	"parent": "371700"
+}, {
+	"level": 2,
+	"code": "371703",
+	"name": "定陶区",
+	"initials": "dtq",
+	"pinyin": "dìngtáoqū",
 	"parent": "371700"
 }, {
 	"level": 2,
@@ -11683,13 +10423,6 @@
 	"parent": "371700"
 }, {
 	"level": 2,
-	"code": "371727",
-	"name": "定陶县",
-	"initials": "dtx",
-	"pinyin": "dìngtáoxiàn",
-	"parent": "371700"
-}, {
-	"level": 2,
 	"code": "371728",
 	"name": "东明县",
 	"initials": "dmx",
@@ -11709,13 +10442,6 @@
 	"initials": "zzs",
 	"pinyin": "zhèngzhōushì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "410101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410100"
 }, {
 	"level": 2,
 	"code": "410102",
@@ -11809,13 +10535,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "410201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410200"
-}, {
-	"level": 2,
 	"code": "410202",
 	"name": "龙亭区",
 	"initials": "ltq",
@@ -11844,10 +10563,10 @@
 	"parent": "410200"
 }, {
 	"level": 2,
-	"code": "410211",
-	"name": "金明区",
-	"initials": "jmq",
-	"pinyin": "jīnmíngqū",
+	"code": "410212",
+	"name": "祥符区",
+	"initials": "xfq",
+	"pinyin": "xiángfúqū",
 	"parent": "410200"
 }, {
 	"level": 2,
@@ -11872,13 +10591,6 @@
 	"parent": "410200"
 }, {
 	"level": 2,
-	"code": "410224",
-	"name": "开封县",
-	"initials": "kfx",
-	"pinyin": "kāifēngxiàn",
-	"parent": "410200"
-}, {
-	"level": 2,
 	"code": "410225",
 	"name": "兰考县",
 	"initials": "lkx",
@@ -11891,13 +10603,6 @@
 	"initials": "lys",
 	"pinyin": "luòyángshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "410301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410300"
 }, {
 	"level": 2,
 	"code": "410302",
@@ -12012,13 +10717,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "410401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410400"
-}, {
-	"level": 2,
 	"code": "410402",
 	"name": "新华区",
 	"initials": "xhq",
@@ -12096,13 +10794,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "410501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410500"
-}, {
-	"level": 2,
 	"code": "410502",
 	"name": "文峰区",
 	"initials": "wfq",
@@ -12173,13 +10864,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "410601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410600"
-}, {
-	"level": 2,
 	"code": "410602",
 	"name": "鹤山区",
 	"initials": "hsq",
@@ -12220,13 +10904,6 @@
 	"initials": "xxs",
 	"pinyin": "xīnxiāngshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "410701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410700"
 }, {
 	"level": 2,
 	"code": "410702",
@@ -12292,13 +10969,6 @@
 	"parent": "410700"
 }, {
 	"level": 2,
-	"code": "410728",
-	"name": "长垣县",
-	"initials": "cyx",
-	"pinyin": "chángyuánxiàn",
-	"parent": "410700"
-}, {
-	"level": 2,
 	"code": "410781",
 	"name": "卫辉市",
 	"initials": "whs",
@@ -12312,19 +10982,19 @@
 	"pinyin": "hūixiànshì",
 	"parent": "410700"
 }, {
+	"level": 2,
+	"code": "410783",
+	"name": "长垣市",
+	"initials": "cys",
+	"pinyin": "chángyuánshì",
+	"parent": "410700"
+}, {
 	"level": 1,
 	"code": "410800",
 	"name": "焦作市",
 	"initials": "jzs",
 	"pinyin": "jiāozuòshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "410801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410800"
 }, {
 	"level": 2,
 	"code": "410802",
@@ -12404,13 +11074,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "410901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "410900"
-}, {
-	"level": 2,
 	"code": "410902",
 	"name": "华龙区",
 	"initials": "hlq",
@@ -12460,13 +11123,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "411001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411000"
-}, {
-	"level": 2,
 	"code": "411002",
 	"name": "魏都区",
 	"initials": "wdq",
@@ -12474,10 +11130,10 @@
 	"parent": "411000"
 }, {
 	"level": 2,
-	"code": "411023",
-	"name": "许昌县",
-	"initials": "xcx",
-	"pinyin": "xǔchāngxiàn",
+	"code": "411003",
+	"name": "建安区",
+	"initials": "jāq",
+	"pinyin": "jiànānqū",
 	"parent": "411000"
 }, {
 	"level": 2,
@@ -12514,13 +11170,6 @@
 	"initials": "ths",
 	"pinyin": "tàhéshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "411101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411100"
 }, {
 	"level": 2,
 	"code": "411102",
@@ -12565,13 +11214,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "411201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411200"
-}, {
-	"level": 2,
 	"code": "411202",
 	"name": "湖滨区",
 	"initials": "hbq",
@@ -12579,17 +11221,17 @@
 	"parent": "411200"
 }, {
 	"level": 2,
+	"code": "411203",
+	"name": "陕州区",
+	"initials": "szq",
+	"pinyin": "shǎnzhōuqū",
+	"parent": "411200"
+}, {
+	"level": 2,
 	"code": "411221",
 	"name": "渑池县",
 	"initials": "mcx",
 	"pinyin": "mǐnchíxiàn",
-	"parent": "411200"
-}, {
-	"level": 2,
-	"code": "411222",
-	"name": "陕县",
-	"initials": "sx",
-	"pinyin": "shǎnxiàn",
 	"parent": "411200"
 }, {
 	"level": 2,
@@ -12619,13 +11261,6 @@
 	"initials": "nys",
 	"pinyin": "nányángshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "411301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411300"
 }, {
 	"level": 2,
 	"code": "411302",
@@ -12726,13 +11361,6 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "411401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411400"
-}, {
-	"level": 2,
 	"code": "411402",
 	"name": "梁园区",
 	"initials": "lyq",
@@ -12801,13 +11429,6 @@
 	"initials": "xys",
 	"pinyin": "xìnyángshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "411501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411500"
 }, {
 	"level": 2,
 	"code": "411502",
@@ -12887,17 +11508,17 @@
 	"parent": "410000"
 }, {
 	"level": 2,
-	"code": "411601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411600"
-}, {
-	"level": 2,
 	"code": "411602",
 	"name": "川汇区",
 	"initials": "chq",
 	"pinyin": "chuānhùiqū",
+	"parent": "411600"
+}, {
+	"level": 2,
+	"code": "411603",
+	"name": "淮阳区",
+	"initials": "hyq",
+	"pinyin": "huáiyángqū",
 	"parent": "411600"
 }, {
 	"level": 2,
@@ -12936,13 +11557,6 @@
 	"parent": "411600"
 }, {
 	"level": 2,
-	"code": "411626",
-	"name": "淮阳县",
-	"initials": "hyx",
-	"pinyin": "huáiyángxiàn",
-	"parent": "411600"
-}, {
-	"level": 2,
 	"code": "411627",
 	"name": "太康县",
 	"initials": "tkx",
@@ -12969,13 +11583,6 @@
 	"initials": "zmds",
 	"pinyin": "zhùmǎdiànshì",
 	"parent": "410000"
-}, {
-	"level": 2,
-	"code": "411701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "411700"
 }, {
 	"level": 2,
 	"code": "411702",
@@ -13047,19 +11654,12 @@
 	"pinyin": "xīncàixiàn",
 	"parent": "411700"
 }, {
-	"level": 1,
-	"code": "419000",
-	"name": "省直辖县级行政区划",
-	"initials": "szxxjxzqh",
-	"pinyin": "shěngzhíxiáxiànjíxíngzhèngqūhuá",
-	"parent": "410000"
-}, {
 	"level": 2,
 	"code": "419001",
 	"name": "济源市",
 	"initials": "jys",
 	"pinyin": "jìyuánshì",
-	"parent": "419000"
+	"parent": "411700"
 }, {
 	"level": 0,
 	"code": "420000",
@@ -13074,13 +11674,6 @@
 	"initials": "whs",
 	"pinyin": "wǔhànshì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "420101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420100"
 }, {
 	"level": 2,
 	"code": "420102",
@@ -13181,13 +11774,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "420201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420200"
-}, {
-	"level": 2,
 	"code": "420202",
 	"name": "黄石港区",
 	"initials": "hsgq",
@@ -13237,13 +11823,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "420301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420300"
-}, {
-	"level": 2,
 	"code": "420302",
 	"name": "茅箭区",
 	"initials": "mjq",
@@ -13258,10 +11837,10 @@
 	"parent": "420300"
 }, {
 	"level": 2,
-	"code": "420321",
-	"name": "郧县",
-	"initials": "yx",
-	"pinyin": "yúnxiàn",
+	"code": "420304",
+	"name": "郧阳区",
+	"initials": "yyq",
+	"pinyin": "yúnyángqū",
 	"parent": "420300"
 }, {
 	"level": 2,
@@ -13305,13 +11884,6 @@
 	"initials": "ycs",
 	"pinyin": "yíchāngshì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "420501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420500"
 }, {
 	"level": 2,
 	"code": "420502",
@@ -13406,17 +11978,10 @@
 }, {
 	"level": 1,
 	"code": "420600",
-	"name": "襄樊市",
-	"initials": "xfs",
-	"pinyin": "xiāngfánshì",
+	"name": "襄阳市",
+	"initials": "xys",
+	"pinyin": "xiāngyángshì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "420601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420600"
 }, {
 	"level": 2,
 	"code": "420602",
@@ -13434,9 +11999,9 @@
 }, {
 	"level": 2,
 	"code": "420607",
-	"name": "襄阳区",
-	"initials": "xyq",
-	"pinyin": "xiāngyángqū",
+	"name": "襄州区",
+	"initials": "xzq",
+	"pinyin": "xiāngzhōuqū",
 	"parent": "420600"
 }, {
 	"level": 2,
@@ -13489,13 +12054,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "420701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420700"
-}, {
-	"level": 2,
 	"code": "420702",
 	"name": "梁子湖区",
 	"initials": "lzhq",
@@ -13524,13 +12082,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "420801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420800"
-}, {
-	"level": 2,
 	"code": "420802",
 	"name": "东宝区",
 	"initials": "dbq",
@@ -13542,13 +12093,6 @@
 	"name": "掇刀区",
 	"initials": "ddq",
 	"pinyin": "duódāoqū",
-	"parent": "420800"
-}, {
-	"level": 2,
-	"code": "420821",
-	"name": "京山县",
-	"initials": "jsx",
-	"pinyin": "jīngshānxiàn",
 	"parent": "420800"
 }, {
 	"level": 2,
@@ -13565,19 +12109,19 @@
 	"pinyin": "zhōngxiángshì",
 	"parent": "420800"
 }, {
+	"level": 2,
+	"code": "420882",
+	"name": "京山市",
+	"initials": "jss",
+	"pinyin": "jīngshānshì",
+	"parent": "420800"
+}, {
 	"level": 1,
 	"code": "420900",
 	"name": "孝感市",
 	"initials": "xgs",
 	"pinyin": "xiàogǎnshì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "420901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "420900"
 }, {
 	"level": 2,
 	"code": "420902",
@@ -13636,13 +12180,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "421001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "421000"
-}, {
-	"level": 2,
 	"code": "421002",
 	"name": "沙市区",
 	"initials": "ssq",
@@ -13661,13 +12198,6 @@
 	"name": "公安县",
 	"initials": "gāx",
 	"pinyin": "gōngānxiàn",
-	"parent": "421000"
-}, {
-	"level": 2,
-	"code": "421023",
-	"name": "监利县",
-	"initials": "jlx",
-	"pinyin": "jiānlìxiàn",
 	"parent": "421000"
 }, {
 	"level": 2,
@@ -13698,19 +12228,19 @@
 	"pinyin": "sōngzīshì",
 	"parent": "421000"
 }, {
+	"level": 2,
+	"code": "421088",
+	"name": "监利市",
+	"initials": "jls",
+	"pinyin": "jiānlìshì",
+	"parent": "421000"
+}, {
 	"level": 1,
 	"code": "421100",
 	"name": "黄冈市",
 	"initials": "hgs",
 	"pinyin": "huánggāngshì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "421101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "421100"
 }, {
 	"level": 2,
 	"code": "421102",
@@ -13790,13 +12320,6 @@
 	"parent": "420000"
 }, {
 	"level": 2,
-	"code": "421201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "421200"
-}, {
-	"level": 2,
 	"code": "421202",
 	"name": "咸安区",
 	"initials": "xāq",
@@ -13844,13 +12367,6 @@
 	"initials": "szs",
 	"pinyin": "súizhōushì",
 	"parent": "420000"
-}, {
-	"level": 2,
-	"code": "421301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "421300"
 }, {
 	"level": 2,
 	"code": "421303",
@@ -13936,40 +12452,33 @@
 	"pinyin": "hèfēngxiàn",
 	"parent": "422800"
 }, {
-	"level": 1,
-	"code": "429000",
-	"name": "省直辖县级行政区划",
-	"initials": "szxxjxzqh",
-	"pinyin": "shěngzhíxiáxiànjíxíngzhèngqūhuá",
-	"parent": "420000"
-}, {
 	"level": 2,
 	"code": "429004",
 	"name": "仙桃市",
 	"initials": "xts",
 	"pinyin": "xiāntáoshì",
-	"parent": "429000"
+	"parent": "422800"
 }, {
 	"level": 2,
 	"code": "429005",
 	"name": "潜江市",
 	"initials": "qjs",
 	"pinyin": "qiánjiāngshì",
-	"parent": "429000"
+	"parent": "422800"
 }, {
 	"level": 2,
 	"code": "429006",
 	"name": "天门市",
 	"initials": "tms",
 	"pinyin": "tiānménshì",
-	"parent": "429000"
+	"parent": "422800"
 }, {
 	"level": 2,
 	"code": "429021",
 	"name": "神农架林区",
 	"initials": "snjlq",
 	"pinyin": "shénnóngjiàlínqū",
-	"parent": "429000"
+	"parent": "422800"
 }, {
 	"level": 0,
 	"code": "430000",
@@ -13984,13 +12493,6 @@
 	"initials": "css",
 	"pinyin": "chángshāshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430100"
 }, {
 	"level": 2,
 	"code": "430102",
@@ -14028,24 +12530,17 @@
 	"parent": "430100"
 }, {
 	"level": 2,
+	"code": "430112",
+	"name": "望城区",
+	"initials": "wcq",
+	"pinyin": "wàngchéngqū",
+	"parent": "430100"
+}, {
+	"level": 2,
 	"code": "430121",
 	"name": "长沙县",
 	"initials": "csx",
 	"pinyin": "chángshāxiàn",
-	"parent": "430100"
-}, {
-	"level": 2,
-	"code": "430122",
-	"name": "望城县",
-	"initials": "wcx",
-	"pinyin": "wàngchéngxiàn",
-	"parent": "430100"
-}, {
-	"level": 2,
-	"code": "430124",
-	"name": "宁乡县",
-	"initials": "nxx",
-	"pinyin": "níngxiāngxiàn",
 	"parent": "430100"
 }, {
 	"level": 2,
@@ -14055,19 +12550,19 @@
 	"pinyin": "líuyángshì",
 	"parent": "430100"
 }, {
+	"level": 2,
+	"code": "430182",
+	"name": "宁乡市",
+	"initials": "nxs",
+	"pinyin": "níngxiāngshì",
+	"parent": "430100"
+}, {
 	"level": 1,
 	"code": "430200",
 	"name": "株洲市",
 	"initials": "zzs",
 	"pinyin": "zhūzhōushì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430200"
 }, {
 	"level": 2,
 	"code": "430202",
@@ -14098,10 +12593,10 @@
 	"parent": "430200"
 }, {
 	"level": 2,
-	"code": "430221",
-	"name": "株洲县",
-	"initials": "zzx",
-	"pinyin": "zhūzhōuxiàn",
+	"code": "430212",
+	"name": "渌口区",
+	"initials": "lkq",
+	"pinyin": "lùkǒuqū",
 	"parent": "430200"
 }, {
 	"level": 2,
@@ -14138,13 +12633,6 @@
 	"initials": "xts",
 	"pinyin": "xiāngtánshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430300"
 }, {
 	"level": 2,
 	"code": "430302",
@@ -14187,13 +12675,6 @@
 	"initials": "hys",
 	"pinyin": "héngyángshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430400"
 }, {
 	"level": 2,
 	"code": "430405",
@@ -14287,13 +12768,6 @@
 	"parent": "430000"
 }, {
 	"level": 2,
-	"code": "430501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430500"
-}, {
-	"level": 2,
 	"code": "430502",
 	"name": "双清区",
 	"initials": "sqq",
@@ -14312,13 +12786,6 @@
 	"name": "北塔区",
 	"initials": "btq",
 	"pinyin": "běitǎqū",
-	"parent": "430500"
-}, {
-	"level": 2,
-	"code": "430521",
-	"name": "邵东县",
-	"initials": "sdx",
-	"pinyin": "shàodōngxiàn",
 	"parent": "430500"
 }, {
 	"level": 2,
@@ -14377,19 +12844,19 @@
 	"pinyin": "wǔgāngshì",
 	"parent": "430500"
 }, {
+	"level": 2,
+	"code": "430582",
+	"name": "邵东市",
+	"initials": "sds",
+	"pinyin": "shàodōngshì",
+	"parent": "430500"
+}, {
 	"level": 1,
 	"code": "430600",
 	"name": "岳阳市",
 	"initials": "yys",
 	"pinyin": "yuèyángshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430600"
 }, {
 	"level": 2,
 	"code": "430602",
@@ -14462,13 +12929,6 @@
 	"parent": "430000"
 }, {
 	"level": 2,
-	"code": "430701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430700"
-}, {
-	"level": 2,
 	"code": "430702",
 	"name": "武陵区",
 	"initials": "wlq",
@@ -14539,13 +12999,6 @@
 	"parent": "430000"
 }, {
 	"level": 2,
-	"code": "430801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430800"
-}, {
-	"level": 2,
 	"code": "430802",
 	"name": "永定区",
 	"initials": "ydq",
@@ -14579,13 +13032,6 @@
 	"initials": "yys",
 	"pinyin": "yìyángshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "430901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "430900"
 }, {
 	"level": 2,
 	"code": "430902",
@@ -14635,13 +13081,6 @@
 	"initials": "czs",
 	"pinyin": "chēnzhōushì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "431001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "431000"
 }, {
 	"level": 2,
 	"code": "431002",
@@ -14728,13 +13167,6 @@
 	"parent": "430000"
 }, {
 	"level": 2,
-	"code": "431101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "431100"
-}, {
-	"level": 2,
 	"code": "431102",
 	"name": "零陵区",
 	"initials": "llq",
@@ -14817,13 +13249,6 @@
 	"initials": "hhs",
 	"pinyin": "huáihuàshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "431201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "431200"
 }, {
 	"level": 2,
 	"code": "431202",
@@ -14915,13 +13340,6 @@
 	"initials": "lds",
 	"pinyin": "lóudǐshì",
 	"parent": "430000"
-}, {
-	"level": 2,
-	"code": "431301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "431300"
 }, {
 	"level": 2,
 	"code": "431302",
@@ -15036,13 +13454,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "440101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440100"
-}, {
-	"level": 2,
 	"code": "440103",
 	"name": "荔湾区",
 	"initials": "lwq",
@@ -15106,24 +13517,17 @@
 	"parent": "440100"
 }, {
 	"level": 2,
-	"code": "440116",
-	"name": "萝岗区",
-	"initials": "lgq",
-	"pinyin": "luógǎngqū",
+	"code": "440117",
+	"name": "从化区",
+	"initials": "chq",
+	"pinyin": "cónghuàqū",
 	"parent": "440100"
 }, {
 	"level": 2,
-	"code": "440183",
-	"name": "增城市",
-	"initials": "zcs",
-	"pinyin": "zēngchéngshì",
-	"parent": "440100"
-}, {
-	"level": 2,
-	"code": "440184",
-	"name": "从化市",
-	"initials": "chs",
-	"pinyin": "cónghuàshì",
+	"code": "440118",
+	"name": "增城区",
+	"initials": "zcq",
+	"pinyin": "zēngchéngqū",
 	"parent": "440100"
 }, {
 	"level": 1,
@@ -15132,13 +13536,6 @@
 	"initials": "sgs",
 	"pinyin": "sháoguānshì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "440201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440200"
 }, {
 	"level": 2,
 	"code": "440203",
@@ -15218,13 +13615,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "440301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440300"
-}, {
-	"level": 2,
 	"code": "440303",
 	"name": "罗湖区",
 	"initials": "lhq",
@@ -15266,19 +13656,33 @@
 	"pinyin": "yántiánqū",
 	"parent": "440300"
 }, {
+	"level": 2,
+	"code": "440309",
+	"name": "龙华区",
+	"initials": "lhq",
+	"pinyin": "lónghuáqū",
+	"parent": "440300"
+}, {
+	"level": 2,
+	"code": "440310",
+	"name": "坪山区",
+	"initials": "psq",
+	"pinyin": "píngshānqū",
+	"parent": "440300"
+}, {
+	"level": 2,
+	"code": "440311",
+	"name": "光明区",
+	"initials": "gmq",
+	"pinyin": "guāngmíngqū",
+	"parent": "440300"
+}, {
 	"level": 1,
 	"code": "440400",
 	"name": "珠海市",
 	"initials": "zhs",
 	"pinyin": "zhūhǎishì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "440401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440400"
 }, {
 	"level": 2,
 	"code": "440402",
@@ -15307,13 +13711,6 @@
 	"initials": "sts",
 	"pinyin": "shàntóushì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "440501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440500"
 }, {
 	"level": 2,
 	"code": "440507",
@@ -15372,13 +13769,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "440601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440600"
-}, {
-	"level": 2,
 	"code": "440604",
 	"name": "禅城区",
 	"initials": "scq",
@@ -15419,13 +13809,6 @@
 	"initials": "jms",
 	"pinyin": "jiāngménshì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "440701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440700"
 }, {
 	"level": 2,
 	"code": "440703",
@@ -15482,13 +13865,6 @@
 	"initials": "zjs",
 	"pinyin": "zhànjiāngshì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "440801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440800"
 }, {
 	"level": 2,
 	"code": "440802",
@@ -15561,13 +13937,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "440901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "440900"
-}, {
-	"level": 2,
 	"code": "440902",
 	"name": "茂南区",
 	"initials": "mnq",
@@ -15575,17 +13944,10 @@
 	"parent": "440900"
 }, {
 	"level": 2,
-	"code": "440903",
-	"name": "茂港区",
-	"initials": "mgq",
-	"pinyin": "màogǎngqū",
-	"parent": "440900"
-}, {
-	"level": 2,
-	"code": "440923",
-	"name": "电白县",
-	"initials": "dbx",
-	"pinyin": "diànbáixiàn",
+	"code": "440904",
+	"name": "电白区",
+	"initials": "dbq",
+	"pinyin": "diànbáiqū",
 	"parent": "440900"
 }, {
 	"level": 2,
@@ -15617,13 +13979,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "441201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441200"
-}, {
-	"level": 2,
 	"code": "441202",
 	"name": "端州区",
 	"initials": "dzq",
@@ -15635,6 +13990,13 @@
 	"name": "鼎湖区",
 	"initials": "dhq",
 	"pinyin": "dǐnghúqū",
+	"parent": "441200"
+}, {
+	"level": 2,
+	"code": "441204",
+	"name": "高要区",
+	"initials": "gyq",
+	"pinyin": "gāoyàoqū",
 	"parent": "441200"
 }, {
 	"level": 2,
@@ -15666,13 +14028,6 @@
 	"parent": "441200"
 }, {
 	"level": 2,
-	"code": "441283",
-	"name": "高要市",
-	"initials": "gys",
-	"pinyin": "gāoyàoshì",
-	"parent": "441200"
-}, {
-	"level": 2,
 	"code": "441284",
 	"name": "四会市",
 	"initials": "shs",
@@ -15685,13 +14040,6 @@
 	"initials": "hzs",
 	"pinyin": "hùizhōushì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "441301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441300"
 }, {
 	"level": 2,
 	"code": "441302",
@@ -15736,13 +14084,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "441401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441400"
-}, {
-	"level": 2,
 	"code": "441402",
 	"name": "梅江区",
 	"initials": "mjq",
@@ -15750,10 +14091,10 @@
 	"parent": "441400"
 }, {
 	"level": 2,
-	"code": "441421",
-	"name": "梅县",
-	"initials": "mx",
-	"pinyin": "méixiàn",
+	"code": "441403",
+	"name": "梅县区",
+	"initials": "mxq",
+	"pinyin": "méixiànqū",
 	"parent": "441400"
 }, {
 	"level": 2,
@@ -15806,13 +14147,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "441501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441500"
-}, {
-	"level": 2,
 	"code": "441502",
 	"name": "城区",
 	"initials": "cq",
@@ -15846,13 +14180,6 @@
 	"initials": "hys",
 	"pinyin": "héyuánshì",
 	"parent": "440000"
-}, {
-	"level": 2,
-	"code": "441601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441600"
 }, {
 	"level": 2,
 	"code": "441602",
@@ -15904,13 +14231,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "441701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441700"
-}, {
-	"level": 2,
 	"code": "441702",
 	"name": "江城区",
 	"initials": "jcq",
@@ -15918,17 +14238,17 @@
 	"parent": "441700"
 }, {
 	"level": 2,
+	"code": "441704",
+	"name": "阳东区",
+	"initials": "ydq",
+	"pinyin": "yángdōngqū",
+	"parent": "441700"
+}, {
+	"level": 2,
 	"code": "441721",
 	"name": "阳西县",
 	"initials": "yxx",
 	"pinyin": "yángxīxiàn",
-	"parent": "441700"
-}, {
-	"level": 2,
-	"code": "441723",
-	"name": "阳东县",
-	"initials": "ydx",
-	"pinyin": "yángdōngxiàn",
 	"parent": "441700"
 }, {
 	"level": 2,
@@ -15946,17 +14266,17 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "441801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441800"
-}, {
-	"level": 2,
 	"code": "441802",
 	"name": "清城区",
 	"initials": "qcq",
 	"pinyin": "qīngchéngqū",
+	"parent": "441800"
+}, {
+	"level": 2,
+	"code": "441803",
+	"name": "清新区",
+	"initials": "qxq",
+	"pinyin": "qīngxīnqū",
 	"parent": "441800"
 }, {
 	"level": 2,
@@ -15985,13 +14305,6 @@
 	"name": "连南瑶族自治县",
 	"initials": "lnyzzzx",
 	"pinyin": "liánnányáozúzìzhìxiàn",
-	"parent": "441800"
-}, {
-	"level": 2,
-	"code": "441827",
-	"name": "清新县",
-	"initials": "qxx",
-	"pinyin": "qīngxīnxiàn",
 	"parent": "441800"
 }, {
 	"level": 2,
@@ -16030,13 +14343,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "445101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "441900"
-}, {
-	"level": 2,
 	"code": "445102",
 	"name": "湘桥区",
 	"initials": "xqq",
@@ -16044,10 +14350,10 @@
 	"parent": "441900"
 }, {
 	"level": 2,
-	"code": "445121",
-	"name": "潮安县",
-	"initials": "cāx",
-	"pinyin": "cháoānxiàn",
+	"code": "445103",
+	"name": "潮安区",
+	"initials": "cāq",
+	"pinyin": "cháoānqū",
 	"parent": "441900"
 }, {
 	"level": 2,
@@ -16065,13 +14371,6 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "445201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "445200"
-}, {
-	"level": 2,
 	"code": "445202",
 	"name": "榕城区",
 	"initials": "rcq",
@@ -16079,10 +14378,10 @@
 	"parent": "445200"
 }, {
 	"level": 2,
-	"code": "445221",
-	"name": "揭东县",
-	"initials": "jdx",
-	"pinyin": "jiēdōngxiàn",
+	"code": "445203",
+	"name": "揭东区",
+	"initials": "jdq",
+	"pinyin": "jiēdōngqū",
 	"parent": "445200"
 }, {
 	"level": 2,
@@ -16114,17 +14413,17 @@
 	"parent": "440000"
 }, {
 	"level": 2,
-	"code": "445301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "445300"
-}, {
-	"level": 2,
 	"code": "445302",
 	"name": "云城区",
 	"initials": "ycq",
 	"pinyin": "yúnchéngqū",
+	"parent": "445300"
+}, {
+	"level": 2,
+	"code": "445303",
+	"name": "云安区",
+	"initials": "yāq",
+	"pinyin": "yúnānqū",
 	"parent": "445300"
 }, {
 	"level": 2,
@@ -16139,13 +14438,6 @@
 	"name": "郁南县",
 	"initials": "ynx",
 	"pinyin": "yùnánxiàn",
-	"parent": "445300"
-}, {
-	"level": 2,
-	"code": "445323",
-	"name": "云安县",
-	"initials": "yāx",
-	"pinyin": "yúnānxiàn",
 	"parent": "445300"
 }, {
 	"level": 2,
@@ -16168,13 +14460,6 @@
 	"initials": "nns",
 	"pinyin": "nánníngshì",
 	"parent": "450000"
-}, {
-	"level": 2,
-	"code": "450101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450100"
 }, {
 	"level": 2,
 	"code": "450102",
@@ -16219,10 +14504,10 @@
 	"parent": "450100"
 }, {
 	"level": 2,
-	"code": "450122",
-	"name": "武鸣县",
-	"initials": "wmx",
-	"pinyin": "wǔmíngxiàn",
+	"code": "450110",
+	"name": "武鸣区",
+	"initials": "wmq",
+	"pinyin": "wǔmíngqū",
 	"parent": "450100"
 }, {
 	"level": 2,
@@ -16268,13 +14553,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450200"
-}, {
-	"level": 2,
 	"code": "450202",
 	"name": "城中区",
 	"initials": "czq",
@@ -16303,10 +14581,10 @@
 	"parent": "450200"
 }, {
 	"level": 2,
-	"code": "450221",
-	"name": "柳江县",
-	"initials": "ljx",
-	"pinyin": "lǐujiāngxiàn",
+	"code": "450206",
+	"name": "柳江区",
+	"initials": "ljq",
+	"pinyin": "lǐujiāngqū",
 	"parent": "450200"
 }, {
 	"level": 2,
@@ -16352,13 +14630,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450300"
-}, {
-	"level": 2,
 	"code": "450302",
 	"name": "秀峰区",
 	"initials": "xfq",
@@ -16394,17 +14665,17 @@
 	"parent": "450300"
 }, {
 	"level": 2,
+	"code": "450312",
+	"name": "临桂区",
+	"initials": "lgq",
+	"pinyin": "língùiqū",
+	"parent": "450300"
+}, {
+	"level": 2,
 	"code": "450321",
 	"name": "阳朔县",
 	"initials": "ysx",
 	"pinyin": "yángshuòxiàn",
-	"parent": "450300"
-}, {
-	"level": 2,
-	"code": "450322",
-	"name": "临桂县",
-	"initials": "lgx",
-	"pinyin": "língùixiàn",
 	"parent": "450300"
 }, {
 	"level": 2,
@@ -16464,17 +14735,17 @@
 	"parent": "450300"
 }, {
 	"level": 2,
-	"code": "450331",
-	"name": "荔蒲县",
-	"initials": "lpx",
-	"pinyin": "lìpúxiàn",
-	"parent": "450300"
-}, {
-	"level": 2,
 	"code": "450332",
 	"name": "恭城瑶族自治县",
 	"initials": "gcyzzzx",
 	"pinyin": "gōngchéngyáozúzìzhìxiàn",
+	"parent": "450300"
+}, {
+	"level": 2,
+	"code": "450381",
+	"name": "荔浦市",
+	"initials": "lps",
+	"pinyin": "lìpǔshì",
 	"parent": "450300"
 }, {
 	"level": 1,
@@ -16485,13 +14756,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450400"
-}, {
-	"level": 2,
 	"code": "450403",
 	"name": "万秀区",
 	"initials": "wxq",
@@ -16499,17 +14763,17 @@
 	"parent": "450400"
 }, {
 	"level": 2,
-	"code": "450404",
-	"name": "蝶山区",
-	"initials": "dsq",
-	"pinyin": "diéshānqū",
-	"parent": "450400"
-}, {
-	"level": 2,
 	"code": "450405",
 	"name": "长洲区",
 	"initials": "czq",
 	"pinyin": "chángzhōuqū",
+	"parent": "450400"
+}, {
+	"level": 2,
+	"code": "450406",
+	"name": "龙圩区",
+	"initials": "lwq",
+	"pinyin": "lóngwéiqū",
 	"parent": "450400"
 }, {
 	"level": 2,
@@ -16548,13 +14812,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450500"
-}, {
-	"level": 2,
 	"code": "450502",
 	"name": "海城区",
 	"initials": "hcq",
@@ -16588,13 +14845,6 @@
 	"initials": "fcgs",
 	"pinyin": "fángchénggǎngshì",
 	"parent": "450000"
-}, {
-	"level": 2,
-	"code": "450601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450600"
 }, {
 	"level": 2,
 	"code": "450602",
@@ -16632,13 +14882,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450700"
-}, {
-	"level": 2,
 	"code": "450702",
 	"name": "钦南区",
 	"initials": "qnq",
@@ -16672,13 +14915,6 @@
 	"initials": "ggs",
 	"pinyin": "gùigǎngshì",
 	"parent": "450000"
-}, {
-	"level": 2,
-	"code": "450801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450800"
 }, {
 	"level": 2,
 	"code": "450802",
@@ -16723,17 +14959,17 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "450901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "450900"
-}, {
-	"level": 2,
 	"code": "450902",
 	"name": "玉州区",
 	"initials": "yzq",
 	"pinyin": "yùzhōuqū",
+	"parent": "450900"
+}, {
+	"level": 2,
+	"code": "450903",
+	"name": "福绵区",
+	"initials": "fmq",
+	"pinyin": "fúmiánqū",
 	"parent": "450900"
 }, {
 	"level": 2,
@@ -16779,13 +15015,6 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "451001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "451000"
-}, {
-	"level": 2,
 	"code": "451002",
 	"name": "右江区",
 	"initials": "yjq",
@@ -16793,10 +15022,10 @@
 	"parent": "451000"
 }, {
 	"level": 2,
-	"code": "451021",
-	"name": "田阳县",
-	"initials": "tyx",
-	"pinyin": "tiányángxiàn",
+	"code": "451003",
+	"name": "田阳区",
+	"initials": "tyq",
+	"pinyin": "tiányángqū",
 	"parent": "451000"
 }, {
 	"level": 2,
@@ -16807,24 +15036,10 @@
 	"parent": "451000"
 }, {
 	"level": 2,
-	"code": "451023",
-	"name": "平果县",
-	"initials": "pgx",
-	"pinyin": "píngguǒxiàn",
-	"parent": "451000"
-}, {
-	"level": 2,
 	"code": "451024",
 	"name": "德保县",
 	"initials": "dbx",
 	"pinyin": "débǎoxiàn",
-	"parent": "451000"
-}, {
-	"level": 2,
-	"code": "451025",
-	"name": "靖西县",
-	"initials": "jxx",
-	"pinyin": "jìngxīxiàn",
 	"parent": "451000"
 }, {
 	"level": 2,
@@ -16869,19 +15084,26 @@
 	"pinyin": "lónglíngèzúzìzhìxiàn",
 	"parent": "451000"
 }, {
+	"level": 2,
+	"code": "451081",
+	"name": "靖西市",
+	"initials": "jxs",
+	"pinyin": "jìngxīshì",
+	"parent": "451000"
+}, {
+	"level": 2,
+	"code": "451082",
+	"name": "平果市",
+	"initials": "pgs",
+	"pinyin": "píngguǒshì",
+	"parent": "451000"
+}, {
 	"level": 1,
 	"code": "451100",
 	"name": "贺州市",
 	"initials": "hzs",
 	"pinyin": "hèzhōushì",
 	"parent": "450000"
-}, {
-	"level": 2,
-	"code": "451101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "451100"
 }, {
 	"level": 2,
 	"code": "451102",
@@ -16891,10 +15113,10 @@
 	"parent": "451100"
 }, {
 	"level": 2,
-	"code": "451119",
-	"name": "平桂管理区",
-	"initials": "pgglq",
-	"pinyin": "pínggùiguǎnlǐqū",
+	"code": "451103",
+	"name": "平桂区",
+	"initials": "pgq",
+	"pinyin": "pínggùiqū",
 	"parent": "451100"
 }, {
 	"level": 2,
@@ -16926,17 +15148,17 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "451201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "451200"
-}, {
-	"level": 2,
 	"code": "451202",
 	"name": "金城江区",
 	"initials": "jcjq",
 	"pinyin": "jīnchéngjiāngqū",
+	"parent": "451200"
+}, {
+	"level": 2,
+	"code": "451203",
+	"name": "宜州区",
+	"initials": "yzq",
+	"pinyin": "yízhōuqū",
 	"parent": "451200"
 }, {
 	"level": 2,
@@ -17002,26 +15224,12 @@
 	"pinyin": "dàhuàyáozúzìzhìxiàn",
 	"parent": "451200"
 }, {
-	"level": 2,
-	"code": "451281",
-	"name": "宜州市",
-	"initials": "yzs",
-	"pinyin": "yízhōushì",
-	"parent": "451200"
-}, {
 	"level": 1,
 	"code": "451300",
 	"name": "来宾市",
 	"initials": "lbs",
 	"pinyin": "láibīnshì",
 	"parent": "450000"
-}, {
-	"level": 2,
-	"code": "451301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "451300"
 }, {
 	"level": 2,
 	"code": "451302",
@@ -17073,15 +15281,8 @@
 	"parent": "450000"
 }, {
 	"level": 2,
-	"code": "451401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "451400"
-}, {
-	"level": 2,
 	"code": "451402",
-	"name": "江洲区",
+	"name": "江州区",
 	"initials": "jzq",
 	"pinyin": "jiāngzhōuqū",
 	"parent": "451400"
@@ -17143,13 +15344,6 @@
 	"parent": "460000"
 }, {
 	"level": 2,
-	"code": "460101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "460100"
-}, {
-	"level": 2,
 	"code": "460105",
 	"name": "秀英区",
 	"initials": "xyq",
@@ -17185,17 +15379,45 @@
 	"parent": "460000"
 }, {
 	"level": 2,
-	"code": "460201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "460202",
+	"name": "海棠区",
+	"initials": "htq",
+	"pinyin": "hǎitángqū",
+	"parent": "460200"
+}, {
+	"level": 2,
+	"code": "460203",
+	"name": "吉阳区",
+	"initials": "jyq",
+	"pinyin": "jíyángqū",
+	"parent": "460200"
+}, {
+	"level": 2,
+	"code": "460204",
+	"name": "天涯区",
+	"initials": "tyq",
+	"pinyin": "tiānyáqū",
+	"parent": "460200"
+}, {
+	"level": 2,
+	"code": "460205",
+	"name": "崖州区",
+	"initials": "yzq",
+	"pinyin": "yázhōuqū",
 	"parent": "460200"
 }, {
 	"level": 1,
-	"code": "469000",
-	"name": "省直辖县级行政区划",
-	"initials": "szxxjxzqh",
-	"pinyin": "shěngzhíxiáxiànjíxíngzhèngqūhuá",
+	"code": "460300",
+	"name": "三沙市",
+	"initials": "sss",
+	"pinyin": "sānshāshì",
+	"parent": "460000"
+}, {
+	"level": 1,
+	"code": "460400",
+	"name": "儋州市",
+	"initials": "dzs",
+	"pinyin": "dānzhōushì",
 	"parent": "460000"
 }, {
 	"level": 2,
@@ -17203,133 +15425,105 @@
 	"name": "五指山市",
 	"initials": "wzss",
 	"pinyin": "wǔzhǐshānshì",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469002",
 	"name": "琼海市",
 	"initials": "qhs",
 	"pinyin": "qiónghǎishì",
-	"parent": "469000"
-}, {
-	"level": 2,
-	"code": "469003",
-	"name": "儋州市",
-	"initials": "dzs",
-	"pinyin": "dānzhōushì",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469005",
 	"name": "文昌市",
 	"initials": "wcs",
 	"pinyin": "wénchāngshì",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469006",
 	"name": "万宁市",
 	"initials": "wns",
 	"pinyin": "wànníngshì",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469007",
 	"name": "东方市",
 	"initials": "dfs",
 	"pinyin": "dōngfāngshì",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469021",
 	"name": "定安县",
 	"initials": "dāx",
 	"pinyin": "dìngānxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469022",
 	"name": "屯昌县",
 	"initials": "tcx",
 	"pinyin": "túnchāngxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469023",
 	"name": "澄迈县",
 	"initials": "cmx",
 	"pinyin": "chéngmàixiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469024",
 	"name": "临高县",
 	"initials": "lgx",
 	"pinyin": "língāoxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469025",
 	"name": "白沙黎族自治县",
 	"initials": "bslzzzx",
 	"pinyin": "báishālízúzìzhìxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469026",
 	"name": "昌江黎族自治县",
 	"initials": "cjlzzzx",
 	"pinyin": "chāngjiānglízúzìzhìxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469027",
 	"name": "乐东黎族自治县",
 	"initials": "ldlzzzx",
 	"pinyin": "lèdōnglízúzìzhìxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469028",
 	"name": "陵水黎族自治县",
 	"initials": "lslzzzx",
 	"pinyin": "língshǔilízúzìzhìxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469029",
 	"name": "保亭黎族苗族自治县",
 	"initials": "btlzmzzzx",
 	"pinyin": "bǎotínglízúmiáozúzìzhìxiàn",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 2,
 	"code": "469030",
 	"name": "琼中黎族苗族自治县",
 	"initials": "qzlzmzzzx",
 	"pinyin": "qióngzhōnglízúmiáozúzìzhìxiàn",
-	"parent": "469000"
-}, {
-	"level": 2,
-	"code": "469031",
-	"name": "西沙群岛",
-	"initials": "xsqd",
-	"pinyin": "xīshāqúndǎo",
-	"parent": "469000"
-}, {
-	"level": 2,
-	"code": "469032",
-	"name": "南沙群岛",
-	"initials": "nsqd",
-	"pinyin": "nánshāqúndǎo",
-	"parent": "469000"
-}, {
-	"level": 2,
-	"code": "469033",
-	"name": "中沙群岛的岛礁及其海域",
-	"initials": "zsqdddjjqhy",
-	"pinyin": "zhōngshāqúndǎodedǎojiāojíqíhǎiyù",
-	"parent": "469000"
+	"parent": "460300"
 }, {
 	"level": 0,
 	"code": "500000",
@@ -17339,10 +15533,10 @@
 	"parent": null
 }, {
 	"level": 1,
-	"code": "500100",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
+	"code": "500000",
+	"name": "重庆市",
+	"initials": "zqs",
+	"pinyin": "zhòngqìngshì",
 	"parent": "500000"
 }, {
 	"level": 2,
@@ -17350,287 +15544,266 @@
 	"name": "万州区",
 	"initials": "wzq",
 	"pinyin": "wànzhōuqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500102",
 	"name": "涪陵区",
 	"initials": "flq",
 	"pinyin": "fúlíngqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500103",
 	"name": "渝中区",
 	"initials": "yzq",
 	"pinyin": "yúzhōngqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500104",
 	"name": "大渡口区",
 	"initials": "ddkq",
 	"pinyin": "dàdùkǒuqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500105",
 	"name": "江北区",
 	"initials": "jbq",
 	"pinyin": "jiāngběiqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500106",
 	"name": "沙坪坝区",
 	"initials": "spbq",
 	"pinyin": "shāpíngbàqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500107",
 	"name": "九龙坡区",
 	"initials": "jlpq",
 	"pinyin": "jǐulóngpōqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500108",
 	"name": "南岸区",
 	"initials": "nàq",
 	"pinyin": "nánànqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500109",
 	"name": "北碚区",
 	"initials": "bbq",
 	"pinyin": "běibèiqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500110",
-	"name": "万盛区",
-	"initials": "wsq",
-	"pinyin": "wànshèngqū",
-	"parent": "500100"
+	"name": "綦江区",
+	"initials": "qjq",
+	"pinyin": "qíjiāngqū",
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500111",
-	"name": "双桥区",
-	"initials": "sqq",
-	"pinyin": "shuāngqiáoqū",
-	"parent": "500100"
+	"name": "大足区",
+	"initials": "dzq",
+	"pinyin": "dàzúqū",
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500112",
 	"name": "渝北区",
 	"initials": "ybq",
 	"pinyin": "yúběiqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500113",
 	"name": "巴南区",
 	"initials": "bnq",
 	"pinyin": "bānánqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500114",
 	"name": "黔江区",
 	"initials": "qjq",
 	"pinyin": "qiánjiāngqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500115",
 	"name": "长寿区",
 	"initials": "csq",
 	"pinyin": "chángshòuqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500116",
 	"name": "江津区",
 	"initials": "jjq",
 	"pinyin": "jiāngjīnqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500117",
 	"name": "合川区",
 	"initials": "hcq",
 	"pinyin": "héchuānqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500118",
 	"name": "永川区",
 	"initials": "ycq",
 	"pinyin": "yǒngchuānqū",
-	"parent": "500100"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500119",
 	"name": "南川区",
 	"initials": "ncq",
 	"pinyin": "nánchuānqū",
-	"parent": "500100"
-}, {
-	"level": 1,
-	"code": "500200",
-	"name": "县",
-	"initials": "x",
-	"pinyin": "xiàn",
 	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500222",
-	"name": "綦江县",
-	"initials": "qjx",
-	"pinyin": "qíjiāngxiàn",
-	"parent": "500200"
+	"code": "500120",
+	"name": "璧山区",
+	"initials": "bsq",
+	"pinyin": "bìshānqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500223",
-	"name": "潼南县",
-	"initials": "tnx",
-	"pinyin": "tóngnánxiàn",
-	"parent": "500200"
+	"code": "500151",
+	"name": "铜梁区",
+	"initials": "tlq",
+	"pinyin": "tóngliángqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500224",
-	"name": "铜梁县",
-	"initials": "tlx",
-	"pinyin": "tóngliángxiàn",
-	"parent": "500200"
+	"code": "500152",
+	"name": "潼南区",
+	"initials": "tnq",
+	"pinyin": "tóngnánqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500225",
-	"name": "大足县",
-	"initials": "dzx",
-	"pinyin": "dàzúxiàn",
-	"parent": "500200"
+	"code": "500153",
+	"name": "荣昌区",
+	"initials": "rcq",
+	"pinyin": "róngchāngqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500226",
-	"name": "荣昌县",
-	"initials": "rcx",
-	"pinyin": "róngchāngxiàn",
-	"parent": "500200"
+	"code": "500154",
+	"name": "开州区",
+	"initials": "kzq",
+	"pinyin": "kāizhōuqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500227",
-	"name": "璧山县",
-	"initials": "bsx",
-	"pinyin": "bìshānxiàn",
-	"parent": "500200"
+	"code": "500155",
+	"name": "梁平区",
+	"initials": "lpq",
+	"pinyin": "liángpíngqū",
+	"parent": "500000"
 }, {
 	"level": 2,
-	"code": "500228",
-	"name": "梁平县",
-	"initials": "lpx",
-	"pinyin": "liángpíngxiàn",
-	"parent": "500200"
+	"code": "500156",
+	"name": "武隆区",
+	"initials": "wlq",
+	"pinyin": "wǔlóngqū",
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500229",
 	"name": "城口县",
 	"initials": "ckx",
 	"pinyin": "chéngkǒuxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500230",
 	"name": "丰都县",
 	"initials": "fdx",
 	"pinyin": "fēngdūxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500231",
 	"name": "垫江县",
 	"initials": "djx",
 	"pinyin": "diànjiāngxiàn",
-	"parent": "500200"
-}, {
-	"level": 2,
-	"code": "500232",
-	"name": "武隆县",
-	"initials": "wlx",
-	"pinyin": "wǔlóngxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500233",
 	"name": "忠县",
 	"initials": "zx",
 	"pinyin": "zhōngxiàn",
-	"parent": "500200"
-}, {
-	"level": 2,
-	"code": "500234",
-	"name": "开县",
-	"initials": "kx",
-	"pinyin": "kāixiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500235",
 	"name": "云阳县",
 	"initials": "yyx",
 	"pinyin": "yúnyángxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500236",
 	"name": "奉节县",
 	"initials": "fjx",
 	"pinyin": "fèngjiéxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500237",
 	"name": "巫山县",
 	"initials": "wsx",
 	"pinyin": "wūshānxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500238",
 	"name": "巫溪县",
 	"initials": "wxx",
 	"pinyin": "wūxīxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500240",
 	"name": "石柱土家族自治县",
 	"initials": "sztjzzzx",
 	"pinyin": "shízhùtǔjiāzúzìzhìxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500241",
 	"name": "秀山土家族苗族自治县",
 	"initials": "xstjzmzzzx",
 	"pinyin": "xìushāntǔjiāzúmiáozúzìzhìxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500242",
 	"name": "酉阳土家族苗族自治县",
 	"initials": "yytjzmzzzx",
 	"pinyin": "yǒuyángtǔjiāzúmiáozúzìzhìxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 2,
 	"code": "500243",
 	"name": "彭水苗族土家族自治县",
 	"initials": "psmztjzzzx",
 	"pinyin": "péngshǔimiáozútǔjiāzúzìzhìxiàn",
-	"parent": "500200"
+	"parent": "500000"
 }, {
 	"level": 0,
 	"code": "510000",
@@ -17645,13 +15818,6 @@
 	"initials": "cds",
 	"pinyin": "chéngdūshì",
 	"parent": "510000"
-}, {
-	"level": 2,
-	"code": "510101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510100"
 }, {
 	"level": 2,
 	"code": "510104",
@@ -17717,24 +15883,31 @@
 	"parent": "510100"
 }, {
 	"level": 2,
+	"code": "510116",
+	"name": "双流区",
+	"initials": "slq",
+	"pinyin": "shuānglíuqū",
+	"parent": "510100"
+}, {
+	"level": 2,
+	"code": "510117",
+	"name": "郫都区",
+	"initials": "pdq",
+	"pinyin": "pídūqū",
+	"parent": "510100"
+}, {
+	"level": 2,
+	"code": "510118",
+	"name": "新津区",
+	"initials": "xjq",
+	"pinyin": "xīnjīnqū",
+	"parent": "510100"
+}, {
+	"level": 2,
 	"code": "510121",
 	"name": "金堂县",
 	"initials": "jtx",
 	"pinyin": "jīntángxiàn",
-	"parent": "510100"
-}, {
-	"level": 2,
-	"code": "510122",
-	"name": "双流县",
-	"initials": "slx",
-	"pinyin": "shuānglíuxiàn",
-	"parent": "510100"
-}, {
-	"level": 2,
-	"code": "510124",
-	"name": "郫县",
-	"initials": "px",
-	"pinyin": "píxiàn",
 	"parent": "510100"
 }, {
 	"level": 2,
@@ -17749,13 +15922,6 @@
 	"name": "蒲江县",
 	"initials": "pjx",
 	"pinyin": "pújiāngxiàn",
-	"parent": "510100"
-}, {
-	"level": 2,
-	"code": "510132",
-	"name": "新津县",
-	"initials": "xjx",
-	"pinyin": "xīnjīnxiàn",
 	"parent": "510100"
 }, {
 	"level": 2,
@@ -17786,19 +15952,19 @@
 	"pinyin": "chóngzhōushì",
 	"parent": "510100"
 }, {
+	"level": 2,
+	"code": "510185",
+	"name": "简阳市",
+	"initials": "jys",
+	"pinyin": "jiǎnyángshì",
+	"parent": "510100"
+}, {
 	"level": 1,
 	"code": "510300",
 	"name": "自贡市",
 	"initials": "zgs",
 	"pinyin": "zìgòngshì",
 	"parent": "510000"
-}, {
-	"level": 2,
-	"code": "510301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510300"
 }, {
 	"level": 2,
 	"code": "510302",
@@ -17850,13 +16016,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "510401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510400"
-}, {
-	"level": 2,
 	"code": "510402",
 	"name": "东区",
 	"initials": "dq",
@@ -17897,13 +16056,6 @@
 	"initials": "lzs",
 	"pinyin": "lúzhōushì",
 	"parent": "510000"
-}, {
-	"level": 2,
-	"code": "510501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510500"
 }, {
 	"level": 2,
 	"code": "510502",
@@ -17962,13 +16114,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "510601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510600"
-}, {
-	"level": 2,
 	"code": "510603",
 	"name": "旌阳区",
 	"initials": "jyq",
@@ -17976,17 +16121,17 @@
 	"parent": "510600"
 }, {
 	"level": 2,
+	"code": "510604",
+	"name": "罗江区",
+	"initials": "ljq",
+	"pinyin": "luōjiāngqū",
+	"parent": "510600"
+}, {
+	"level": 2,
 	"code": "510623",
 	"name": "中江县",
 	"initials": "zjx",
 	"pinyin": "zhōngjiāngxiàn",
-	"parent": "510600"
-}, {
-	"level": 2,
-	"code": "510626",
-	"name": "罗江县",
-	"initials": "ljx",
-	"pinyin": "luōjiāngxiàn",
 	"parent": "510600"
 }, {
 	"level": 2,
@@ -18018,13 +16163,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "510701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510700"
-}, {
-	"level": 2,
 	"code": "510703",
 	"name": "涪城区",
 	"initials": "fcq",
@@ -18039,6 +16177,13 @@
 	"parent": "510700"
 }, {
 	"level": 2,
+	"code": "510705",
+	"name": "安州区",
+	"initials": "āzq",
+	"pinyin": "ānzhōuqū",
+	"parent": "510700"
+}, {
+	"level": 2,
 	"code": "510722",
 	"name": "三台县",
 	"initials": "stx",
@@ -18050,13 +16195,6 @@
 	"name": "盐亭县",
 	"initials": "ytx",
 	"pinyin": "yántíngxiàn",
-	"parent": "510700"
-}, {
-	"level": 2,
-	"code": "510724",
-	"name": "安县",
-	"initials": "āx",
-	"pinyin": "ānxiàn",
 	"parent": "510700"
 }, {
 	"level": 2,
@@ -18095,13 +16233,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "510801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510800"
-}, {
-	"level": 2,
 	"code": "510802",
 	"name": "利州区",
 	"initials": "lzq",
@@ -18110,9 +16241,9 @@
 }, {
 	"level": 2,
 	"code": "510811",
-	"name": "元坝区",
-	"initials": "ybq",
-	"pinyin": "yuánbàqū",
+	"name": "昭化区",
+	"initials": "zhq",
+	"pinyin": "zhāohuàqū",
 	"parent": "510800"
 }, {
 	"level": 2,
@@ -18158,13 +16289,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "510901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "510900"
-}, {
-	"level": 2,
 	"code": "510903",
 	"name": "船山区",
 	"initials": "csq",
@@ -18186,17 +16310,17 @@
 	"parent": "510900"
 }, {
 	"level": 2,
-	"code": "510922",
-	"name": "射洪县",
-	"initials": "shx",
-	"pinyin": "shèhóngxiàn",
-	"parent": "510900"
-}, {
-	"level": 2,
 	"code": "510923",
 	"name": "大英县",
 	"initials": "dyx",
 	"pinyin": "dàyīngxiàn",
+	"parent": "510900"
+}, {
+	"level": 2,
+	"code": "510981",
+	"name": "射洪市",
+	"initials": "shs",
+	"pinyin": "shèhóngshì",
 	"parent": "510900"
 }, {
 	"level": 1,
@@ -18205,13 +16329,6 @@
 	"initials": "njs",
 	"pinyin": "nèijiāngshì",
 	"parent": "510000"
-}, {
-	"level": 2,
-	"code": "511001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511000"
 }, {
 	"level": 2,
 	"code": "511002",
@@ -18242,10 +16359,10 @@
 	"parent": "511000"
 }, {
 	"level": 2,
-	"code": "511028",
-	"name": "隆昌县",
-	"initials": "lcx",
-	"pinyin": "lóngchāngxiàn",
+	"code": "511083",
+	"name": "隆昌市",
+	"initials": "lcs",
+	"pinyin": "lóngchāngshì",
 	"parent": "511000"
 }, {
 	"level": 1,
@@ -18254,13 +16371,6 @@
 	"initials": "lss",
 	"pinyin": "lèshānshì",
 	"parent": "510000"
-}, {
-	"level": 2,
-	"code": "511101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511100"
 }, {
 	"level": 2,
 	"code": "511102",
@@ -18347,13 +16457,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511300"
-}, {
-	"level": 2,
 	"code": "511302",
 	"name": "顺庆区",
 	"initials": "sqq",
@@ -18424,13 +16527,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511400"
-}, {
-	"level": 2,
 	"code": "511402",
 	"name": "东坡区",
 	"initials": "dpq",
@@ -18438,17 +16534,17 @@
 	"parent": "511400"
 }, {
 	"level": 2,
+	"code": "511403",
+	"name": "彭山区",
+	"initials": "psq",
+	"pinyin": "péngshānqū",
+	"parent": "511400"
+}, {
+	"level": 2,
 	"code": "511421",
 	"name": "仁寿县",
 	"initials": "rsx",
 	"pinyin": "rénshòuxiàn",
-	"parent": "511400"
-}, {
-	"level": 2,
-	"code": "511422",
-	"name": "彭山县",
-	"initials": "psx",
-	"pinyin": "péngshānxiàn",
 	"parent": "511400"
 }, {
 	"level": 2,
@@ -18480,13 +16576,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511500"
-}, {
-	"level": 2,
 	"code": "511502",
 	"name": "翠屏区",
 	"initials": "cpq",
@@ -18494,17 +16583,17 @@
 	"parent": "511500"
 }, {
 	"level": 2,
-	"code": "511521",
-	"name": "宜宾县",
-	"initials": "ybx",
-	"pinyin": "yíbīnxiàn",
+	"code": "511503",
+	"name": "南溪区",
+	"initials": "nxq",
+	"pinyin": "nánxīqū",
 	"parent": "511500"
 }, {
 	"level": 2,
-	"code": "511522",
-	"name": "南溪县",
-	"initials": "nxx",
-	"pinyin": "nánxīxiàn",
+	"code": "511504",
+	"name": "叙州区",
+	"initials": "xzq",
+	"pinyin": "xùzhōuqū",
 	"parent": "511500"
 }, {
 	"level": 2,
@@ -18564,17 +16653,17 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511600"
-}, {
-	"level": 2,
 	"code": "511602",
 	"name": "广安区",
 	"initials": "gāq",
 	"pinyin": "guǎngānqū",
+	"parent": "511600"
+}, {
+	"level": 2,
+	"code": "511603",
+	"name": "前锋区",
+	"initials": "qfq",
+	"pinyin": "qiánfēngqū",
 	"parent": "511600"
 }, {
 	"level": 2,
@@ -18613,13 +16702,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511700"
-}, {
-	"level": 2,
 	"code": "511702",
 	"name": "通川区",
 	"initials": "tcq",
@@ -18627,10 +16709,10 @@
 	"parent": "511700"
 }, {
 	"level": 2,
-	"code": "511721",
-	"name": "达县",
-	"initials": "dx",
-	"pinyin": "dáxiàn",
+	"code": "511703",
+	"name": "达川区",
+	"initials": "dcq",
+	"pinyin": "dáchuānqū",
 	"parent": "511700"
 }, {
 	"level": 2,
@@ -18676,13 +16758,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511800"
-}, {
-	"level": 2,
 	"code": "511802",
 	"name": "雨城区",
 	"initials": "ycq",
@@ -18690,10 +16765,10 @@
 	"parent": "511800"
 }, {
 	"level": 2,
-	"code": "511821",
-	"name": "名山县",
-	"initials": "msx",
-	"pinyin": "míngshānxiàn",
+	"code": "511803",
+	"name": "名山区",
+	"initials": "msq",
+	"pinyin": "míngshānqū",
 	"parent": "511800"
 }, {
 	"level": 2,
@@ -18746,17 +16821,17 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "511901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "511900"
-}, {
-	"level": 2,
 	"code": "511902",
 	"name": "巴州区",
 	"initials": "bzq",
 	"pinyin": "bāzhōuqū",
+	"parent": "511900"
+}, {
+	"level": 2,
+	"code": "511903",
+	"name": "恩阳区",
+	"initials": "ēyq",
+	"pinyin": "ēnyángqū",
 	"parent": "511900"
 }, {
 	"level": 2,
@@ -18788,13 +16863,6 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "512001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "512000"
-}, {
-	"level": 2,
 	"code": "512002",
 	"name": "雁江区",
 	"initials": "yjq",
@@ -18815,19 +16883,19 @@
 	"pinyin": "lèzhìxiàn",
 	"parent": "512000"
 }, {
-	"level": 2,
-	"code": "512081",
-	"name": "简阳市",
-	"initials": "jys",
-	"pinyin": "jiǎnyángshì",
-	"parent": "512000"
-}, {
 	"level": 1,
 	"code": "513200",
 	"name": "阿坝藏族羌族自治州",
 	"initials": "ābczqzzzz",
 	"pinyin": "ābàcángzúqiāngzúzìzhìzhōu",
 	"parent": "510000"
+}, {
+	"level": 2,
+	"code": "513201",
+	"name": "马尔康市",
+	"initials": "měks",
+	"pinyin": "mǎěrkāngshì",
+	"parent": "513200"
 }, {
 	"level": 2,
 	"code": "513221",
@@ -18886,13 +16954,6 @@
 	"parent": "513200"
 }, {
 	"level": 2,
-	"code": "513229",
-	"name": "马尔康县",
-	"initials": "měkx",
-	"pinyin": "mǎěrkāngxiàn",
-	"parent": "513200"
-}, {
-	"level": 2,
 	"code": "513230",
 	"name": "壤塘县",
 	"initials": "rtx",
@@ -18928,10 +16989,10 @@
 	"parent": "510000"
 }, {
 	"level": 2,
-	"code": "513321",
-	"name": "康定县",
-	"initials": "kdx",
-	"pinyin": "kāngdìngxiàn",
+	"code": "513301",
+	"name": "康定市",
+	"initials": "kds",
+	"pinyin": "kāngdìngshì",
 	"parent": "513300"
 }, {
 	"level": 2,
@@ -19194,13 +17255,6 @@
 	"parent": "520000"
 }, {
 	"level": 2,
-	"code": "520101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "520100"
-}, {
-	"level": 2,
 	"code": "520102",
 	"name": "南明区",
 	"initials": "nmq",
@@ -19236,10 +17290,10 @@
 	"parent": "520100"
 }, {
 	"level": 2,
-	"code": "520114",
-	"name": "小河区",
-	"initials": "xhq",
-	"pinyin": "xiǎohéqū",
+	"code": "520115",
+	"name": "观山湖区",
+	"initials": "gshq",
+	"pinyin": "guānshānhúqū",
 	"parent": "520100"
 }, {
 	"level": 2,
@@ -19292,17 +17346,17 @@
 	"parent": "520200"
 }, {
 	"level": 2,
-	"code": "520221",
-	"name": "水城县",
-	"initials": "scx",
-	"pinyin": "shǔichéngxiàn",
+	"code": "520204",
+	"name": "水城区",
+	"initials": "scq",
+	"pinyin": "shǔichéngqū",
 	"parent": "520200"
 }, {
 	"level": 2,
-	"code": "520222",
-	"name": "盘县",
-	"initials": "px",
-	"pinyin": "pánxiàn",
+	"code": "520281",
+	"name": "盘州市",
+	"initials": "pzs",
+	"pinyin": "pánzhōushì",
 	"parent": "520200"
 }, {
 	"level": 1,
@@ -19311,13 +17365,6 @@
 	"initials": "zys",
 	"pinyin": "zūnyìshì",
 	"parent": "520000"
-}, {
-	"level": 2,
-	"code": "520301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "520300"
 }, {
 	"level": 2,
 	"code": "520302",
@@ -19334,10 +17381,10 @@
 	"parent": "520300"
 }, {
 	"level": 2,
-	"code": "520321",
-	"name": "遵义县",
-	"initials": "zyx",
-	"pinyin": "zūnyìxiàn",
+	"code": "520304",
+	"name": "播州区",
+	"initials": "bzq",
+	"pinyin": "bōzhōuqū",
 	"parent": "520300"
 }, {
 	"level": 2,
@@ -19425,13 +17472,6 @@
 	"parent": "520000"
 }, {
 	"level": 2,
-	"code": "520401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "520400"
-}, {
-	"level": 2,
 	"code": "520402",
 	"name": "西秀区",
 	"initials": "xxq",
@@ -19439,10 +17479,10 @@
 	"parent": "520400"
 }, {
 	"level": 2,
-	"code": "520421",
-	"name": "平坝县",
-	"initials": "pbx",
-	"pinyin": "píngbàxiàn",
+	"code": "520403",
+	"name": "平坝区",
+	"initials": "pbq",
+	"pinyin": "píngbàqū",
 	"parent": "520400"
 }, {
 	"level": 2,
@@ -19474,81 +17514,144 @@
 	"parent": "520400"
 }, {
 	"level": 1,
-	"code": "522200",
-	"name": "铜仁地区",
-	"initials": "trdq",
-	"pinyin": "tóngréndìqū",
+	"code": "520500",
+	"name": "毕节市",
+	"initials": "bjs",
+	"pinyin": "bìjiéshì",
 	"parent": "520000"
 }, {
 	"level": 2,
-	"code": "522201",
+	"code": "520502",
+	"name": "七星关区",
+	"initials": "qxgq",
+	"pinyin": "qīxīngguānqū",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520521",
+	"name": "大方县",
+	"initials": "dfx",
+	"pinyin": "dàfāngxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520522",
+	"name": "黔西县",
+	"initials": "qxx",
+	"pinyin": "qiánxīxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520523",
+	"name": "金沙县",
+	"initials": "jsx",
+	"pinyin": "jīnshāxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520524",
+	"name": "织金县",
+	"initials": "zjx",
+	"pinyin": "zhījīnxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520525",
+	"name": "纳雍县",
+	"initials": "nyx",
+	"pinyin": "nàyōngxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520526",
+	"name": "威宁彝族回族苗族自治县",
+	"initials": "wnyzhzmzzzx",
+	"pinyin": "wēiníngyízúhúizúmiáozúzìzhìxiàn",
+	"parent": "520500"
+}, {
+	"level": 2,
+	"code": "520527",
+	"name": "赫章县",
+	"initials": "hzx",
+	"pinyin": "hèzhāngxiàn",
+	"parent": "520500"
+}, {
+	"level": 1,
+	"code": "520600",
 	"name": "铜仁市",
 	"initials": "trs",
 	"pinyin": "tóngrénshì",
-	"parent": "522200"
+	"parent": "520000"
 }, {
 	"level": 2,
-	"code": "522222",
+	"code": "520602",
+	"name": "碧江区",
+	"initials": "bjq",
+	"pinyin": "bìjiāngqū",
+	"parent": "520600"
+}, {
+	"level": 2,
+	"code": "520603",
+	"name": "万山区",
+	"initials": "wsq",
+	"pinyin": "wànshānqū",
+	"parent": "520600"
+}, {
+	"level": 2,
+	"code": "520621",
 	"name": "江口县",
 	"initials": "jkx",
 	"pinyin": "jiāngkǒuxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522223",
+	"code": "520622",
 	"name": "玉屏侗族自治县",
 	"initials": "yptzzzx",
 	"pinyin": "yùpíngtōngzúzìzhìxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522224",
+	"code": "520623",
 	"name": "石阡县",
 	"initials": "sqx",
 	"pinyin": "shíqiānxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522225",
+	"code": "520624",
 	"name": "思南县",
 	"initials": "snx",
 	"pinyin": "sīnánxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522226",
+	"code": "520625",
 	"name": "印江土家族苗族自治县",
 	"initials": "yjtjzmzzzx",
 	"pinyin": "yìnjiāngtǔjiāzúmiáozúzìzhìxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522227",
+	"code": "520626",
 	"name": "德江县",
 	"initials": "djx",
 	"pinyin": "déjiāngxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522228",
+	"code": "520627",
 	"name": "沿河土家族自治县",
 	"initials": "yhtjzzzx",
 	"pinyin": "yánhétǔjiāzúzìzhìxiàn",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 2,
-	"code": "522229",
+	"code": "520628",
 	"name": "松桃苗族自治县",
 	"initials": "stmzzzx",
 	"pinyin": "sōngtáomiáozúzìzhìxiàn",
-	"parent": "522200"
-}, {
-	"level": 2,
-	"code": "522230",
-	"name": "万山特区",
-	"initials": "wstq",
-	"pinyin": "wànshāntèqū",
-	"parent": "522200"
+	"parent": "520600"
 }, {
 	"level": 1,
 	"code": "522300",
@@ -19565,10 +17668,10 @@
 	"parent": "522300"
 }, {
 	"level": 2,
-	"code": "522322",
-	"name": "兴仁县",
-	"initials": "xrx",
-	"pinyin": "xīngrénxiàn",
+	"code": "522302",
+	"name": "兴仁市",
+	"initials": "xrs",
+	"pinyin": "xīngrénshì",
 	"parent": "522300"
 }, {
 	"level": 2,
@@ -19612,69 +17715,6 @@
 	"initials": "ālx",
 	"pinyin": "ānlóngxiàn",
 	"parent": "522300"
-}, {
-	"level": 1,
-	"code": "522400",
-	"name": "毕节地区",
-	"initials": "bjdq",
-	"pinyin": "bìjiédìqū",
-	"parent": "520000"
-}, {
-	"level": 2,
-	"code": "522401",
-	"name": "毕节市",
-	"initials": "bjs",
-	"pinyin": "bìjiéshì",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522422",
-	"name": "大方县",
-	"initials": "dfx",
-	"pinyin": "dàfāngxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522423",
-	"name": "黔西县",
-	"initials": "qxx",
-	"pinyin": "qiánxīxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522424",
-	"name": "金沙县",
-	"initials": "jsx",
-	"pinyin": "jīnshāxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522425",
-	"name": "织金县",
-	"initials": "zjx",
-	"pinyin": "zhījīnxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522426",
-	"name": "纳雍县",
-	"initials": "nyx",
-	"pinyin": "nàyōngxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522427",
-	"name": "威宁彝族回族苗族自治县",
-	"initials": "wnyzhzmzzzx",
-	"pinyin": "wēiníngyízúhúizúmiáozúzìzhìxiàn",
-	"parent": "522400"
-}, {
-	"level": 2,
-	"code": "522428",
-	"name": "赫章县",
-	"initials": "hzx",
-	"pinyin": "hèzhāngxiàn",
-	"parent": "522400"
 }, {
 	"level": 1,
 	"code": "522600",
@@ -19901,13 +17941,6 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "530101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530100"
-}, {
-	"level": 2,
 	"code": "530102",
 	"name": "五华区",
 	"initials": "whq",
@@ -19943,17 +17976,17 @@
 	"parent": "530100"
 }, {
 	"level": 2,
-	"code": "530121",
-	"name": "呈贡县",
-	"initials": "cgx",
-	"pinyin": "chénggòngxiàn",
+	"code": "530114",
+	"name": "呈贡区",
+	"initials": "cgq",
+	"pinyin": "chénggòngqū",
 	"parent": "530100"
 }, {
 	"level": 2,
-	"code": "530122",
-	"name": "晋宁县",
-	"initials": "jnx",
-	"pinyin": "jìnníngxiàn",
+	"code": "530115",
+	"name": "晋宁区",
+	"initials": "jnq",
+	"pinyin": "jìnníngqū",
 	"parent": "530100"
 }, {
 	"level": 2,
@@ -20013,13 +18046,6 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "530301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530300"
-}, {
-	"level": 2,
 	"code": "530302",
 	"name": "麒麟区",
 	"initials": "qlq",
@@ -20027,10 +18053,17 @@
 	"parent": "530300"
 }, {
 	"level": 2,
-	"code": "530321",
-	"name": "马龙县",
-	"initials": "mlx",
-	"pinyin": "mǎlóngxiàn",
+	"code": "530303",
+	"name": "沾益区",
+	"initials": "zyq",
+	"pinyin": "zhānyìqū",
+	"parent": "530300"
+}, {
+	"level": 2,
+	"code": "530304",
+	"name": "马龙区",
+	"initials": "mlq",
+	"pinyin": "mǎlóngqū",
 	"parent": "530300"
 }, {
 	"level": 2,
@@ -20069,13 +18102,6 @@
 	"parent": "530300"
 }, {
 	"level": 2,
-	"code": "530328",
-	"name": "沾益县",
-	"initials": "zyx",
-	"pinyin": "zhānyìxiàn",
-	"parent": "530300"
-}, {
-	"level": 2,
 	"code": "530381",
 	"name": "宣威市",
 	"initials": "xws",
@@ -20090,13 +18116,6 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "530401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530400"
-}, {
-	"level": 2,
 	"code": "530402",
 	"name": "红塔区",
 	"initials": "htq",
@@ -20104,17 +18123,10 @@
 	"parent": "530400"
 }, {
 	"level": 2,
-	"code": "530421",
-	"name": "江川县",
-	"initials": "jcx",
-	"pinyin": "jiāngchuānxiàn",
-	"parent": "530400"
-}, {
-	"level": 2,
-	"code": "530422",
-	"name": "澄江县",
-	"initials": "cjx",
-	"pinyin": "chéngjiāngxiàn",
+	"code": "530403",
+	"name": "江川区",
+	"initials": "jcq",
+	"pinyin": "jiāngchuānqū",
 	"parent": "530400"
 }, {
 	"level": 2,
@@ -20159,19 +18171,19 @@
 	"pinyin": "yuánjiānghānízúyízúdǎizúzìzhìxiàn",
 	"parent": "530400"
 }, {
+	"level": 2,
+	"code": "530481",
+	"name": "澄江市",
+	"initials": "cjs",
+	"pinyin": "chéngjiāngshì",
+	"parent": "530400"
+}, {
 	"level": 1,
 	"code": "530500",
 	"name": "保山市",
 	"initials": "bss",
 	"pinyin": "bǎoshānshì",
 	"parent": "530000"
-}, {
-	"level": 2,
-	"code": "530501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530500"
 }, {
 	"level": 2,
 	"code": "530502",
@@ -20188,13 +18200,6 @@
 	"parent": "530500"
 }, {
 	"level": 2,
-	"code": "530522",
-	"name": "腾冲县",
-	"initials": "tcx",
-	"pinyin": "téngchōngxiàn",
-	"parent": "530500"
-}, {
-	"level": 2,
 	"code": "530523",
 	"name": "龙陵县",
 	"initials": "llx",
@@ -20208,19 +18213,19 @@
 	"pinyin": "chāngníngxiàn",
 	"parent": "530500"
 }, {
+	"level": 2,
+	"code": "530581",
+	"name": "腾冲市",
+	"initials": "tcs",
+	"pinyin": "téngchōngshì",
+	"parent": "530500"
+}, {
 	"level": 1,
 	"code": "530600",
 	"name": "昭通市",
 	"initials": "zts",
 	"pinyin": "zhāotōngshì",
 	"parent": "530000"
-}, {
-	"level": 2,
-	"code": "530601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530600"
 }, {
 	"level": 2,
 	"code": "530602",
@@ -20293,10 +18298,10 @@
 	"parent": "530600"
 }, {
 	"level": 2,
-	"code": "530630",
-	"name": "水富县",
-	"initials": "sfx",
-	"pinyin": "shǔifùxiàn",
+	"code": "530681",
+	"name": "水富市",
+	"initials": "sfs",
+	"pinyin": "shǔifùshì",
 	"parent": "530600"
 }, {
 	"level": 1,
@@ -20305,13 +18310,6 @@
 	"initials": "ljs",
 	"pinyin": "lìjiāngshì",
 	"parent": "530000"
-}, {
-	"level": 2,
-	"code": "530701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530700"
 }, {
 	"level": 2,
 	"code": "530702",
@@ -20354,13 +18352,6 @@
 	"initials": "pěs",
 	"pinyin": "pǔěrshì",
 	"parent": "530000"
-}, {
-	"level": 2,
-	"code": "530801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530800"
 }, {
 	"level": 2,
 	"code": "530802",
@@ -20438,13 +18429,6 @@
 	"initials": "lcs",
 	"pinyin": "líncāngshì",
 	"parent": "530000"
-}, {
-	"level": 2,
-	"code": "530901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "530900"
 }, {
 	"level": 2,
 	"code": "530902",
@@ -20608,6 +18592,13 @@
 	"parent": "532500"
 }, {
 	"level": 2,
+	"code": "532504",
+	"name": "弥勒市",
+	"initials": "mls",
+	"pinyin": "mílèshì",
+	"parent": "532500"
+}, {
+	"level": 2,
 	"code": "532523",
 	"name": "屏边苗族自治县",
 	"initials": "pbmzzzx",
@@ -20626,13 +18617,6 @@
 	"name": "石屏县",
 	"initials": "spx",
 	"pinyin": "shípíngxiàn",
-	"parent": "532500"
-}, {
-	"level": 2,
-	"code": "532526",
-	"name": "弥勒县",
-	"initials": "mlx",
-	"pinyin": "mílèxiàn",
 	"parent": "532500"
 }, {
 	"level": 2,
@@ -20685,10 +18669,10 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "532621",
-	"name": "文山县",
-	"initials": "wsx",
-	"pinyin": "wénshānxiàn",
+	"code": "532601",
+	"name": "文山市",
+	"initials": "wss",
+	"pinyin": "wénshānshì",
 	"parent": "532600"
 }, {
 	"level": 2,
@@ -20909,10 +18893,10 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "533321",
-	"name": "泸水县",
-	"initials": "lsx",
-	"pinyin": "lúshǔixiàn",
+	"code": "533301",
+	"name": "泸水市",
+	"initials": "lss",
+	"pinyin": "lúshǔishì",
 	"parent": "533300"
 }, {
 	"level": 2,
@@ -20944,10 +18928,10 @@
 	"parent": "530000"
 }, {
 	"level": 2,
-	"code": "533421",
-	"name": "香格里拉县",
-	"initials": "xgllx",
-	"pinyin": "xiānggélǐlāxiàn",
+	"code": "533401",
+	"name": "香格里拉市",
+	"initials": "xglls",
+	"pinyin": "xiānggélǐlāshì",
 	"parent": "533400"
 }, {
 	"level": 2,
@@ -20979,17 +18963,24 @@
 	"parent": "540000"
 }, {
 	"level": 2,
-	"code": "540101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "540100"
-}, {
-	"level": 2,
 	"code": "540102",
 	"name": "城关区",
 	"initials": "cgq",
 	"pinyin": "chéngguānqū",
+	"parent": "540100"
+}, {
+	"level": 2,
+	"code": "540103",
+	"name": "堆龙德庆区",
+	"initials": "dldqq",
+	"pinyin": "dūilóngdéqìngqū",
+	"parent": "540100"
+}, {
+	"level": 2,
+	"code": "540104",
+	"name": "达孜区",
+	"initials": "dzq",
+	"pinyin": "dázīqū",
 	"parent": "540100"
 }, {
 	"level": 2,
@@ -21021,20 +19012,6 @@
 	"parent": "540100"
 }, {
 	"level": 2,
-	"code": "540125",
-	"name": "堆龙德庆县",
-	"initials": "dldqx",
-	"pinyin": "dūilóngdéqìngxiàn",
-	"parent": "540100"
-}, {
-	"level": 2,
-	"code": "540126",
-	"name": "达孜县",
-	"initials": "dzx",
-	"pinyin": "dázīxiàn",
-	"parent": "540100"
-}, {
-	"level": 2,
 	"code": "540127",
 	"name": "墨竹工卡县",
 	"initials": "mzgqx",
@@ -21042,389 +19019,452 @@
 	"parent": "540100"
 }, {
 	"level": 1,
-	"code": "542100",
-	"name": "昌都地区",
-	"initials": "cddq",
-	"pinyin": "chāngdūdìqū",
-	"parent": "540000"
-}, {
-	"level": 2,
-	"code": "542121",
-	"name": "昌都县",
-	"initials": "cdx",
-	"pinyin": "chāngdūxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542122",
-	"name": "江达县",
-	"initials": "jdx",
-	"pinyin": "jiāngdáxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542123",
-	"name": "贡觉县",
-	"initials": "gjx",
-	"pinyin": "gòngjuéxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542124",
-	"name": "类乌齐县",
-	"initials": "lwqx",
-	"pinyin": "lèiwūqíxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542125",
-	"name": "丁青县",
-	"initials": "dqx",
-	"pinyin": "dīngqīngxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542126",
-	"name": "察雅县",
-	"initials": "cyx",
-	"pinyin": "cháyǎxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542127",
-	"name": "八宿县",
-	"initials": "bsx",
-	"pinyin": "bāsùxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542128",
-	"name": "左贡县",
-	"initials": "zgx",
-	"pinyin": "zuǒgòngxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542129",
-	"name": "芒康县",
-	"initials": "mkx",
-	"pinyin": "mángkāngxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542132",
-	"name": "洛隆县",
-	"initials": "llx",
-	"pinyin": "luòlóngxiàn",
-	"parent": "542100"
-}, {
-	"level": 2,
-	"code": "542133",
-	"name": "边坝县",
-	"initials": "bbx",
-	"pinyin": "biānbàxiàn",
-	"parent": "542100"
-}, {
-	"level": 1,
-	"code": "542200",
-	"name": "山南地区",
-	"initials": "sndq",
-	"pinyin": "shānnándìqū",
-	"parent": "540000"
-}, {
-	"level": 2,
-	"code": "542221",
-	"name": "乃东县",
-	"initials": "ndx",
-	"pinyin": "nǎidōngxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542222",
-	"name": "扎囊县",
-	"initials": "znx",
-	"pinyin": "zhānángxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542223",
-	"name": "贡嘎县",
-	"initials": "ggx",
-	"pinyin": "gònggāxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542224",
-	"name": "桑日县",
-	"initials": "srx",
-	"pinyin": "sāngrìxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542225",
-	"name": "琼结县",
-	"initials": "qjx",
-	"pinyin": "qióngjiéxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542226",
-	"name": "曲松县",
-	"initials": "qsx",
-	"pinyin": "qūsōngxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542227",
-	"name": "措美县",
-	"initials": "cmx",
-	"pinyin": "cuòměixiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542228",
-	"name": "洛扎县",
-	"initials": "lzx",
-	"pinyin": "luòzhāxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542229",
-	"name": "加查县",
-	"initials": "jcx",
-	"pinyin": "jiācháxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542231",
-	"name": "隆子县",
-	"initials": "lzx",
-	"pinyin": "lóngzǐxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542232",
-	"name": "错那县",
-	"initials": "cnx",
-	"pinyin": "cuònàxiàn",
-	"parent": "542200"
-}, {
-	"level": 2,
-	"code": "542233",
-	"name": "浪卡子县",
-	"initials": "lqzx",
-	"pinyin": "làngqiǎzǐxiàn",
-	"parent": "542200"
-}, {
-	"level": 1,
-	"code": "542300",
-	"name": "日喀则地区",
-	"initials": "rkzdq",
-	"pinyin": "rìkāzédìqū",
-	"parent": "540000"
-}, {
-	"level": 2,
-	"code": "542301",
+	"code": "540200",
 	"name": "日喀则市",
 	"initials": "rkzs",
 	"pinyin": "rìkāzéshì",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542322",
-	"name": "南木林县",
-	"initials": "nmlx",
-	"pinyin": "nánmùlínxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542323",
-	"name": "江孜县",
-	"initials": "jzx",
-	"pinyin": "jiāngzīxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542324",
-	"name": "定日县",
-	"initials": "drx",
-	"pinyin": "dìngrìxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542325",
-	"name": "萨迦县",
-	"initials": "sjx",
-	"pinyin": "sàjiāxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542326",
-	"name": "拉孜县",
-	"initials": "lzx",
-	"pinyin": "lāzīxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542327",
-	"name": "昂仁县",
-	"initials": "árx",
-	"pinyin": "ángrénxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542328",
-	"name": "谢通门县",
-	"initials": "xtmx",
-	"pinyin": "xiètōngménxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542329",
-	"name": "白朗县",
-	"initials": "blx",
-	"pinyin": "báilǎngxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542330",
-	"name": "仁布县",
-	"initials": "rbx",
-	"pinyin": "rénbùxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542331",
-	"name": "康马县",
-	"initials": "kmx",
-	"pinyin": "kāngmǎxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542332",
-	"name": "定结县",
-	"initials": "djx",
-	"pinyin": "dìngjiéxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542333",
-	"name": "仲巴县",
-	"initials": "zbx",
-	"pinyin": "zhòngbāxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542334",
-	"name": "亚东县",
-	"initials": "ydx",
-	"pinyin": "yàdōngxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542335",
-	"name": "吉隆县",
-	"initials": "jlx",
-	"pinyin": "jílóngxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542336",
-	"name": "聂拉木县",
-	"initials": "nlmx",
-	"pinyin": "nièlāmùxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542337",
-	"name": "萨嘎县",
-	"initials": "sgx",
-	"pinyin": "sàgāxiàn",
-	"parent": "542300"
-}, {
-	"level": 2,
-	"code": "542338",
-	"name": "岗巴县",
-	"initials": "gbx",
-	"pinyin": "gǎngbāxiàn",
-	"parent": "542300"
-}, {
-	"level": 1,
-	"code": "542400",
-	"name": "那曲地区",
-	"initials": "nqdq",
-	"pinyin": "nàqūdìqū",
 	"parent": "540000"
 }, {
 	"level": 2,
-	"code": "542421",
-	"name": "那曲县",
-	"initials": "nqx",
-	"pinyin": "nàqūxiàn",
-	"parent": "542400"
+	"code": "540202",
+	"name": "桑珠孜区",
+	"initials": "szzq",
+	"pinyin": "sāngzhūzīqū",
+	"parent": "540200"
 }, {
 	"level": 2,
-	"code": "542422",
+	"code": "540221",
+	"name": "南木林县",
+	"initials": "nmlx",
+	"pinyin": "nánmùlínxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540222",
+	"name": "江孜县",
+	"initials": "jzx",
+	"pinyin": "jiāngzīxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540223",
+	"name": "定日县",
+	"initials": "drx",
+	"pinyin": "dìngrìxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540224",
+	"name": "萨迦县",
+	"initials": "sjx",
+	"pinyin": "sàjiāxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540225",
+	"name": "拉孜县",
+	"initials": "lzx",
+	"pinyin": "lāzīxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540226",
+	"name": "昂仁县",
+	"initials": "árx",
+	"pinyin": "ángrénxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540227",
+	"name": "谢通门县",
+	"initials": "xtmx",
+	"pinyin": "xiètōngménxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540228",
+	"name": "白朗县",
+	"initials": "blx",
+	"pinyin": "báilǎngxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540229",
+	"name": "仁布县",
+	"initials": "rbx",
+	"pinyin": "rénbùxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540230",
+	"name": "康马县",
+	"initials": "kmx",
+	"pinyin": "kāngmǎxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540231",
+	"name": "定结县",
+	"initials": "djx",
+	"pinyin": "dìngjiéxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540232",
+	"name": "仲巴县",
+	"initials": "zbx",
+	"pinyin": "zhòngbāxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540233",
+	"name": "亚东县",
+	"initials": "ydx",
+	"pinyin": "yàdōngxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540234",
+	"name": "吉隆县",
+	"initials": "jlx",
+	"pinyin": "jílóngxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540235",
+	"name": "聂拉木县",
+	"initials": "nlmx",
+	"pinyin": "nièlāmùxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540236",
+	"name": "萨嘎县",
+	"initials": "sgx",
+	"pinyin": "sàgāxiàn",
+	"parent": "540200"
+}, {
+	"level": 2,
+	"code": "540237",
+	"name": "岗巴县",
+	"initials": "gbx",
+	"pinyin": "gǎngbāxiàn",
+	"parent": "540200"
+}, {
+	"level": 1,
+	"code": "540300",
+	"name": "昌都市",
+	"initials": "cds",
+	"pinyin": "chāngdūshì",
+	"parent": "540000"
+}, {
+	"level": 2,
+	"code": "540302",
+	"name": "卡若区",
+	"initials": "qrq",
+	"pinyin": "qiǎruòqū",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540321",
+	"name": "江达县",
+	"initials": "jdx",
+	"pinyin": "jiāngdáxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540322",
+	"name": "贡觉县",
+	"initials": "gjx",
+	"pinyin": "gòngjuéxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540323",
+	"name": "类乌齐县",
+	"initials": "lwqx",
+	"pinyin": "lèiwūqíxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540324",
+	"name": "丁青县",
+	"initials": "dqx",
+	"pinyin": "dīngqīngxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540325",
+	"name": "察雅县",
+	"initials": "cyx",
+	"pinyin": "cháyǎxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540326",
+	"name": "八宿县",
+	"initials": "bsx",
+	"pinyin": "bāsùxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540327",
+	"name": "左贡县",
+	"initials": "zgx",
+	"pinyin": "zuǒgòngxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540328",
+	"name": "芒康县",
+	"initials": "mkx",
+	"pinyin": "mángkāngxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540329",
+	"name": "洛隆县",
+	"initials": "llx",
+	"pinyin": "luòlóngxiàn",
+	"parent": "540300"
+}, {
+	"level": 2,
+	"code": "540330",
+	"name": "边坝县",
+	"initials": "bbx",
+	"pinyin": "biānbàxiàn",
+	"parent": "540300"
+}, {
+	"level": 1,
+	"code": "540400",
+	"name": "林芝市",
+	"initials": "lzs",
+	"pinyin": "línzhīshì",
+	"parent": "540000"
+}, {
+	"level": 2,
+	"code": "540402",
+	"name": "巴宜区",
+	"initials": "byq",
+	"pinyin": "bāyíqū",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540421",
+	"name": "工布江达县",
+	"initials": "gbjdx",
+	"pinyin": "gōngbùjiāngdáxiàn",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540422",
+	"name": "米林县",
+	"initials": "mlx",
+	"pinyin": "mǐlínxiàn",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540423",
+	"name": "墨脱县",
+	"initials": "mtx",
+	"pinyin": "mòtuōxiàn",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540424",
+	"name": "波密县",
+	"initials": "bmx",
+	"pinyin": "bōmìxiàn",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540425",
+	"name": "察隅县",
+	"initials": "cyx",
+	"pinyin": "cháyúxiàn",
+	"parent": "540400"
+}, {
+	"level": 2,
+	"code": "540426",
+	"name": "朗县",
+	"initials": "lx",
+	"pinyin": "lǎngxiàn",
+	"parent": "540400"
+}, {
+	"level": 1,
+	"code": "540500",
+	"name": "山南市",
+	"initials": "sns",
+	"pinyin": "shānnánshì",
+	"parent": "540000"
+}, {
+	"level": 2,
+	"code": "540502",
+	"name": "乃东区",
+	"initials": "ndq",
+	"pinyin": "nǎidōngqū",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540521",
+	"name": "扎囊县",
+	"initials": "znx",
+	"pinyin": "zhānángxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540522",
+	"name": "贡嘎县",
+	"initials": "ggx",
+	"pinyin": "gònggāxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540523",
+	"name": "桑日县",
+	"initials": "srx",
+	"pinyin": "sāngrìxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540524",
+	"name": "琼结县",
+	"initials": "qjx",
+	"pinyin": "qióngjiéxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540525",
+	"name": "曲松县",
+	"initials": "qsx",
+	"pinyin": "qūsōngxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540526",
+	"name": "措美县",
+	"initials": "cmx",
+	"pinyin": "cuòměixiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540527",
+	"name": "洛扎县",
+	"initials": "lzx",
+	"pinyin": "luòzhāxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540528",
+	"name": "加查县",
+	"initials": "jcx",
+	"pinyin": "jiācháxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540529",
+	"name": "隆子县",
+	"initials": "lzx",
+	"pinyin": "lóngzǐxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540530",
+	"name": "错那县",
+	"initials": "cnx",
+	"pinyin": "cuònàxiàn",
+	"parent": "540500"
+}, {
+	"level": 2,
+	"code": "540531",
+	"name": "浪卡子县",
+	"initials": "lqzx",
+	"pinyin": "làngqiǎzǐxiàn",
+	"parent": "540500"
+}, {
+	"level": 1,
+	"code": "540600",
+	"name": "那曲市",
+	"initials": "nqs",
+	"pinyin": "nàqūshì",
+	"parent": "540000"
+}, {
+	"level": 2,
+	"code": "540602",
+	"name": "色尼区",
+	"initials": "snq",
+	"pinyin": "sèníqū",
+	"parent": "540600"
+}, {
+	"level": 2,
+	"code": "540621",
 	"name": "嘉黎县",
 	"initials": "jlx",
 	"pinyin": "jiālíxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542423",
+	"code": "540622",
 	"name": "比如县",
 	"initials": "brx",
 	"pinyin": "bǐrúxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542424",
+	"code": "540623",
 	"name": "聂荣县",
 	"initials": "nrx",
 	"pinyin": "nièróngxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542425",
+	"code": "540624",
 	"name": "安多县",
 	"initials": "ādx",
 	"pinyin": "ānduōxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542426",
+	"code": "540625",
 	"name": "申扎县",
 	"initials": "szx",
 	"pinyin": "shēnzhāxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542427",
+	"code": "540626",
 	"name": "索县",
 	"initials": "sx",
 	"pinyin": "suǒxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542428",
+	"code": "540627",
 	"name": "班戈县",
 	"initials": "bgx",
 	"pinyin": "bāngēxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542429",
+	"code": "540628",
 	"name": "巴青县",
 	"initials": "bqx",
 	"pinyin": "bāqīngxiàn",
-	"parent": "542400"
+	"parent": "540600"
 }, {
 	"level": 2,
-	"code": "542430",
+	"code": "540629",
 	"name": "尼玛县",
 	"initials": "nmx",
 	"pinyin": "nímǎxiàn",
-	"parent": "542400"
+	"parent": "540600"
+}, {
+	"level": 2,
+	"code": "540630",
+	"name": "双湖县",
+	"initials": "shx",
+	"pinyin": "shuānghúxiàn",
+	"parent": "540600"
 }, {
 	"level": 1,
 	"code": "542500",
@@ -21482,62 +19522,6 @@
 	"pinyin": "cuòqínxiàn",
 	"parent": "542500"
 }, {
-	"level": 1,
-	"code": "542600",
-	"name": "林芝地区",
-	"initials": "lzdq",
-	"pinyin": "línzhīdìqū",
-	"parent": "540000"
-}, {
-	"level": 2,
-	"code": "542621",
-	"name": "林芝县",
-	"initials": "lzx",
-	"pinyin": "línzhīxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542622",
-	"name": "工布江达县",
-	"initials": "gbjdx",
-	"pinyin": "gōngbùjiāngdáxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542623",
-	"name": "米林县",
-	"initials": "mlx",
-	"pinyin": "mǐlínxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542624",
-	"name": "墨脱县",
-	"initials": "mtx",
-	"pinyin": "mòtuōxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542625",
-	"name": "波密县",
-	"initials": "bmx",
-	"pinyin": "bōmìxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542626",
-	"name": "察隅县",
-	"initials": "cyx",
-	"pinyin": "cháyúxiàn",
-	"parent": "542600"
-}, {
-	"level": 2,
-	"code": "542627",
-	"name": "朗县",
-	"initials": "lx",
-	"pinyin": "lǎngxiàn",
-	"parent": "542600"
-}, {
 	"level": 0,
 	"code": "610000",
 	"name": "陕西省",
@@ -21551,13 +19535,6 @@
 	"initials": "xās",
 	"pinyin": "xīānshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610100"
 }, {
 	"level": 2,
 	"code": "610102",
@@ -21623,6 +19600,20 @@
 	"parent": "610100"
 }, {
 	"level": 2,
+	"code": "610117",
+	"name": "高陵区",
+	"initials": "glq",
+	"pinyin": "gāolíngqū",
+	"parent": "610100"
+}, {
+	"level": 2,
+	"code": "610118",
+	"name": "鄠邑区",
+	"initials": "hyq",
+	"pinyin": "hùyìqū",
+	"parent": "610100"
+}, {
+	"level": 2,
 	"code": "610122",
 	"name": "蓝田县",
 	"initials": "ltx",
@@ -21636,33 +19627,12 @@
 	"pinyin": "zhōuzhìxiàn",
 	"parent": "610100"
 }, {
-	"level": 2,
-	"code": "610125",
-	"name": "户县",
-	"initials": "hx",
-	"pinyin": "hùxiàn",
-	"parent": "610100"
-}, {
-	"level": 2,
-	"code": "610126",
-	"name": "高陵县",
-	"initials": "glx",
-	"pinyin": "gāolíngxiàn",
-	"parent": "610100"
-}, {
 	"level": 1,
 	"code": "610200",
 	"name": "铜川市",
 	"initials": "tcs",
 	"pinyin": "tóngchuānshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610200"
 }, {
 	"level": 2,
 	"code": "610202",
@@ -21698,13 +19668,6 @@
 	"initials": "bjs",
 	"pinyin": "bǎojīshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610300"
 }, {
 	"level": 2,
 	"code": "610302",
@@ -21798,13 +19761,6 @@
 	"parent": "610000"
 }, {
 	"level": 2,
-	"code": "610401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610400"
-}, {
-	"level": 2,
 	"code": "610402",
 	"name": "秦都区",
 	"initials": "qdq",
@@ -21861,13 +19817,6 @@
 	"parent": "610400"
 }, {
 	"level": 2,
-	"code": "610427",
-	"name": "彬县",
-	"initials": "bx",
-	"pinyin": "bīnxiàn",
-	"parent": "610400"
-}, {
-	"level": 2,
 	"code": "610428",
 	"name": "长武县",
 	"initials": "cwx",
@@ -21902,19 +19851,19 @@
 	"pinyin": "xīngpíngshì",
 	"parent": "610400"
 }, {
+	"level": 2,
+	"code": "610482",
+	"name": "彬州市",
+	"initials": "bzs",
+	"pinyin": "bīnzhōushì",
+	"parent": "610400"
+}, {
 	"level": 1,
 	"code": "610500",
 	"name": "渭南市",
 	"initials": "wns",
 	"pinyin": "wèinánshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610500"
 }, {
 	"level": 2,
 	"code": "610502",
@@ -21924,10 +19873,10 @@
 	"parent": "610500"
 }, {
 	"level": 2,
-	"code": "610521",
-	"name": "华县",
-	"initials": "hx",
-	"pinyin": "huáxiàn",
+	"code": "610503",
+	"name": "华州区",
+	"initials": "hzq",
+	"pinyin": "huázhōuqū",
 	"parent": "610500"
 }, {
 	"level": 2,
@@ -22001,17 +19950,17 @@
 	"parent": "610000"
 }, {
 	"level": 2,
-	"code": "610601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610600"
-}, {
-	"level": 2,
 	"code": "610602",
 	"name": "宝塔区",
 	"initials": "btq",
 	"pinyin": "bǎotǎqū",
+	"parent": "610600"
+}, {
+	"level": 2,
+	"code": "610603",
+	"name": "安塞区",
+	"initials": "āsq",
+	"pinyin": "ānsāiqū",
 	"parent": "610600"
 }, {
 	"level": 2,
@@ -22026,20 +19975,6 @@
 	"name": "延川县",
 	"initials": "ycx",
 	"pinyin": "yánchuānxiàn",
-	"parent": "610600"
-}, {
-	"level": 2,
-	"code": "610623",
-	"name": "子长县",
-	"initials": "zcx",
-	"pinyin": "zǐchángxiàn",
-	"parent": "610600"
-}, {
-	"level": 2,
-	"code": "610624",
-	"name": "安塞县",
-	"initials": "āsx",
-	"pinyin": "ānsāixiàn",
 	"parent": "610600"
 }, {
 	"level": 2,
@@ -22098,19 +20033,19 @@
 	"pinyin": "huánglíngxiàn",
 	"parent": "610600"
 }, {
+	"level": 2,
+	"code": "610681",
+	"name": "子长市",
+	"initials": "zcs",
+	"pinyin": "zǐchángshì",
+	"parent": "610600"
+}, {
 	"level": 1,
 	"code": "610700",
 	"name": "汉中市",
 	"initials": "hzs",
 	"pinyin": "hànzhōngshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610700"
 }, {
 	"level": 2,
 	"code": "610702",
@@ -22120,10 +20055,10 @@
 	"parent": "610700"
 }, {
 	"level": 2,
-	"code": "610721",
-	"name": "南郑县",
-	"initials": "nzx",
-	"pinyin": "nánzhèngxiàn",
+	"code": "610703",
+	"name": "南郑区",
+	"initials": "nzq",
+	"pinyin": "nánzhèngqū",
 	"parent": "610700"
 }, {
 	"level": 2,
@@ -22197,13 +20132,6 @@
 	"parent": "610000"
 }, {
 	"level": 2,
-	"code": "610801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610800"
-}, {
-	"level": 2,
 	"code": "610802",
 	"name": "榆阳区",
 	"initials": "yyq",
@@ -22211,10 +20139,10 @@
 	"parent": "610800"
 }, {
 	"level": 2,
-	"code": "610821",
-	"name": "神木县",
-	"initials": "smx",
-	"pinyin": "shénmùxiàn",
+	"code": "610803",
+	"name": "横山区",
+	"initials": "hsq",
+	"pinyin": "héngshānqū",
 	"parent": "610800"
 }, {
 	"level": 2,
@@ -22222,13 +20150,6 @@
 	"name": "府谷县",
 	"initials": "fgx",
 	"pinyin": "fǔgǔxiàn",
-	"parent": "610800"
-}, {
-	"level": 2,
-	"code": "610823",
-	"name": "横山县",
-	"initials": "hsx",
-	"pinyin": "héngshānxiàn",
 	"parent": "610800"
 }, {
 	"level": 2,
@@ -22287,19 +20208,19 @@
 	"pinyin": "zǐzhōuxiàn",
 	"parent": "610800"
 }, {
+	"level": 2,
+	"code": "610881",
+	"name": "神木市",
+	"initials": "sms",
+	"pinyin": "shénmùshì",
+	"parent": "610800"
+}, {
 	"level": 1,
 	"code": "610900",
 	"name": "安康市",
 	"initials": "āks",
 	"pinyin": "ānkāngshì",
 	"parent": "610000"
-}, {
-	"level": 2,
-	"code": "610901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "610900"
 }, {
 	"level": 2,
 	"code": "610902",
@@ -22379,13 +20300,6 @@
 	"parent": "610000"
 }, {
 	"level": 2,
-	"code": "611001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "611000"
-}, {
-	"level": 2,
 	"code": "611002",
 	"name": "商州区",
 	"initials": "szq",
@@ -22447,13 +20361,6 @@
 	"initials": "lzs",
 	"pinyin": "lánzhōushì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "620101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620100"
 }, {
 	"level": 2,
 	"code": "620102",
@@ -22518,13 +20425,6 @@
 	"pinyin": "jiāyùguānshì",
 	"parent": "620000"
 }, {
-	"level": 2,
-	"code": "620201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620200"
-}, {
 	"level": 1,
 	"code": "620300",
 	"name": "金昌市",
@@ -22533,25 +20433,18 @@
 	"parent": "620000"
 }, {
 	"level": 2,
-	"code": "620301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620300"
-}, {
-	"level": 2,
 	"code": "620302",
 	"name": "金川区",
 	"initials": "jcq",
 	"pinyin": "jīnchuānqū",
-	"parent": "620300"
+	"parent": "620200"
 }, {
 	"level": 2,
 	"code": "620321",
 	"name": "永昌县",
 	"initials": "ycx",
 	"pinyin": "yǒngchāngxiàn",
-	"parent": "620300"
+	"parent": "620200"
 }, {
 	"level": 1,
 	"code": "620400",
@@ -22559,13 +20452,6 @@
 	"initials": "bys",
 	"pinyin": "báiyínshì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "620401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620400"
 }, {
 	"level": 2,
 	"code": "620402",
@@ -22608,13 +20494,6 @@
 	"initials": "tss",
 	"pinyin": "tiānshǔishì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "620501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620500"
 }, {
 	"level": 2,
 	"code": "620502",
@@ -22673,13 +20552,6 @@
 	"parent": "620000"
 }, {
 	"level": 2,
-	"code": "620601",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620600"
-}, {
-	"level": 2,
 	"code": "620602",
 	"name": "凉州区",
 	"initials": "lzq",
@@ -22713,13 +20585,6 @@
 	"initials": "zys",
 	"pinyin": "zhāngyèshì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "620701",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620700"
 }, {
 	"level": 2,
 	"code": "620702",
@@ -22771,13 +20636,6 @@
 	"parent": "620000"
 }, {
 	"level": 2,
-	"code": "620801",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620800"
-}, {
-	"level": 2,
 	"code": "620802",
 	"name": "崆峒区",
 	"initials": "ktq",
@@ -22806,13 +20664,6 @@
 	"parent": "620800"
 }, {
 	"level": 2,
-	"code": "620824",
-	"name": "华亭县",
-	"initials": "htx",
-	"pinyin": "huátíngxiàn",
-	"parent": "620800"
-}, {
-	"level": 2,
 	"code": "620825",
 	"name": "庄浪县",
 	"initials": "zlx",
@@ -22826,19 +20677,19 @@
 	"pinyin": "jìngníngxiàn",
 	"parent": "620800"
 }, {
+	"level": 2,
+	"code": "620881",
+	"name": "华亭市",
+	"initials": "hts",
+	"pinyin": "huátíngshì",
+	"parent": "620800"
+}, {
 	"level": 1,
 	"code": "620900",
 	"name": "酒泉市",
 	"initials": "jqs",
 	"pinyin": "jǐuquánshì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "620901",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "620900"
 }, {
 	"level": 2,
 	"code": "620902",
@@ -22895,13 +20746,6 @@
 	"initials": "qys",
 	"pinyin": "qìngyángshì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "621001",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "621000"
 }, {
 	"level": 2,
 	"code": "621002",
@@ -22967,13 +20811,6 @@
 	"parent": "620000"
 }, {
 	"level": 2,
-	"code": "621101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "621100"
-}, {
-	"level": 2,
 	"code": "621102",
 	"name": "安定区",
 	"initials": "ādq",
@@ -23028,13 +20865,6 @@
 	"initials": "lns",
 	"pinyin": "lǒngnánshì",
 	"parent": "620000"
-}, {
-	"level": 2,
-	"code": "621201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "621200"
 }, {
 	"level": 2,
 	"code": "621202",
@@ -23240,13 +21070,6 @@
 	"parent": "630000"
 }, {
 	"level": 2,
-	"code": "630101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "630100"
-}, {
-	"level": 2,
 	"code": "630102",
 	"name": "城东区",
 	"initials": "cdq",
@@ -23275,17 +21098,17 @@
 	"parent": "630100"
 }, {
 	"level": 2,
+	"code": "630106",
+	"name": "湟中区",
+	"initials": "hzq",
+	"pinyin": "huángzhōngqū",
+	"parent": "630100"
+}, {
+	"level": 2,
 	"code": "630121",
 	"name": "大通回族土族自治县",
 	"initials": "dthztzzzx",
 	"pinyin": "dàtōnghúizútǔzúzìzhìxiàn",
-	"parent": "630100"
-}, {
-	"level": 2,
-	"code": "630122",
-	"name": "湟中县",
-	"initials": "hzx",
-	"pinyin": "huángzhōngxiàn",
 	"parent": "630100"
 }, {
 	"level": 2,
@@ -23296,53 +21119,53 @@
 	"parent": "630100"
 }, {
 	"level": 1,
-	"code": "632100",
-	"name": "海东地区",
-	"initials": "hddq",
-	"pinyin": "hǎidōngdìqū",
+	"code": "630200",
+	"name": "海东市",
+	"initials": "hds",
+	"pinyin": "hǎidōngshì",
 	"parent": "630000"
 }, {
 	"level": 2,
-	"code": "632121",
-	"name": "平安县",
-	"initials": "pāx",
-	"pinyin": "píngānxiàn",
-	"parent": "632100"
+	"code": "630202",
+	"name": "乐都区",
+	"initials": "ldq",
+	"pinyin": "lèdūqū",
+	"parent": "630200"
 }, {
 	"level": 2,
-	"code": "632122",
+	"code": "630203",
+	"name": "平安区",
+	"initials": "pāq",
+	"pinyin": "píngānqū",
+	"parent": "630200"
+}, {
+	"level": 2,
+	"code": "630222",
 	"name": "民和回族土族自治县",
 	"initials": "mhhztzzzx",
 	"pinyin": "mínhéhúizútǔzúzìzhìxiàn",
-	"parent": "632100"
+	"parent": "630200"
 }, {
 	"level": 2,
-	"code": "632123",
-	"name": "乐都县",
-	"initials": "ldx",
-	"pinyin": "lèdūxiàn",
-	"parent": "632100"
-}, {
-	"level": 2,
-	"code": "632126",
+	"code": "630223",
 	"name": "互助土族自治县",
 	"initials": "hztzzzx",
 	"pinyin": "hùzhùtǔzúzìzhìxiàn",
-	"parent": "632100"
+	"parent": "630200"
 }, {
 	"level": 2,
-	"code": "632127",
+	"code": "630224",
 	"name": "化隆回族自治县",
 	"initials": "hlhzzzx",
 	"pinyin": "huàlónghúizúzìzhìxiàn",
-	"parent": "632100"
+	"parent": "630200"
 }, {
 	"level": 2,
-	"code": "632128",
+	"code": "630225",
 	"name": "循化撒拉族自治县",
 	"initials": "xhslzzzx",
 	"pinyin": "xúnhuàsālāzúzìzhìxiàn",
-	"parent": "632100"
+	"parent": "630200"
 }, {
 	"level": 1,
 	"code": "632200",
@@ -23387,10 +21210,10 @@
 	"parent": "630000"
 }, {
 	"level": 2,
-	"code": "632321",
-	"name": "同仁县",
-	"initials": "trx",
-	"pinyin": "tóngrénxiàn",
+	"code": "632301",
+	"name": "同仁市",
+	"initials": "trs",
+	"pinyin": "tóngrénshì",
 	"parent": "632300"
 }, {
 	"level": 2,
@@ -23513,10 +21336,10 @@
 	"parent": "630000"
 }, {
 	"level": 2,
-	"code": "632721",
-	"name": "玉树县",
-	"initials": "ysx",
-	"pinyin": "yùshùxiàn",
+	"code": "632701",
+	"name": "玉树市",
+	"initials": "yss",
+	"pinyin": "yùshùshì",
 	"parent": "632700"
 }, {
 	"level": 2,
@@ -23576,6 +21399,13 @@
 	"parent": "632800"
 }, {
 	"level": 2,
+	"code": "632803",
+	"name": "茫崖市",
+	"initials": "mys",
+	"pinyin": "mángyáshì",
+	"parent": "632800"
+}, {
+	"level": 2,
 	"code": "632821",
 	"name": "乌兰县",
 	"initials": "wlx",
@@ -23609,13 +21439,6 @@
 	"initials": "ycs",
 	"pinyin": "yínchuānshì",
 	"parent": "640000"
-}, {
-	"level": 2,
-	"code": "640101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "640100"
 }, {
 	"level": 2,
 	"code": "640104",
@@ -23667,13 +21490,6 @@
 	"parent": "640000"
 }, {
 	"level": 2,
-	"code": "640201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "640200"
-}, {
-	"level": 2,
 	"code": "640202",
 	"name": "大武口区",
 	"initials": "dwkq",
@@ -23700,13 +21516,6 @@
 	"initials": "wzs",
 	"pinyin": "wúzhōngshì",
 	"parent": "640000"
-}, {
-	"level": 2,
-	"code": "640301",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "640300"
 }, {
 	"level": 2,
 	"code": "640302",
@@ -23751,13 +21560,6 @@
 	"parent": "640000"
 }, {
 	"level": 2,
-	"code": "640401",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "640400"
-}, {
-	"level": 2,
 	"code": "640402",
 	"name": "原州区",
 	"initials": "yzq",
@@ -23800,13 +21602,6 @@
 	"parent": "640000"
 }, {
 	"level": 2,
-	"code": "640501",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "640500"
-}, {
-	"level": 2,
 	"code": "640502",
 	"name": "沙坡头区",
 	"initials": "sptq",
@@ -23840,13 +21635,6 @@
 	"initials": "wlmqs",
 	"pinyin": "wūlǔmùqíshì",
 	"parent": "650000"
-}, {
-	"level": 2,
-	"code": "650101",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "650100"
 }, {
 	"level": 2,
 	"code": "650102",
@@ -23912,13 +21700,6 @@
 	"parent": "650000"
 }, {
 	"level": 2,
-	"code": "650201",
-	"name": "市辖区",
-	"initials": "sxq",
-	"pinyin": "shìxiáqū",
-	"parent": "650200"
-}, {
-	"level": 2,
 	"code": "650202",
 	"name": "独山子区",
 	"initials": "dszq",
@@ -23947,60 +21728,60 @@
 	"parent": "650200"
 }, {
 	"level": 1,
-	"code": "652100",
-	"name": "吐鲁番地区",
-	"initials": "tlfdq",
-	"pinyin": "tǔlǔfāndìqū",
-	"parent": "650000"
-}, {
-	"level": 2,
-	"code": "652101",
+	"code": "650400",
 	"name": "吐鲁番市",
 	"initials": "tlfs",
 	"pinyin": "tǔlǔfānshì",
-	"parent": "652100"
-}, {
-	"level": 2,
-	"code": "652122",
-	"name": "鄯善县",
-	"initials": "ssx",
-	"pinyin": "shànshànxiàn",
-	"parent": "652100"
-}, {
-	"level": 2,
-	"code": "652123",
-	"name": "托克逊县",
-	"initials": "tkxx",
-	"pinyin": "tuōkèxùnxiàn",
-	"parent": "652100"
-}, {
-	"level": 1,
-	"code": "652200",
-	"name": "哈密地区",
-	"initials": "hmdq",
-	"pinyin": "hāmìdìqū",
 	"parent": "650000"
 }, {
 	"level": 2,
-	"code": "652201",
+	"code": "650402",
+	"name": "高昌区",
+	"initials": "gcq",
+	"pinyin": "gāochāngqū",
+	"parent": "650400"
+}, {
+	"level": 2,
+	"code": "650421",
+	"name": "鄯善县",
+	"initials": "ssx",
+	"pinyin": "shànshànxiàn",
+	"parent": "650400"
+}, {
+	"level": 2,
+	"code": "650422",
+	"name": "托克逊县",
+	"initials": "tkxx",
+	"pinyin": "tuōkèxùnxiàn",
+	"parent": "650400"
+}, {
+	"level": 1,
+	"code": "650500",
 	"name": "哈密市",
 	"initials": "hms",
 	"pinyin": "hāmìshì",
-	"parent": "652200"
+	"parent": "650000"
 }, {
 	"level": 2,
-	"code": "652222",
+	"code": "650502",
+	"name": "伊州区",
+	"initials": "yzq",
+	"pinyin": "yīzhōuqū",
+	"parent": "650500"
+}, {
+	"level": 2,
+	"code": "650521",
 	"name": "巴里坤哈萨克自治县",
 	"initials": "blkhskzzx",
 	"pinyin": "bālǐkūnhāsàkèzìzhìxiàn",
-	"parent": "652200"
+	"parent": "650500"
 }, {
 	"level": 2,
-	"code": "652223",
+	"code": "650522",
 	"name": "伊吾县",
 	"initials": "ywx",
 	"pinyin": "yīwúxiàn",
-	"parent": "652200"
+	"parent": "650500"
 }, {
 	"level": 1,
 	"code": "652300",
@@ -24070,6 +21851,13 @@
 	"name": "博乐市",
 	"initials": "bls",
 	"pinyin": "bólèshì",
+	"parent": "652700"
+}, {
+	"level": 2,
+	"code": "652702",
+	"name": "阿拉山口市",
+	"initials": "ālsks",
+	"pinyin": "ālāshānkǒushì",
 	"parent": "652700"
 }, {
 	"level": 2,
@@ -24171,17 +21959,17 @@
 	"parent": "652900"
 }, {
 	"level": 2,
+	"code": "652902",
+	"name": "库车市",
+	"initials": "kcs",
+	"pinyin": "kùchēshì",
+	"parent": "652900"
+}, {
+	"level": 2,
 	"code": "652922",
 	"name": "温宿县",
 	"initials": "wsx",
 	"pinyin": "wēnsùxiàn",
-	"parent": "652900"
-}, {
-	"level": 2,
-	"code": "652923",
-	"name": "库车县",
-	"initials": "kcx",
-	"pinyin": "kùchēxiàn",
 	"parent": "652900"
 }, {
 	"level": 2,
@@ -24437,6 +22225,13 @@
 	"parent": "654000"
 }, {
 	"level": 2,
+	"code": "654004",
+	"name": "霍尔果斯市",
+	"initials": "hěgss",
+	"pinyin": "huòěrguǒsīshì",
+	"parent": "654000"
+}, {
+	"level": 2,
 	"code": "654021",
 	"name": "伊宁县",
 	"initials": "ynx",
@@ -24604,38 +22399,73 @@
 	"pinyin": "jímùnǎixiàn",
 	"parent": "654300"
 }, {
-	"level": 1,
-	"code": "659000",
-	"name": "自治区直辖县级行政区划",
-	"initials": "zzqzxxjxzqh",
-	"pinyin": "zìzhìqūzhíxiáxiànjíxíngzhèngqūhuá",
-	"parent": "650000"
-}, {
 	"level": 2,
 	"code": "659001",
 	"name": "石河子市",
 	"initials": "shzs",
 	"pinyin": "shíhézǐshì",
-	"parent": "659000"
+	"parent": "654300"
 }, {
 	"level": 2,
 	"code": "659002",
 	"name": "阿拉尔市",
 	"initials": "ālěs",
 	"pinyin": "ālāěrshì",
-	"parent": "659000"
+	"parent": "654300"
 }, {
 	"level": 2,
 	"code": "659003",
 	"name": "图木舒克市",
 	"initials": "tmsks",
 	"pinyin": "túmùshūkèshì",
-	"parent": "659000"
+	"parent": "654300"
 }, {
 	"level": 2,
 	"code": "659004",
 	"name": "五家渠市",
 	"initials": "wjqs",
 	"pinyin": "wǔjiāqúshì",
-	"parent": "659000"
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659005",
+	"name": "北屯市",
+	"initials": "bts",
+	"pinyin": "běitúnshì",
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659006",
+	"name": "铁门关市",
+	"initials": "tmgs",
+	"pinyin": "tiěménguānshì",
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659007",
+	"name": "双河市",
+	"initials": "shs",
+	"pinyin": "shuānghéshì",
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659008",
+	"name": "可克达拉市",
+	"initials": "kkdls",
+	"pinyin": "kěkèdálāshì",
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659009",
+	"name": "昆玉市",
+	"initials": "kys",
+	"pinyin": "kūnyùshì",
+	"parent": "654300"
+}, {
+	"level": 2,
+	"code": "659010",
+	"name": "胡杨河市",
+	"initials": "hyhs",
+	"pinyin": "húyánghéshì",
+	"parent": "654300"
 }]
