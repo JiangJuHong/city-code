@@ -26,6 +26,10 @@ def getText():
 if __name__ == '__main__':
     text = getText()
     result = []
+
+    parentCode = {}
+    lastLevel = None
+    lastCode = None
     for item in text.split("\n"):
         if item == '':
             continue
@@ -39,15 +43,27 @@ if __name__ == '__main__':
         name = its[1]
         py = ""
 
+        # 层级发生改变时更新层级关系
+        if lastLevel != level:
+            lastLevel = level
+            lastCode = code
+            parentCode[level] = code
+
+        # 赋值拼音
         for key in list(name):
             py += pinyin.get(key)[0]
+
+        parent = None
+        if level != 0:
+            parent = parentCode[level - 1]
 
         result.append({
             "level": level,
             "code": code,
             "name": name,
             "initials": py,
-            "pinyin": pinyin.get(name)
+            "pinyin": pinyin.get(name),
+            "parent": parent,
         })
 
     print(json.dumps(result, ensure_ascii=False))
