@@ -6,7 +6,7 @@
 import requests
 import bs4
 import json
-import pinyin
+import pypinyin
 
 
 # 请求政府网，获得数据结构，返回行政区划代码、名称、级别
@@ -70,17 +70,12 @@ if __name__ == '__main__':
         level = item["level"]
         code = item["code"]
         name = item["name"]
-        py = ""
 
         # 层级发生改变时更新层级关系
         if lastLevel != level:
             lastLevel = level
             lastCode = code
             parentCode[level] = code
-
-        # 赋值拼音
-        for key in list(name):
-            py += pinyin.get(key)[0]
 
         parent = None
         if level != 0:
@@ -90,8 +85,8 @@ if __name__ == '__main__':
             "level": level,
             "code": code,
             "name": name,
-            "initials": py,
-            "pinyin": pinyin.get(name),
+            "initials": pypinyin.slug(name, style=pypinyin.Style.FIRST_LETTER, separator=""),
+            "pinyin": pypinyin.slug(name, style=pypinyin.Style.NORMAL, separator=""),
             "parent": parent,
         })
 

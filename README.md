@@ -14,7 +14,7 @@
 | name  | 名称         | 北京市        |
 | code  | 行政区划代码 | 110000        |
 | initials  | 拼音首字母缩写 | bjs       |
-| pinyin  | 完整拼音 | běijīngshì       |
+| pinyin  | 完整拼音 | beijingshi       |
 | parent  | 父级代码 | 110000       |
 
 ````json
@@ -24,7 +24,7 @@
         "code":"110000",
         "name":"北京市",
         "initials": "bjs",
-        "pinyin": "běijīngshì",
+        "pinyin": "beijingshi",
         "parent": null
   },
   {
@@ -32,7 +32,7 @@
         "code":"110000",
         "name":"北京市",
         "initials": "bjs",
-        "pinyin": "běijīngshì",
+        "pinyin": "beijingshi",
         "parent": "110000"
     }
 ]
